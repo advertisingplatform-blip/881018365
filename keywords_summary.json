@@ -191,5 +191,79 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T05:01:27.380Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 127
+      },
+      {
+        "word": "Zelenski",
+        "count": 97
+      },
+      {
+        "word": "Ucrainene",
+        "count": 43
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Noul",
+        "count": 29
+      },
+      {
+        "word": "București",
+        "count": 21
+      },
+      {
+        "word": "Europa",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T05:56:20.131Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 127
+      },
+      {
+        "word": "Zelenski",
+        "count": 97
+      },
+      {
+        "word": "Ucrainene",
+        "count": 43
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "București",
+        "count": 33
+      },
+      {
+        "word": "Noul",
+        "count": 29
+      },
+      {
+        "word": "Liceu",
+        "count": 11
+      },
+      {
+        "word": "Europa",
+        "count": 9
+      },
+      {
+        "word": "Brașov",
+        "count": 8
+      }
+    ]
   }
 ]
