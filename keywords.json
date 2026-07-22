@@ -440,5 +440,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T21:00:44.753Z",
+    "keywords": [
+      {
+        "word": "Ilie",
+        "count": 12
+      },
+      {
+        "word": "Grindeanu",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      }
+    ]
   }
 ]
