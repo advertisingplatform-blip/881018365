@@ -287,5 +287,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T12:00:37.177Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 13
+      },
+      {
+        "word": "euro",
+        "count": 11
+      },
+      {
+        "word": "devine",
+        "count": 8
+      }
+    ]
   }
 ]
