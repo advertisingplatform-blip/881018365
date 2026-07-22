@@ -412,5 +412,62 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T09:00:44.013Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 135
+      },
+      {
+        "word": "Zelenski",
+        "count": 97
+      },
+      {
+        "word": "București",
+        "count": 79
+      },
+      {
+        "word": "Ucrainene",
+        "count": 43
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Liceu",
+        "count": 31
+      },
+      {
+        "word": "Noul",
+        "count": 29
+      },
+      {
+        "word": "Trump",
+        "count": 19
+      },
+      {
+        "word": "Europa",
+        "count": 9
+      },
+      {
+        "word": "Brașov",
+        "count": 8
+      },
+      {
+        "word": "Incendiu",
+        "count": 8
+      },
+      {
+        "word": "Milioane",
+        "count": 8
+      },
+      {
+        "word": "Nicușor",
+        "count": 8
+      }
+    ]
   }
 ]
