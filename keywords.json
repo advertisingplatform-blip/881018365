@@ -219,5 +219,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T08:00:52.275Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "armatei",
+        "count": 8
+      }
+    ]
   }
 ]
