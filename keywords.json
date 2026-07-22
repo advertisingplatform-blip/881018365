@@ -151,5 +151,39 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T05:01:26.063Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Noul",
+        "count": 9
+      },
+      {
+        "word": "armatei",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T05:56:18.987Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 12
+      },
+      {
+        "word": "liceu",
+        "count": 11
+      },
+      {
+        "word": "Brașov",
+        "count": 8
+      }
+    ]
   }
 ]
