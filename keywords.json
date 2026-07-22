@@ -338,5 +338,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T15:02:20.183Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "TAROM",
+        "count": 7
+      }
+    ]
   }
 ]
