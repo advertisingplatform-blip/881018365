@@ -270,5 +270,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T11:00:40.302Z",
+    "keywords": [
+      {
+        "word": "legea",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "București",
+        "count": 9
+      }
+    ]
   }
 ]
