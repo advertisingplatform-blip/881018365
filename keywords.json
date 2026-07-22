@@ -185,5 +185,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T06:00:48.156Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "liceu",
+        "count": 9
+      },
+      {
+        "word": "incendiu",
+        "count": 8
+      }
+    ]
   }
 ]
