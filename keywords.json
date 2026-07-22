@@ -253,5 +253,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T10:00:44.262Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 14
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "roșu",
+        "count": 7
+      }
+    ]
   }
 ]
