@@ -321,5 +321,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T14:00:52.189Z",
+    "keywords": [
+      {
+        "word": "Grindeanu",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Nicușor",
+        "count": 7
+      }
+    ]
   }
 ]
