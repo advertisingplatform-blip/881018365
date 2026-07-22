@@ -1267,5 +1267,106 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T20:00:56.455Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 163
+      },
+      {
+        "word": "Armatei",
+        "count": 135
+      },
+      {
+        "word": "Zelenski",
+        "count": 97
+      },
+      {
+        "word": "Trump",
+        "count": 67
+      },
+      {
+        "word": "Grindeanu",
+        "count": 44
+      },
+      {
+        "word": "Ucrainene",
+        "count": 43
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Liceu",
+        "count": 31
+      },
+      {
+        "word": "Noul",
+        "count": 29
+      },
+      {
+        "word": "Milioane",
+        "count": 25
+      },
+      {
+        "word": "Euro",
+        "count": 24
+      },
+      {
+        "word": "Nicușor",
+        "count": 15
+      },
+      {
+        "word": "Tarom",
+        "count": 13
+      },
+      {
+        "word": "Legea",
+        "count": 10
+      },
+      {
+        "word": "Europa",
+        "count": 9
+      },
+      {
+        "word": "Brașov",
+        "count": 8
+      },
+      {
+        "word": "Incendiu",
+        "count": 8
+      },
+      {
+        "word": "Devine",
+        "count": 8
+      },
+      {
+        "word": "Ilie",
+        "count": 8
+      },
+      {
+        "word": "Sorin",
+        "count": 8
+      },
+      {
+        "word": "Roșu",
+        "count": 7
+      },
+      {
+        "word": "Miliarde",
+        "count": 7
+      },
+      {
+        "word": "Interimar",
+        "count": 6
+      },
+      {
+        "word": "Curtea",
+        "count": 6
+      }
+    ]
   }
 ]
