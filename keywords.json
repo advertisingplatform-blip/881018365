@@ -1,0 +1,155 @@
+[
+  {
+    "timestamp": "2026-07-21T22:42:37.654Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 13
+      },
+      {
+        "word": "demis",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-21T22:49:56.848Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 13
+      },
+      {
+        "word": "demis",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-21T23:00:43.421Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 13
+      },
+      {
+        "word": "demis",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T00:00:45.969Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 12
+      },
+      {
+        "word": "ucrainene",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T00:08:56.710Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 12
+      },
+      {
+        "word": "ucrainene",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T01:02:46.173Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 12
+      },
+      {
+        "word": "ucrainene",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T02:01:08.833Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 14
+      },
+      {
+        "word": "Zelenski",
+        "count": 11
+      },
+      {
+        "word": "ucrainene",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T04:00:41.684Z",
+    "keywords": [
+      {
+        "word": "armatei",
+        "count": 14
+      },
+      {
+        "word": "Zelenski",
+        "count": 11
+      },
+      {
+        "word": "noul",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T04:57:35.699Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Noul",
+        "count": 10
+      },
+      {
+        "word": "Europa",
+        "count": 9
+      }
+    ]
+  }
+]

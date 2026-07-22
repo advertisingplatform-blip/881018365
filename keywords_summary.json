@@ -1,0 +1,195 @@
+[
+  {
+    "timestamp": "2026-07-21T22:42:39.086Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 13
+      },
+      {
+        "word": "Demis",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-21T22:49:57.732Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 30
+      },
+      {
+        "word": "Zelenski",
+        "count": 26
+      },
+      {
+        "word": "Demis",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-21T23:00:44.851Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 45
+      },
+      {
+        "word": "Zelenski",
+        "count": 39
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T00:00:47.483Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 60
+      },
+      {
+        "word": "Zelenski",
+        "count": 51
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Ucrainene",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T00:08:57.705Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 75
+      },
+      {
+        "word": "Zelenski",
+        "count": 63
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Ucrainene",
+        "count": 22
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T01:02:47.686Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 90
+      },
+      {
+        "word": "Zelenski",
+        "count": 75
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Ucrainene",
+        "count": 33
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T02:01:10.269Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 104
+      },
+      {
+        "word": "Zelenski",
+        "count": 86
+      },
+      {
+        "word": "Ucrainene",
+        "count": 43
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T04:00:42.992Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 118
+      },
+      {
+        "word": "Zelenski",
+        "count": 97
+      },
+      {
+        "word": "Ucrainene",
+        "count": 43
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Noul",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-22T04:57:36.855Z",
+    "keywords": [
+      {
+        "word": "Armatei",
+        "count": 118
+      },
+      {
+        "word": "Zelenski",
+        "count": 97
+      },
+      {
+        "word": "Ucrainene",
+        "count": 43
+      },
+      {
+        "word": "Demis",
+        "count": 33
+      },
+      {
+        "word": "Noul",
+        "count": 20
+      },
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Europa",
+        "count": 9
+      }
+    ]
+  }
+]
