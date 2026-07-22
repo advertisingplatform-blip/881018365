@@ -474,5 +474,22 @@
         "count": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T23:00:54.943Z",
+    "keywords": [
+      {
+        "word": "Ilie",
+        "count": 12
+      },
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Rusiei",
+        "count": 9
+      }
+    ]
   }
 ]
