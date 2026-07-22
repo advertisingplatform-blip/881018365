@@ -355,5 +355,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T16:00:39.790Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 7
+      },
+      {
+        "word": "interimar",
+        "count": 6
+      },
+      {
+        "word": "Curtea",
+        "count": 6
+      }
+    ]
   }
 ]
