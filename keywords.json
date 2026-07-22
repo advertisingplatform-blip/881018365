@@ -202,5 +202,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-22T07:03:55.543Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 12
+      },
+      {
+        "word": "liceu",
+        "count": 11
+      },
+      {
+        "word": "milioane",
+        "count": 8
+      }
+    ]
   }
 ]
