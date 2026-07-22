@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Știri culese din surse alese</title>
+  <link href='favicon.ico' rel='icon' type='image/x-icon'/>
+  <link href='logo.png' rel='apple-touch-icon'/>
+  <meta content='favicon.ico' name='msapplication-TileImage'/>
+  <meta property="og:title" content="Știri culese din surse alese">
+  <meta property="og:description" content="Agregator de știri diverse pentru informare rapidă. Actualizare la 30 min.">
+  <meta property="og:image" content="og-image.png">
+  <meta property="og:url" content="https://www.88108365.xyz/">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-93B8GHKWYS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-93B8GHKWYS');
+</script>
+<body>
+<header>
+  <a href="/" class="brand">
+    <img src="logo.png" alt="Logo site" class="logo">
+    <div>
+      <span class="brand-title">
+        <span class="nowrap">Știri culese din surse alese</span>
+      </span><br>
+      <small id="keywords" style="font-size: 0.8em; color: gray; display: block; margin-top: 4px;">
+        Cuvintele cheie ale orei: ...
+      </small>
+    </div>
+  </a>
+  <button id="theme-toggle" title="Comută tema">☀️</button>
+</header>
+
+  <main id="news-container"><a class="card" href="/cuvinte.html" rel="noopener noreferrer">
+    <img src="3.jpg" alt="Top 3 cele mai întâlnite cuvinte în titlurile știrilor. Evoluția în ultimele 24 de ore.">
+    <div class="card-content">
+      <h2>Top 3 cele mai întâlnite cuvinte în titlurile știrilor. Vezi evoluția în ultimele 24 de ore.</h2>
+      <div class="source">
+        <img class="favicon" src="favicon.ico" alt=""> 88108355.xyz • acum câteva minute
+      </div>
+    </div>
+  </a></main>
+  <div id="loading">Se încarcă...</div>
+  <script>
+fetch('keywords.json')
+  .then(response => response.json())
+  .then(data => {
+    if (!Array.isArray(data) || data.length === 0) return;
+
+    const latest = data[data.length - 1];
+    const words = latest.keywords.map(kw => kw.word).join(', ');
+    const ora = new Date(latest.timestamp).toLocaleTimeString('ro-RO', {
+      hour: '2-digit',
+      minute: '2-digit'
+    });
+
+    document.getElementById('keywords').textContent = `${ora} ► ${words}`;
+  })
+  .catch(() => {
+    document.getElementById('keywords').style.display = 'none';
+  });
+</script>
+
+</body>
+</html>

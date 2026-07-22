@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Știri culese din surse alese - cuvinte cheie in ultimele 24 de ore</title>
+  <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/xy.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+  <script src="https://cdn.amcharts.com/lib/5/themes/Dark.js"></script>
+  <link href='favicon.ico' rel='icon' type='image/x-icon' />
+  <link href='logo.png' rel='apple-touch-icon' />
+  <meta content='favicon.ico' name='msapplication-TileImage' />
+  <meta property="og:title" content="Evoluția cuvintelor cheie în titlurile știrilor" />
+  <meta property="og:description" content="Evoluția celor mai întâlnite cuvinte în titlurile știrilor din ultimele 24 de ore." />
+  <meta property="og:image" content="og-image.png" />
+  <meta property="og:url" content="https://www.88108365.xyz/cuvinte.html" />
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="script.js"></script>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-93B8GHKWYS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-93B8GHKWYS');
+</script>
+<body>
+  <header>
+    <a href="/" class="brand">
+      <img src="logo.png" alt="Logo site" class="logo" />
+      <div>
+        <span class="brand-title"><span class="nowrap">Știri culese din surse alese</span></span><br />
+        <small id="keywords" style="font-size: 0.8em; color: gray; display: block; margin-top: 4px;">
+          Cuvintele cheie ale orei: ...
+        </small>
+      </div>
+    </a>
+    <button id="theme-toggle" title="Comută tema">☀️</button>
+  </header>
+
+  <main>
+    <style>
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        font-family: sans-serif;
+      }
+
+      #chartdiv {
+        width: 100%;
+        height: 600px;
+      }
+
+      #controls {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+        margin: 30px 0;
+        font-size: 16px;
+      }
+
+      #controlRow {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        gap: 10px;
+      }
+
+      #toggleBtn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        width: 32px;
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: -20px;
+      }
+
+      #toggleBtn svg {
+        width: 100%;
+        height: 100%;
+      }
+
+      #sliderContainer {
+        position: relative;
+        width: 80%;
+      }
+
+      #sliderTooltip {
+        position: absolute;
+        top: -28px;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        font-size: 12px;
+        padding: 2px 6px;
+        border-radius: 4px;
+        white-space: nowrap;
+        pointer-events: none;
+        visibility: hidden;
+      }
+
+      #timeSlider {
+        width: 100%;
+      }
+
+      #timestamps {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        font-size: 12px;
+        margin-top: 2px;
+      }
+	  
+		/* Grupul de butoane */
+		.toggle-group {
+		display: flex;
+		justify-content: center;
+		gap: 8px;
+		flex-wrap: wrap;
+		padding: 16px;
+		}
+
+		/* Buton normal */
+		.toggle-button {
+		  padding: 8px 16px;
+		  border: 1px solid transparent;
+		  border-radius: 8px;
+		  background-color: var(--card-bg-light);
+		  color: var(--text-color-light);
+		  font-size: 0.9rem;
+		  cursor: pointer;
+		  transition: background-color 0.2s, color 0.2s, border-color 0.2s;
+		}
+
+		/* Tema dark */
+		body.dark .toggle-button {
+		  background-color: var(--card-bg-dark);
+		  color: var(--text-color-dark);
+		}
+
+		/* Buton activ */
+		.toggle-button.active {
+		  background-color: color-mix(in srgb, var(--card-bg-light) 85%, var(--text-color-light));
+		  color: var(--text-color-light);
+		  border-color: var(--text-color-light);
+		}
+
+		/* Buton activ în tema dark */
+		body.dark .toggle-button.active {
+		  background-color: color-mix(in srgb, var(--card-bg-dark) 85%, var(--text-color-dark));
+		  color: var(--text-color-dark);
+		  border-color: var(--text-color-dark);
+		}
+    </style>
+
+    <h2 style="text-align: center;">
+      Evoluția celor mai întâlnite cuvinte în titlurile știrilor din ultimele 24 de ore.
+    </h2>
+    <div id="chartdiv"></div>
+
+    <div id="controls">
+      <div id="controlRow">
+        <button id="toggleBtn" title="Play/Pause">
+          <svg id="playPauseIcon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z" /></svg>
+        </button>
+        <div id="sliderContainer">
+          <div id="sliderTooltip">--</div>
+          <input type="range" id="timeSlider" min="0" max="0" value="0" />
+          <div id="timestamps">
+            <span id="startTime">--</span>
+            <span id="endTime" style="margin-left: auto;">--</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	<div class="toggle-group">
+		<a href="#" class="toggle-button active">24 de ore</a>
+		<a href="evolutie-cuvinte-48-ore.html" class="toggle-button">48 de ore</a>
+		<a href="evolutie-cuvinte-7-zile.html" class="toggle-button">7 zile</a>
+		<a href="evolutie-cuvinte-30-zile.html" class="toggle-button">30 de zile</a>
+	</div>
+	
+    <script>
+      am5.ready(function () {
+        var root = am5.Root.new("chartdiv");
+
+        // Funcție pentru aplicarea temei după ce root e definit
+        function applyChartTheme() {
+          const isDark = document.body.classList.contains("dark");
+          root.setThemes([]);
+          if (isDark) {
+            root.setThemes([am5themes_Dark.new(root)]);
+          } else {
+            root.setThemes([am5themes_Animated.new(root)]);
+          }
+        }
+
+        // Aplică tema imediat la inițializare
+        applyChartTheme();
+
+        // Ascultă modificări pe clasa body pentru schimbări de temă dinamice
+        const observer = new MutationObserver(() => {
+          applyChartTheme();
+        });
+        observer.observe(document.body, { attributes: true, attributeFilter: ["class"] });
+
+        // Crearea graficului
+        var chart = root.container.children.push(
+          am5xy.XYChart.new(root, {
+            panX: false,
+            panY: false,
+            wheelX: "none",
+            wheelY: "none",
+            paddingLeft: 0,
+          })
+        );
+
+        chart.zoomOutButton.set("forceHidden", true);
+
+        var yAxis = chart.yAxes.push(
+          am5xy.CategoryAxis.new(root, {
+            categoryField: "word",
+            renderer: am5xy.AxisRendererY.new(root, { inversed: true, minGridDistance: 20 }),
+          })
+        );
+
+        var xAxis = chart.xAxes.push(
+          am5xy.ValueAxis.new(root, {
+            min: 0,
+            numberFormatter: am5.NumberFormatter.new(root, { numberFormat: "#,###a" }),
+            extraMax: 0.1,
+            renderer: am5xy.AxisRendererX.new(root, { strokeOpacity: 0.1, minGridDistance: 80 }),
+          })
+        );
+
+        var series = chart.series.push(
+          am5xy.ColumnSeries.new(root, {
+            name: "Keyword count",
+            xAxis: xAxis,
+            yAxis: yAxis,
+            valueXField: "count",
+            categoryYField: "word",
+            tooltip: am5.Tooltip.new(root, {
+              pointerOrientation: "left",
+              labelText: "{categoryY}: {valueX}",
+            }),
+          })
+        );
+
+        series.columns.template.setAll({
+          cornerRadiusTR: 5,
+          cornerRadiusBR: 5,
+          strokeOpacity: 0,
+        });
+
+        series.columns.template.adapters.add("fill", (fill, target) =>
+          chart.get("colors").getIndex(series.columns.indexOf(target))
+        );
+        series.columns.template.adapters.add("stroke", (stroke, target) =>
+          chart.get("colors").getIndex(series.columns.indexOf(target))
+        );
+
+        let jsonData = [];
+        let currentIndex = 0;
+        let allWordsSet = new Set();
+        let initialized = false;
+
+        const slider = document.getElementById("timeSlider");
+        const sliderTooltip = document.getElementById("sliderTooltip");
+        const toggleBtn = document.getElementById("toggleBtn");
+        const playPauseIcon = document.getElementById("playPauseIcon");
+
+        function updateTooltipPosition(index) {
+          const percent = index / (jsonData.length - 1);
+          const ts = new Date(jsonData[index].timestamp);
+          sliderTooltip.style.left = `${percent * 100}%`;
+          sliderTooltip.innerText = ts.toLocaleString("ro-RO", {
+            day: "2-digit",
+            month: "2-digit",
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: false,
+          });
+          sliderTooltip.style.visibility = "visible";
+        }
+
+        function updateGraphAt(index) {
+          if (!jsonData.length || index >= jsonData.length) return;
+          const entry = jsonData[index];
+          const countsMap = {};
+          entry.keywords.forEach((k) => (countsMap[k.word] = k.count));
+
+          const fullData = Array.from(allWordsSet).map((word) => ({
+            word,
+            count: countsMap[word] || 0,
+          }));
+
+          updateTooltipPosition(index);
+
+          if (!initialized) {
+            yAxis.data.setAll(fullData);
+            series.data.setAll(fullData);
+            initialized = true;
+          } else {
+            fullData.forEach((k) => {
+              const dataItem = series.dataItems.find((di) => di.get("categoryY") === k.word);
+              if (dataItem) {
+                const newVal = k.count;
+                dataItem.set("valueX", newVal);
+                dataItem.animate({
+                  key: "valueXWorking",
+                  to: newVal,
+                  duration: 600,
+                  easing: am5.ease.out(am5.ease.cubic),
+                });
+              }
+            });
+          }
+          sortCategoryAxis();
+          currentIndex = index;
+        }
+
+        function sortCategoryAxis() {
+          series.dataItems.sort((a, b) => b.get("valueX") - a.get("valueX"));
+          am5.array.each(yAxis.dataItems, function (dataItem) {
+            const seriesDataItem = series.dataItems.find((item) => item.get("categoryY") === dataItem.get("category"));
+            if (seriesDataItem) {
+              const index = series.dataItems.indexOf(seriesDataItem);
+              const deltaPosition = (index - dataItem.get("index", 0)) / series.dataItems.length;
+              dataItem.set("index", index);
+              dataItem.set("deltaPosition", -deltaPosition);
+              dataItem.animate({
+                key: "deltaPosition",
+                to: 0,
+                duration: 1000,
+                easing: am5.ease.out(am5.ease.cubic),
+              });
+            }
+          });
+          yAxis.dataItems.sort((a, b) => a.get("index") - b.get("index"));
+        }
+
+        let intervalID;
+        let playing = true;
+
+        function startInterval() {
+          intervalID = setInterval(() => {
+            updateGraphAt(currentIndex);
+            slider.value = currentIndex;
+            currentIndex = (currentIndex + 1) % jsonData.length;
+          }, 1000);
+          playPauseIcon.innerHTML = '<path d="M6 5h4v14H6zm8 0h4v14h-4z"/>';
+          playing = true;
+        }
+
+        function stopInterval() {
+          clearInterval(intervalID);
+          playPauseIcon.innerHTML = '<path d="M8 5v14l11-7z"/>';
+          playing = false;
+        }
+
+        toggleBtn.addEventListener("click", () => {
+          if (playing) stopInterval();
+          else startInterval();
+        });
+
+        slider.addEventListener("input", (e) => {
+          stopInterval();
+          updateGraphAt(Number(e.target.value));
+        });
+
+        fetch("/keywords_summary.json")
+  .then((res) => res.json())
+  .then((data) => {
+    const now = Date.now();
+    const last24hData = data.filter(entry => {
+      const entryTime = new Date(entry.timestamp).getTime();
+      return now - entryTime <= 24 * 60 * 60 * 1000;
+    });
+
+    if (last24hData.length === 0) {
+      console.warn("Nu există date în ultimele 24 de ore.");
+      return;
+    }
+
+	jsonData = last24hData;
+	slider.max = jsonData.length - 1;
+
+	// Calcul frecvență cuvinte din ultimele 24 de ore
+	let wordFrequency = {};
+	jsonData.forEach(entry => {
+	  entry.keywords.forEach(k => {
+		wordFrequency[k.word] = (wordFrequency[k.word] || 0) + k.count;
+	  });
+	});
+
+	// Extrage cele mai frecvente N cuvinte
+	let topN = 12;
+	let topWords = Object.entries(wordFrequency)
+	  .sort((a, b) => b[1] - a[1])
+	  .slice(0, topN)
+	  .map(([word]) => word);
+
+	// Setează doar acele cuvinte în allWordsSet
+	allWordsSet = new Set(topWords);
+
+    document.getElementById("startTime").innerText = new Date(jsonData[0].timestamp).toLocaleString("ro-RO", {
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      hour12: false,
+    });
+
+    document.getElementById("endTime").innerText = new Date(jsonData[jsonData.length - 1].timestamp).toLocaleString("ro-RO", {
+      day: "2-digit",
+      month: "2-digit",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      hour12: false,
+    });
+
+    updateGraphAt(0);
+    startInterval();
+  })
+  .catch((err) => {
+    console.error("Eroare la încărcarea datelor:", err);
+  });
+
+        series.appear(1000);
+        chart.appear(1000, 100);
+      });
+    </script>
+  </main>
+
+  <script>
+    fetch("keywords.json")
+      .then((response) => response.json())
+      .then((data) => {
+        if (!Array.isArray(data) || data.length === 0) return;
+
+        const latest = data[data.length - 1];
+        const words = latest.keywords.map((kw) => kw.word).join(", ");
+        const ora = new Date(latest.timestamp).toLocaleTimeString("ro-RO", {
+          hour: "2-digit",
+          minute: "2-digit",
+        });
+
+        document.getElementById("keywords").textContent = `${ora} ► ${words}`;
+      })
+      .catch(() => {
+        document.getElementById("keywords").style.display = "none";
+      });
+  </script>
+</body>
+</html>
