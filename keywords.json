@@ -848,5 +848,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T22:00:29.502Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 17
+      },
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "Cluj",
+        "count": 9
+      }
+    ]
   }
 ]
