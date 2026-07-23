@@ -695,5 +695,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T13:00:36.435Z",
+    "keywords": [
+      {
+        "word": "Guvernul",
+        "count": 12
+      },
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "Marea",
+        "count": 8
+      }
+    ]
   }
 ]
