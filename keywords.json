@@ -593,5 +593,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T07:00:41.527Z",
+    "keywords": [
+      {
+        "word": "Ilie",
+        "count": 12
+      },
+      {
+        "word": "euro",
+        "count": 9
+      },
+      {
+        "word": "dolari",
+        "count": 8
+      }
+    ]
   }
 ]
