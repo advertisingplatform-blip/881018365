@@ -661,5 +661,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T11:00:52.296Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 15
+      },
+      {
+        "word": "Ilie",
+        "count": 9
+      },
+      {
+        "word": "milioane",
+        "count": 8
+      }
+    ]
   }
 ]
