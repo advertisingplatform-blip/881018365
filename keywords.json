@@ -678,5 +678,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T12:00:46.134Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 18
+      },
+      {
+        "word": "Guvernul",
+        "count": 13
+      },
+      {
+        "word": "milioane",
+        "count": 10
+      }
+    ]
   }
 ]
