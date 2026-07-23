@@ -712,5 +712,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T14:00:41.020Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 9
+      },
+      {
+        "word": "Marea",
+        "count": 9
+      },
+      {
+        "word": "miliarde",
+        "count": 7
+      }
+    ]
   }
 ]
