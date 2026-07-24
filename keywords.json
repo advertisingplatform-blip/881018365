@@ -967,5 +967,22 @@
         "count": 13
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-24T05:00:29.974Z",
+    "keywords": [
+      {
+        "word": "Marea",
+        "count": 16
+      },
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Neagră",
+        "count": 10
+      }
+    ]
   }
 ]
