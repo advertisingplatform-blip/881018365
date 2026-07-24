@@ -1137,5 +1137,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-24T15:01:47.734Z",
+    "keywords": [
+      {
+        "word": "României",
+        "count": 13
+      },
+      {
+        "word": "drona",
+        "count": 13
+      },
+      {
+        "word": "aproape",
+        "count": 10
+      }
+    ]
   }
 ]
