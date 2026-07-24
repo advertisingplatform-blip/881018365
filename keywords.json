@@ -1001,5 +1001,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-24T07:00:40.702Z",
+    "keywords": [
+      {
+        "word": "Marea",
+        "count": 11
+      },
+      {
+        "word": "drone",
+        "count": 10
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      }
+    ]
   }
 ]
