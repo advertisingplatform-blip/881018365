@@ -1307,5 +1307,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T01:01:48.189Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 18
+      },
+      {
+        "word": "doborâtă",
+        "count": 9
+      },
+      {
+        "word": "drona",
+        "count": 8
+      }
+    ]
   }
 ]
