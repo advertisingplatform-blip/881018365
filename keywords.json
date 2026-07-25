@@ -1494,5 +1494,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T12:01:01.190Z",
+    "keywords": [
+      {
+        "word": "dronă",
+        "count": 13
+      },
+      {
+        "word": "drone",
+        "count": 12
+      },
+      {
+        "word": "ajuns",
+        "count": 10
+      }
+    ]
   }
 ]
