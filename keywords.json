@@ -1392,5 +1392,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T06:00:31.045Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Europa",
+        "count": 8
+      },
+      {
+        "word": "României",
+        "count": 7
+      }
+    ]
   }
 ]
