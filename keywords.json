@@ -1545,5 +1545,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T15:01:41.842Z",
+    "keywords": [
+      {
+        "word": "drone",
+        "count": 15
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "Marea",
+        "count": 9
+      }
+    ]
   }
 ]
