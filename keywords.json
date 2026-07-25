@@ -1375,5 +1375,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T05:00:33.200Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "Weekend",
+        "count": 8
+      },
+      {
+        "word": "Europa",
+        "count": 8
+      }
+    ]
   }
 ]
