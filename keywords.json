@@ -1562,5 +1562,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-25T16:00:36.267Z",
+    "keywords": [
+      {
+        "word": "drone",
+        "count": 17
+      },
+      {
+        "word": "dronelor",
+        "count": 11
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      }
+    ]
   }
 ]
