@@ -1766,5 +1766,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T05:00:29.396Z",
+    "keywords": [
+      {
+        "word": "Rusia",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "intrat",
+        "count": 9
+      }
+    ]
   }
 ]
