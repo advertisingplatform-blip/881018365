@@ -1783,5 +1783,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T06:00:29.321Z",
+    "keywords": [
+      {
+        "word": "Rusia",
+        "count": 11
+      },
+      {
+        "word": "Zelenski",
+        "count": 8
+      },
+      {
+        "word": "Pride",
+        "count": 8
+      }
+    ]
   }
 ]
