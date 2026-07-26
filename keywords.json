@@ -2038,5 +2038,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T23:00:31.078Z",
+    "keywords": [
+      {
+        "word": "României",
+        "count": 14
+      },
+      {
+        "word": "Băsescu",
+        "count": 13
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      }
+    ]
   }
 ]
