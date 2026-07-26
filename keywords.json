@@ -1749,5 +1749,22 @@
         "count": 13
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T04:00:37.121Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 15
+      },
+      {
+        "word": "Rusia",
+        "count": 13
+      },
+      {
+        "word": "drone",
+        "count": 11
+      }
+    ]
   }
 ]
