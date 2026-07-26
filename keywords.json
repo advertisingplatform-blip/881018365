@@ -1936,5 +1936,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T15:00:37.102Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "României",
+        "count": 12
+      },
+      {
+        "word": "drone",
+        "count": 10
+      }
+    ]
   }
 ]
