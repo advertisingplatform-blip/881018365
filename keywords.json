@@ -1953,5 +1953,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-26T16:00:26.107Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "drone",
+        "count": 11
+      },
+      {
+        "word": "războiul",
+        "count": 9
+      }
+    ]
   }
 ]
