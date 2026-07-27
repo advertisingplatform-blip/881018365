@@ -2072,5 +2072,22 @@
         "count": 13
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T01:01:14.872Z",
+    "keywords": [
+      {
+        "word": "României",
+        "count": 14
+      },
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "Rusia",
+        "count": 11
+      }
+    ]
   }
 ]
