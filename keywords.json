@@ -2310,5 +2310,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T15:00:30.202Z",
+    "keywords": [
+      {
+        "word": "României",
+        "count": 10
+      },
+      {
+        "word": "Ucraina",
+        "count": 8
+      },
+      {
+        "word": "milioane",
+        "count": 7
+      }
+    ]
   }
 ]
