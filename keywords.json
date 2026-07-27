@@ -2446,5 +2446,39 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T23:01:29.887Z",
+    "keywords": [
+      {
+        "word": "Grindeanu",
+        "count": 11
+      },
+      {
+        "word": "dronelor",
+        "count": 11
+      },
+      {
+        "word": "Rusia",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-07-27T23:03:45.810Z",
+    "keywords": [
+      {
+        "word": "Grindeanu",
+        "count": 11
+      },
+      {
+        "word": "dronelor",
+        "count": 11
+      },
+      {
+        "word": "Rusia",
+        "count": 11
+      }
+    ]
   }
 ]
