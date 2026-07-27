@@ -2276,5 +2276,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T13:00:44.294Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 12
+      },
+      {
+        "word": "Rusiei",
+        "count": 10
+      },
+      {
+        "word": "amenzi",
+        "count": 8
+      }
+    ]
   }
 ]
