@@ -2327,5 +2327,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T16:00:36.121Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "Adrian",
+        "count": 8
+      },
+      {
+        "word": "Rusiei",
+        "count": 8
+      }
+    ]
   }
 ]
