@@ -2123,5 +2123,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T04:01:08.898Z",
+    "keywords": [
+      {
+        "word": "Băsescu",
+        "count": 11
+      },
+      {
+        "word": "României",
+        "count": 11
+      },
+      {
+        "word": "Traian",
+        "count": 9
+      }
+    ]
   }
 ]
