@@ -2191,5 +2191,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T08:02:34.756Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 14
+      },
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "aerian",
+        "count": 10
+      }
+    ]
   }
 ]
