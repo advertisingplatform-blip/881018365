@@ -2140,5 +2140,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T05:00:44.542Z",
+    "keywords": [
+      {
+        "word": "României",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "Marea",
+        "count": 7
+      }
+    ]
   }
 ]
