@@ -2174,5 +2174,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T07:00:30.938Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 15
+      },
+      {
+        "word": "României",
+        "count": 14
+      },
+      {
+        "word": "nouă",
+        "count": 8
+      }
+    ]
   }
 ]
