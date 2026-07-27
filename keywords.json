@@ -2208,5 +2208,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-27T09:02:01.938Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "României",
+        "count": 11
+      },
+      {
+        "word": "drone",
+        "count": 9
+      }
+    ]
   }
 ]
