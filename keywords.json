@@ -2633,5 +2633,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T09:00:39.033Z",
+    "keywords": [
+      {
+        "word": "alertă",
+        "count": 11
+      },
+      {
+        "word": "aproape",
+        "count": 11
+      },
+      {
+        "word": "Cutremur",
+        "count": 9
+      }
+    ]
   }
 ]
