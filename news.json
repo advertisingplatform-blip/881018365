@@ -1,17 +1,437 @@
 [
   {
-    "title": "Moscova, ţintă unui nou atac ucrainean cu drone. Activitatea aeroporturilor din Moscova a fost sistată temporar",
-    "link": "https://www.libertatea.ro/stiri/atac-masiv-drone-moscova-aeroporturi-inchise-explozii-crimeea-5830654",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/atac-drone-moscova-aeroporturi-inchise-explozii-crimeea-28-iulie-2026--jpg-620x362.jpeg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-28T03:56:11.000Z"
+    "title": "Marea Britanie va furniza Ucrainei o nouă tehnologie de bruiaj pentru a proteja dronele ucrainene în timpul războiului",
+    "link": "https://tvrinfo.ro/marea-britanie-va-furniza-ucrainei-o-noua-tehnologie-de-bruiaj-pentru-a-proteja-dronele-ucrainene-in-timpul-razboiului/",
+    "image": "https://tvrinfo.ro/wp-content/uploads/2026/07/profimedia-1119136211.jpg",
+    "source": "tvrinfo.ro",
+    "pubDate": "2026-07-28T05:00:16.000Z"
   },
   {
-    "title": "Primăria București vrea să consolideze blocuri cu risc seismic, dar susține că 10% dintre locatari blochează proiectul. Anunță că va merge în instanță",
-    "link": "https://www.g4media.ro/primaria-bucuresti-vrea-sa-consolideze-blocuri-cu-risc-seismic-dar-sustine-ca-10-dintre-locatari-blocheaza-proiectul-anunta-ca-va-merge-in-instanta.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2023/03/FB1A0899.jpg",
+    "title": "SANITAS începe greva generală în sistemul public de sănătate / Angajații din peste 400 de spitale din țară participă la protest",
+    "link": "https://www.g4media.ro/sanitas-incepe-greva-generala-in-sistemul-public-de-sanatate-angajatii-din-peste-400-de-spitale-din-tara-participa-la-protest.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/01/FB1A2207.jpg",
     "source": "www.g4media.ro",
-    "pubDate": "2026-07-28T03:55:37.000Z"
+    "pubDate": "2026-07-28T04:59:28.000Z"
+  },
+  {
+    "title": "Atac cu drone asupra Moscovei. Trei aeroporturi au impus restricții de zbor",
+    "link": "https://www.realitatea.net/stiri/actualitate/atac-cu-drone-asupra-moscovei-trei-aeroporturi-au-impus-restrictii-de-zbor-zsh3gx",
+    "image": "https://www.realitatea.net/storage/media/7/2026/07/atac-drone-moscova-captura-ukrinform-glVJ9b.webp",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:57:03.000Z"
+  },
+  {
+    "title": "Sute de avioane Boeing 737 MAX trebuie verificate după descoperirea unei erori la montarea scaunelor",
+    "link": "https://www.g4media.ro/sute-de-avioane-boeing-737-max-trebuie-verificate-dupa-descoperirea-unei-erori-la-montarea-scaunelor.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/10/Boeing-737-max-8.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:56:50.000Z"
+  },
+  {
+    "title": "Zelenski, după vizita cu noul premier britanic la Baza Navală din Portsmouth: Ucraina se apropie din ce în ce mai mult de țările NATO",
+    "link": "https://www.digi24.ro/stiri/externe/zelenski-dupa-vizita-cu-noul-premier-britanic-la-baza-navala-din-portsmouth-ucraina-se-apropie-din-ce-in-ce-mai-mult-de-tarile-nato-3881233",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI4JTJGMjg3MTE0MF8yODcx/MTQwX3Byb2ZpbWVkaWEtMTExOTE0Mzk0/OC5qcGcmaGFzaD0xMThiMWQzNWQ5NTI2ODVkN2JmMzA1OTIxYzBiMTgxNw==.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:55:38.000Z"
+  },
+  {
+    "title": "Scumpirile nu se opresc: El Niño poate reduce recoltele, iar prețurile alimentelor ar putea exploda",
+    "link": "https://www.realitatea.net/stiri/actualitate/scumpirile-nu-se-opresc-el-nino-poate-reduce-recoltele-iar-preturile-alimentelor-ar-putea-exploda-w6xpr7",
+    "image": "https://www.realitatea.net/storage/media/7/2026/06/fenomenul-el-nino-r5Ua8w.webp",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:54:15.000Z"
+  },
+  {
+    "title": "Tensiuni între Lula şi Milei după ce şi-au zis pe nume şi fiecare a crezut că celălalt l-a înjurat",
+    "link": "https://www.timesnewroman.ro/politic/tensiuni-intre-lula-si-milei-dupa-ce-si-au-zis-pe-nume-si-fiecare-a-crezut-ca-celalalt-l-a-injurat/",
+    "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/lulamilei.jpg",
+    "source": "www.timesnewroman.ro",
+    "pubDate": "2026-07-28T04:52:35.000Z"
+  },
+  {
+    "title": "Incendiile fac ravagii în Franța și Spania. Urmează un nou val de temperaturi extreme",
+    "link": "https://adevarul.ro/stiri-externe/europa/incendiile-fac-ravagii-in-franta-si-spania-2546102.html",
+    "image": "https://cdn.adh.reperio.news/image-c/cfcf51ee-0d21-4b5d-b691-d00e63b786bd/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg",
+    "source": "adevarul.ro",
+    "pubDate": "2026-07-28T04:52:04.000Z"
+  },
+  {
+    "title": "Burnham promite sprijinul deplin al Regatului Unit pentru Ucraina. Cum a decurs prima întâlnire oficială a lui Burnham după o săptămână de la preluarea mandatului?",
+    "link": "https://www.mediafax.ro/externe/burnham-promite-sprijinul-deplin-al-regatului-unit-pentru-ucraina-cum-a-decurs-prima-intalnire-oficiala-a-lui-burnham-dupa-o-saptamana-de-la-preluarea-mandatului-23779963",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/zelenski-si-andy-burnham-1024x683.jpg",
+    "source": "www.mediafax.ro",
+    "pubDate": "2026-07-28T04:52:01.000Z"
+  },
+  {
+    "title": "Djokovic și Sabalenka, pereche de vis la US Open / Alcaraz și Sinner nu s-au înscris",
+    "link": "https://www.g4media.ro/djokovic-si-sabalenka-pereche-de-vis-la-us-open-alcaraz-si-sinner-nu-s-au-inscris.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/07/8141129-Hepta_Mediafax_Foto-DPA_Hepta.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:50:40.000Z"
+  },
+  {
+    "title": "Topul județelor cu cele mai mici prețuri pentru microbuzele electrice școlare / Sibiu și Harghita au plătit cei mai puțini bani / În Gorj și Vâlcea s-au dat cei mai mulți / Diferență de peste trei ori între cel mai mic și cel mai mare preț",
+    "link": "https://www.g4media.ro/topul-judetelor-cu-cele-mai-mici-preturi-pentru-microbuzele-electrice-scolare-sibiu-si-harghita-au-platit-cei-mai-putini-bani-in-gorj-si-valcea-s-au-dat-cei-mai-multi-diferenta-de-peste-trei-ori.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/02/microbuz-scolar-transport-elevi-caras-severin-ipj-e1676402087959.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:50:23.000Z"
+  },
+  {
+    "title": "Tudorel Toader: Guvernul demis nu poate promova legal legea salarizării. „Va rezulta o lege strâmbă”",
+    "link": "https://www.realitatea.net/stiri/actualitate/tudorel-toader-guvernul-demis-nu-poate-promova-legal-legea-salarizarii-va-rezulta-o-lege-stramba-wxthpg",
+    "image": "https://www.realitatea.net/storage/media/5/2019/12/Tudorel-Toader-ministrul-justitiei-640x400_0cf6ab2ba3.jpeg",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:50:06.000Z"
+  },
+  {
+    "title": "Legea salarizării scoate bugetarii în stradă. De ce a aprins noua lege revolta sindicatelor",
+    "link": "https://tvrinfo.ro/legea-salarizarii-scoate-bugetarii-in-strada-de-ce-a-aprins-noua-lege-revolta-sindicatelor/",
+    "image": "https://tvrinfo.ro/wp-content/uploads/2026/06/profimedia-0891142682.jpg",
+    "source": "tvrinfo.ro",
+    "pubDate": "2026-07-28T04:49:17.000Z"
+  },
+  {
+    "title": "ANM anunță caniculă până aproape de finalul verii. Cum va fi vremea în următoarele patru săptămâni",
+    "link": "https://www.mediafax.ro/social/anm-anunta-canicula-pana-aproape-de-finalul-verii-cum-va-fi-vremea-in-urmatoarele-patru-saptamani-23779978",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/canicula-vreme-extrema-1024x576.png",
+    "source": "www.mediafax.ro",
+    "pubDate": "2026-07-28T04:48:06.000Z"
+  },
+  {
+    "title": "Rusia și Coreea de Nord finalizează un pod, prima legătură rutieră dintre cele două dictaturi",
+    "link": "https://www.g4media.ro/rusia-si-coreea-de-nord-finalizeaza-un-pod-prima-legatura-rutiera-dintre-cele-doua-dictaturi.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2023/09/33UZ242-highres.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:47:22.000Z"
+  },
+  {
+    "title": "Emmanuel Macron spune că incendiul din regiunea Gironde „este cea mai dificilă situație de la Al Doilea Rzăboi Mondial încoace”",
+    "link": "https://www.digi24.ro/stiri/externe/emmanuel-macron-spune-ca-incendiul-din-regiunea-gironde-este-cea-mai-dificila-situatie-de-la-al-doilea-rzaboi-mondial-incoace-3881227",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI4JTJGMjg3MTEzNV8yODcx/MTM1X3Byb2ZpbWVkaWEtMTExOTEzMTkz/OC5qcGcmaGFzaD1iMzIwZjQwNjExYjk3N2JmMjZiMWMyMDQyMDNjMTQ4ZA==.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:47:05.000Z"
+  },
+  {
+    "title": "SUA: Două districte școlare și-ar putea pierde finanțarea federală din cauza politicilor privind elevii transgender",
+    "link": "https://www.mediafax.ro/stirile-zilei/sua-doua-districte-scolare-si-ar-putea-pierde-finantarea-federala-din-cauza-politicilor-privind-elevii-transgender-23779974",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2025/10/scoala-liceu-pexels-1024x683.jpg",
+    "source": "www.mediafax.ro",
+    "pubDate": "2026-07-28T04:45:16.000Z"
+  },
+  {
+    "title": "Donald Trump laudă “discuțiile prietenoase” cu Iran, din ultimele zile, și susține că există șanse reale de încheiere a unui acord de pace. La rândul lor, iranienii susțin că nu poartă negocieri directe cu SUA în acest moment. Țițeiul Brent a înregistrat luni cea mai puternică scădere (-11%) din ultimele trei luni și jumătate.",
+    "link": "https://www.biziday.ro/364455-2/?utm_source=rss&utm_medium=rss&utm_campaign=364455-2",
+    "image": "https://cdn.biziday.ro/wp-content/uploads/2026/06/Donald-Trump-1024x683.jpg",
+    "source": "www.biziday.ro",
+    "pubDate": "2026-07-28T04:43:56.000Z"
+  },
+  {
+    "title": "Incendiu la metroul din Barcelona: zeci de răniți după ce un tren a rămas blocat într-un tunel plin de fum VIDEO",
+    "link": "https://www.realitatea.net/stiri/actualitate/incendiu-la-metroul-din-barcelona-zeci-de-raniti-dupa-ce-un-tren-a-ramas-blocat-intr-un-tunel-plin-de-fum-video-um6fzf",
+    "image": "https://www.realitatea.net/storage/media/7/2026/07/incendiu-franta-DrCaUi.webp",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:43:21.000Z"
+  },
+  {
+    "title": "SANITAS începe greva generală în sistemul public de sănătate. Activitatea din sute de spitale, afectată",
+    "link": "https://www.mediafax.ro/sanatate/sanitas-incepe-greva-generala-in-sistemul-public-de-sanatate-activitatea-din-sute-de-spitale-afectata-23779966",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/8134550-mediafax_foto-alexandru_dobre-1024x683.jpg",
+    "source": "www.mediafax.ro",
+    "pubDate": "2026-07-28T04:42:40.000Z"
+  },
+  {
+    "title": "„Îl voi întreba pe Putin.” Trump cere explicații despre presupusul ajutor al Rusiei pentru atacurile Iranului asupra bazelor SUA",
+    "link": "https://tvrinfo.ro/il-voi-intreba-pe-putin-trump-cere-explicatii-despre-presupusul-ajutor-al-rusiei-pentru-atacurile-iranului-asupra-bazelor-sua/",
+    "image": "https://tvrinfo.ro/wp-content/uploads/2025/08/profimedia-0962881062.jpg",
+    "source": "tvrinfo.ro",
+    "pubDate": "2026-07-28T04:42:33.000Z"
+  },
+  {
+    "title": "Mize uriașe astăzi la Casa Albă: Trump, întrevederi de foc cu Zelenski și Netanyahu",
+    "link": "https://www.activenews.ro/stiri/Mize-uriase-astazi-la-Casa-Alba-Trump-intrevederi-de-foc-cu-Zelenski-si-Netanyahu-206973",
+    "image": "https://www.activenews.ro/images/articole/206973.png",
+    "source": "www.activenews.ro",
+    "pubDate": "2026-07-28T04:41:46.000Z"
+  },
+  {
+    "title": "Alexandru Rogobete face acuzații dure la adresa managerilor de spitale: ”Nu vă este rușine?”",
+    "link": "https://www.gandul.ro/actualitate/alexandru-rogobete-face-acuzatii-dure-la-adresa-managerilor-de-spitale-nu-va-este-rusine-20964142",
+    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/rogobete-1-1280x718.jpg",
+    "source": "www.gandul.ro",
+    "pubDate": "2026-07-28T04:40:08.000Z"
+  },
+  {
+    "title": "Shakespeare și economia pe care statul nu o vede ",
+    "link": "https://jurnalul.ro/editorial/shakespeare-economia-statul-impozit-1040082.html",
+    "image": "https://jurnalul.ro/thumbs/landscape/2026/07/28/shakespeare-economia-statul-impozit-19020061.jpg",
+    "source": "jurnalul.ro",
+    "pubDate": "2026-07-28T04:40:01.000Z"
+  },
+  {
+    "title": "Nimic extraordinar în sesiunea extraordinară",
+    "link": "https://www.catavencii.ro/nimic-extraordinar-in-sesiunea-extraordinara/",
+    "image": "https://www.catavencii.ro/wp-content/uploads/2026/07/parlamentplen.jpg",
+    "source": "www.catavencii.ro",
+    "pubDate": "2026-07-28T04:39:03.000Z"
+  },
+  {
+    "title": "Djokovic și Sabalenka, pereche de vis la US Open. Alcaraz și Sinner nu s-au înscris",
+    "link": "https://www.mediafax.ro/sport/djokovic-si-sabalenka-pereche-de-vis-la-us-open-alcaraz-si-sinner-nu-s-au-inscris-23779969",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/us-open-dublu-mixt-819x1024.jpg",
+    "source": "www.mediafax.ro",
+    "pubDate": "2026-07-28T04:38:38.000Z"
+  },
+  {
+    "title": "SANITAS începe greva generală în spitale din cauza legii salarizării. „Dialogul social va continua cu partidele parlamentare”",
+    "link": "https://www.digi24.ro/stiri/actualitate/social/sanitas-incepe-greva-generala-in-spitale-din-cauza-legii-salarizarii-dialogul-social-va-continua-cu-partidele-parlamentare-3881115",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjAzJTJGMjc1ODYwM18yNzU4/NjAzXzIwMjYtMDYtMDMtNDcwNS5qcGcm/aGFzaD1hYWYzOGU3MzlkY2E0Y2VhMTQxZWUxOWM5NDUyM2YwYg==.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:38:02.000Z"
+  },
+  {
+    "title": "Noi reguli pentru alegerile din Regiunea Autonomă Găgăuzia: Parlamentul propune o autoritate electorală permanentă a regiunii cu simpatii pro-ruse",
+    "link": "https://www.g4media.ro/noi-reguli-pentru-alegerile-din-regiunea-autonoma-gagauzia-parlamentul-propune-o-autoritate-electorala-permanenta-a-regiunii-cu-simpatii-pro-ruse.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/09/20250926_132815.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:38:01.000Z"
+  },
+  {
+    "title": "Trump îi primește marți la Casa Albă pe Zelenski și Netanyahu",
+    "link": "https://www.cotidianul.ro/trump-ii-primeste-marti-la-casa-alba-pe-zelenski-si-netanyahu/",
+    "image": "https://www.cotidianul.ro/wp-content/uploads/2026/07/trump-reactioneaza-la-amenda-data-google.jpg",
+    "source": "www.cotidianul.ro",
+    "pubDate": "2026-07-28T04:36:37.000Z"
+  },
+  {
+    "title": "Noi discuții la Palatul Cotroceni pentru deblocarea crizei din Educație. Sindicatele din învățământ, solidare cu protestul angajaților din spitale",
+    "link": "https://tvrinfo.ro/noi-discutii-la-palatul-cotroceni-pentru-deblocarea-crizei-din-educatie-sindicatele-din-invatamant-solidare-cu-protestul-angajatilor-din-spitale/",
+    "image": "https://tvrinfo.ro/wp-content/uploads/2026/07/Screenshot-2026-07-28-073524.jpg",
+    "source": "tvrinfo.ro",
+    "pubDate": "2026-07-28T04:36:25.000Z"
+  },
+  {
+    "title": "Președintele FIFA, Gianni Infantino, chemat în fața Congresului SUA din cauza legăturilor cu Trump",
+    "link": "https://www.g4media.ro/presedintele-fifa-gianni-infantino-chemat-in-fata-congresului-sua-din-cauza-legaturilor-cu-trump.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2025/10/profimedia-1045231051.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:35:17.000Z"
+  },
+  {
+    "title": "Digistoria - cele mai importante evenimente petrecute pe 28 iulie",
+    "link": "https://www.digi24.ro/digistoria/digistoria-cele-mai-importante-evenimente-petrecute-pe-28-iulie-2-3881183",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI4JTJGMjg3MTEyN18yODcx/MTI3X0RpZ2ktMjRfMjAyNl8wN18yOF8w/Nl81Nl81OC5wbmcmaGFzaD1mODBkOWQ4/MmFkNWM1OTk1ZTdjYzU0NGFmMDI1YzljMA==.png",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:34:49.000Z"
+  },
+  {
+    "title": "Pepenele, bomba calorică a verii. Cu ce alimente ar trebui să îl combinăm ca să nu ne îngrășăm",
+    "link": "https://www.gandul.ro/actualitate/pepenele-bomba-calorica-a-verii-cu-ce-alimente-ar-trebui-sa-il-combinam-ca-sa-nu-ne-ingrasam-20964141",
+    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/1-main-11-1280x731.jpg",
+    "source": "www.gandul.ro",
+    "pubDate": "2026-07-28T04:34:15.000Z"
+  },
+  {
+    "title": "Sute de avioane Boeing 737 MAX trebuie verificate după descoperirea unei erori la montarea scaunelor. Ce înseamnă pentru pasageri",
+    "link": "https://www.mediafax.ro/social/sute-de-avioane-boeing-737-max-trebuie-verificate-dupa-descoperirea-unei-erori-la-montarea-scaunelor-ce-inseamna-pentru-pasageri-23779962",
+    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/8051478-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
+    "source": "www.mediafax.ro",
+    "pubDate": "2026-07-28T04:32:31.000Z"
+  },
+  {
+    "title": "Reacţie dură: în prag de caniculă, România expulzează frigiderul de la ambasada Rusiei",
+    "link": "https://www.timesnewroman.ro/politic/reactie-dura-in-prag-de-canicula-romania-expulzeaza-frigiderul-de-la-ambasada-rusiei/",
+    "image": "https://www.timesnewroman.ro/wp-content/uploads/2026/07/ambasadarusiei.jpg",
+    "source": "www.timesnewroman.ro",
+    "pubDate": "2026-07-28T04:32:11.000Z"
+  },
+  {
+    "title": "Zaharova: Acuzațiile românilor sunt nefondate, pretențiile lor nu sunt justificate. Aceste măsuri ostile vor primi un răspuns pe măsură",
+    "link": "https://tvrinfo.ro/zaharova-acuzatiile-romanilor-sunt-nefondate-pretentiile-lor-nu-sunt-justificate-aceste-masuri-ostile-vor-primi-un-raspuns-pe-masura/",
+    "image": "https://tvrinfo.ro/wp-content/uploads/2024/03/profimedia-0853988846.jpg",
+    "source": "tvrinfo.ro",
+    "pubDate": "2026-07-28T04:31:57.000Z"
+  },
+  {
+    "title": "OMUL CU DISCURILE | Aaron Parks „By All Means”",
+    "link": "https://zilesinopti.ro/2026/07/28/aaron-parks-by-all-means-jazz/",
+    "image": "https://zilesinopti.ro/wp-content/uploads/2026/07/Aaron-Parks-By-All-Means-Foto-Isaac-Namias.webp",
+    "source": "zilesinopti.ro",
+    "pubDate": "2026-07-28T04:30:04.000Z"
+  },
+  {
+    "title": "Cinci polițiști condamnați cu executare în dosarul permiselor pe șpagă de la Arad / Hotărârea a fost pronunțată după 13 amânări succesive și nu e definitivă",
+    "link": "https://www.g4media.ro/cinci-politisti-condamnati-cu-executare-in-dosarul-permiselor-pe-spaga-de-la-arad-hotararea-a-fost-pronuntata-dupa-13-amanari-succesive-si-nu-e-definitiva.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2026/03/dreamstime_m_38761942.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:29:55.000Z"
+  },
+  {
+    "title": "Trump îi primește marți la Casa Albă pe Zelenski și Netanyahu. Războaiele din Ucraina și Orientul Mijlociu, pe agenda discuțiilor",
+    "link": "https://www.gandul.ro/international/trump-ii-primeste-marti-la-casa-alba-pe-zelenski-si-netanyahu-razboaiele-din-ucraina-si-orientul-mijlociu-pe-agenda-discutiilor-20964140",
+    "image": "https://www.gandul.ro/wp-content/uploads/2025/09/profimedia-1039663658-1280x853.jpg",
+    "source": "www.gandul.ro",
+    "pubDate": "2026-07-28T04:26:14.000Z"
+  },
+  {
+    "title": "Sondaj: 58% dintre cetățenii Republica Moldova susțin aderarea la UE. Corupția, principala piedică percepută în calea integrării",
+    "link": "https://www.g4media.ro/sondaj-58-dintre-cetatenii-republica-moldova-sustin-aderarea-la-ue-coruptia-principala-piedica-perceputa-in-calea-integrarii.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2019/05/Ilustratie-Republica-Moldova-Vasile-Curtu.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:26:11.000Z"
+  },
+  {
+    "title": "Horoscopul zilei, marți, 28 iulie 2026: oportunități, decizii importante și surprize pentru toate zodiile",
+    "link": "https://www.realitatea.net/stiri/actualitate/horoscopul-zilei-marti-28-iulie-2026-oportunitati-decizii-importante-si-surprize-pentru-toate-zodiile-rzag7y",
+    "image": "https://www.realitatea.net/storage/media/7/2026/07/horoscop-S5vlpr.webp",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:24:58.000Z"
+  },
+  {
+    "title": "Macron, despre incendiile din Franța: „Este cea mai dificilă situație de după Al Doilea Război Mondial”",
+    "link": "https://www.realitatea.net/stiri/actualitate/macron-despre-incendiile-din-franta-este-cea-mai-dificila-situatie-de-dupa-al-doilea-razboi-mondial-sc3do7",
+    "image": "https://www.realitatea.net/storage/media/7/2026/07/incendii-franta-hmQBDC.webp",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:23:32.000Z"
+  },
+  {
+    "title": "Haos în sistemul medical: grevă generală în aproape 500 de spitale. Doar urgențele vor fi tratate",
+    "link": "https://www.realitatea.net/stiri/actualitate/haos-in-sistemul-medical-greva-generala-in-aproape-500-de-spitale-doar-urgentele-vor-fi-tratate-27vufo",
+    "image": "https://www.realitatea.net/storage/media/7/2026/07/greva-sanatate-1BPxIT.webp",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:20:10.000Z"
+  },
+  {
+    "title": "Prima pastilă împotriva unei forme severe de psoriazis primește undă verde în UE",
+    "link": "https://jurnalul.ro/viata-sanatoasa/starea-de-sanatate/pastila-psoriazis-forma-severa-acceptat-uniunea-europeana-1040091.html",
+    "image": "https://jurnalul.ro/thumbs/landscape/2026/07/28/pastila-psoriazis-forma-severa-acceptat-uniunea-europeana-19020083.jpg",
+    "source": "jurnalul.ro",
+    "pubDate": "2026-07-28T04:20:01.000Z"
+  },
+  {
+    "title": "Oficiali israelieni și libanezi se vor întâlni la Roma pentru noi negocieri",
+    "link": "https://www.g4media.ro/oficiali-israelieni-si-libanezi-se-vor-intalni-la-roma-pentru-noi-negocieri.html",
+    "image": "https://www.g4media.ro//wp-content/uploads/2024/10/AFP__20241027__36KZ7PL__v4__HighRes__TopshotIraqPalestinianLebanonIsraelConflict.jpg",
+    "source": "www.g4media.ro",
+    "pubDate": "2026-07-28T04:19:24.000Z"
+  },
+  {
+    "title": "28 Iulie, calendarul zilei: Începe primul război mondial. Se sting Antonio Vivaldi și Johann Sebastian Bach",
+    "link": "https://www.gandul.ro/actualitate/28-iulie-calendarul-zilei-incepe-primul-razboi-mondial-se-sting-antonio-vivaldi-si-johann-sebastian-bach-20963804",
+    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/28j.jpg",
+    "source": "www.gandul.ro",
+    "pubDate": "2026-07-28T04:15:04.000Z"
+  },
+  {
+    "title": "Ziua Naţională a Ambulanţei din România, marcată în Capitală. Festivitate în Piaţa Constituţiei şi o defilare a 50 de salvări",
+    "link": "https://tvrinfo.ro/ziua-nationala-a-ambulantei-din-romania-marcata-in-capitala-festivitate-in-piata-constitutiei-si-o-defilare-a-50-de-salvari/",
+    "image": "https://tvrinfo.ro/wp-content/uploads/2024/01/ambulanta-accident-768x521_21592200-e1785211806393.jpg",
+    "source": "tvrinfo.ro",
+    "pubDate": "2026-07-28T04:07:50.000Z"
+  },
+  {
+    "title": "Sărbătoarea zilei 28 iulie: Sfinții Prohor, Nicanor, Timon și Parmena, pomeniți astăzi în calendarul ortodox",
+    "link": "https://www.realitatea.net/stiri/actualitate/sarbatoarea-zilei-28-iulie-sfintii-prohor-nicanor-timon-si-parmena-pomeniti-astazi-in-calendarul-ortodox-1zqgnh",
+    "image": "https://www.realitatea.net/storage/media/7/2026/07/sarbatoare-28-iulie-5qh7Bp.webp",
+    "source": "www.realitatea.net",
+    "pubDate": "2026-07-28T04:07:24.000Z"
+  },
+  {
+    "title": "Interviu cu Gianina Cărbunariu: „Teatrul rămâne un spațiu de gândire critică într-o lume marcată de manipulare și polarizare”",
+    "link": "https://zilesinopti.ro/2026/07/28/interviu-cu-gianina-carbunariu-2026/",
+    "image": "https://zilesinopti.ro/wp-content/uploads/2026/07/1-header-13.webp",
+    "source": "zilesinopti.ro",
+    "pubDate": "2026-07-28T04:07:01.000Z"
+  },
+  {
+    "title": "Andy Burnham îl asigură pe Zelenski de sprijinul Marii Britanii: „Poți conta pe noi atât timp cât va fi nevoie”",
+    "link": "https://adevarul.ro/stiri-externe/europa/andy-burnham-il-asigura-pe-zelenski-de-sprijinul-2546101.html",
+    "image": "https://cdn.adh.reperio.news/image-2/2c29681a-fc40-4df7-a634-75fb521ee70c/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg",
+    "source": "adevarul.ro",
+    "pubDate": "2026-07-28T04:05:19.000Z"
+  },
+  {
+    "title": "De la „dronele nu au existat” la „România intră în război” - Val de dezinformări după doborârea dronelor rusești",
+    "link": "https://adevarul.ro/stiri-interne/de-la-dronele-nu-au-existat-la-romania-intra-in-2546029.html",
+    "image": "https://cdn.adh.reperio.news/image-f/f2d6c833-3373-482d-a142-93475a1bbf16/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg",
+    "source": "adevarul.ro",
+    "pubDate": "2026-07-28T04:01:25.000Z"
+  },
+  {
+    "title": "Karyna Shuliak, iubita misterioasă a lui Jeffrey Epstein: cum a ajuns să fie moștenitoarea averii controversate",
+    "link": "https://www.digi24.ro/stiri/externe/sua/karyna-shuliak-iubita-misterioasa-a-lui-jeffrey-epstein-cum-a-ajuns-sa-fie-mostenitoarea-averii-controversate-3879779",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI3JTJGMjg2OTEwOF8yODY5/MTA4X0Vwc3RlaW4tc2ktcHJpZXRlbmEu/anBnJmhhc2g9ZTdmMDNiZGQwZDdlNGRmMDU5Zjk3ZjQ5MTNjMTA0MDk=.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:00:58.000Z"
+  },
+  {
+    "title": "Netanyahu a obținut, în sfârșit, o întâlnire la Casa Albă. S-ar putea să nu-i placă ce-l așteaptă acolo (Politico)",
+    "link": "https://www.digi24.ro/stiri/externe/netanyahu-a-obtinut-in-sfarsit-o-intalnire-la-casa-alba-s-ar-putea-sa-nu-i-placa-ce-l-asteapta-acolo-politico-3880557",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNiUyRjEzJTJGMjI4MTk3M18yMjgx/OTczX3RydW1wLW5ldGFoeWFodS0xLmpw/ZyZoYXNoPWQ4ZjFhYjRhN2JlNmRhMWIyMTRhOTAwNWIzOTAzNGIw.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:00:57.000Z"
+  },
+  {
+    "title": "„Există o bombă cu ceas”. O schimbare de poziție a lui Trump poate dezavantaja Coreea de Sud în cursa pentru submarinele nucleare",
+    "link": "https://www.digi24.ro/stiri/externe/exista-o-bomba-cu-ceas-o-schimbare-de-pozitie-a-lui-trump-poate-dezavantaja-coreea-de-sud-in-cursa-submarinelor-nucleare-3880737",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI3JTJGMjg3MDU4Ml8yODcw/NTgyX1BUYzRNQ1pvUFRRME1DWm9ZWE5v/UFRjek9XTTRZakExWm1RellUbGpOR1kz/WWpZM1kyUTNZamt6WTJJMk9EZ3hfdGh1/bWJfLmpwZyZoYXNoPTVmZmNiYmRlZTcwZTU4MzcyMGM2NzM5ZjQwZDBiMjky.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:00:50.000Z"
+  },
+  {
+    "title": "VIDEODOME | “WILD ZERO” (1999, r: Tetsuro Takeuchi)",
+    "link": "https://zilesinopti.ro/2026/07/28/wild-zero-1999-film-punk-rock-zombies/",
+    "image": "https://zilesinopti.ro/wp-content/uploads/2026/07/wild-zero-1999-film-punk-rock-zombies-HEADER-GuitarWolf.webp",
+    "source": "zilesinopti.ro",
+    "pubDate": "2026-07-28T04:00:49.000Z"
+  },
+  {
+    "title": "Arme biologice și otrăvuri după rețeta ChatGPT. Inteligența artificială a transmis sute de răspunsuri „mortale și precise” (WSJ)",
+    "link": "https://www.digi24.ro/stiri/arme-biologice-si-otravuri-dupa-reteta-chatgpt-inteligenta-artificiala-a-transmis-sute-de-raspunsuri-mortale-si-precise-wsj-3880603",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOCUyRjIwJTJGMjMzMjIyMV8yMzMy/MjIxX1lqazNZVEprWlRKaE1UQXpNek14/TkRBeU1qSmhaRGd5TUFfdGh1bWJfLmpw/ZyZoYXNoPWNhY2RmNzVlMDQ0OTcxOGNlYjcxZjkwZDQ5MGE5Nzg1.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:00:47.000Z"
+  },
+  {
+    "title": "Raed Arafat cere Curții de Apel București ridicare sechestrului de pe bunurile sale în dosarul contrabandei cu un elicopter",
+    "link": "https://www.gandul.ro/justitie/raed-arafat-cere-curtii-de-apel-bucuresti-ridicare-sechestrului-de-pe-bunurile-sale-in-dosarul-contrabandei-cu-un-elicopter-20964137",
+    "image": "https://www.gandul.ro/wp-content/uploads/2025/10/raed-arafat-populatia-sa-fie-pregatita-cu-apa-si-alimente-in-caz-ca-vor-fi-izolati-o-perioada-de-timp-1013004.jpeg",
+    "source": "www.gandul.ro",
+    "pubDate": "2026-07-28T04:00:46.000Z"
+  },
+  {
+    "title": "Eșec important pentru Trump. Ce efect a avut, de fapt, strategia SUA de a scufunda ambarcatiunile cu droguri în Pacific (Raport)",
+    "link": "https://www.digi24.ro/stiri/externe/esec-important-pentru-trump-ce-efect-a-avut-de-fapt-strategia-sua-de-a-scufunda-ambarcatiunile-cu-droguri-in-pacific-raport-3880903",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwOSUyRjA0JTJGMjM0MjgwM18yMzQy/ODAzX2JhcmNhLXRyYWZpY2FudGktZHJv/Z3VyaS12ZW5lenVlbGEucG5nJmhhc2g9/YWNiM2EwOWVjYzE2NDgzNjUxNmE3NDIyMjU4ODViMTg=.png",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:00:45.000Z"
+  },
+  {
+    "title": "Noua cursă a înarmării. Giganții militari investesc miliarde de dolari în startup-uri tehnologice pentru a se adapta la războiul modern",
+    "link": "https://www.digi24.ro/stiri/externe/mapamond/noua-cursa-a-inarmarii-gigantii-militari-investesc-miliarde-de-dolar-in-startup-uri-tehnologice-pentru-a-se-adapta-la-razboiul-modern-3878907",
+    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMiUyRjEwJTJGMjU4NTA1MV8yNTg1/MDUxX3Byb2ZpbWVkaWEtMTA3MTQ3NzI5/Mi5qcGcmaGFzaD0wNDJjMWJlOWJlZjdmNjZlNDA3MjIyYTIwZWE4YjA4Mg==.jpg",
+    "source": "www.digi24.ro",
+    "pubDate": "2026-07-28T04:00:37.000Z"
+  },
+  {
+    "title": "Guvernul demis, dat pe mâna instanțelor și procurorilor pentru HG-urile adoptate în mod ilegal și neconstituțional",
+    "link": "https://jurnalul.ro/stiri/politica/guvern-bolojan-acte-abuzive-plangeri-penale-psd-1040089.html",
+    "image": "https://jurnalul.ro/thumbs/landscape/2026/07/28/guvern-bolojan-acte-abuzive-plangeri-penale-psd-19020081.jpg",
+    "source": "jurnalul.ro",
+    "pubDate": "2026-07-28T04:00:01.000Z"
+  },
+  {
+    "title": "INTERVIU Lecția australiană despre interzicerea accesului minorilor la rețelele sociale. Avertisment din Melbourne pentru România: „Trebuie să vă puneți casa în ordine”",
+    "link": "https://hotnews.ro/interviu-lectia-australiana-despre-interzicerea-accesului-minorilor-la-retelele-sociale-avertisment-din-melbourne-pentru-romania-trebuie-sa-va-puneti-casa-in-ordine-2305824",
+    "image": "https://hotnews.ro/wp-content/uploads/2026/07/notificare-legislatie-austrailia.jpg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T03:58:34.000Z"
+  },
+  {
+    "title": "SUA: Trump cere Senatului să termine cu schimbarea orei de două ori pe an",
+    "link": "https://hotnews.ro/sua-trump-cere-senatului-sa-elimine-ora-de-vara-2310832",
+    "image": "https://hotnews.ro/wp-content/uploads/2026/07/profimedia-1116942681.jpg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T03:55:57.000Z"
   },
   {
     "title": "Și-a filmat propriul atac. Momentul în care un rechin se repede la un scafandru și îl mușcă de picior",
@@ -21,11 +441,18 @@
     "pubDate": "2026-07-28T03:48:23.000Z"
   },
   {
-    "title": "Valeria Enache a fost numită șefa Inspectoratului de Stat în Construcţii",
-    "link": "https://www.g4media.ro/valeria-enache-a-fost-numita-sefa-inspectoratului-de-stat-in-constructii.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/01/36.jpg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-28T03:48:13.000Z"
+    "title": "Aeroportul Otopeni, rușinea exemplară a României – FILMĂRI",
+    "link": "https://hotnews.ro/aeroportul-otopeni-rusinea-exemplara-a-romaniei-filmari-2310633",
+    "image": "https://hotnews.ro/wp-content/uploads/2026/07/cozi-otopeni-aglomeratie-renovare-3.jpeg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T03:48:06.000Z"
+  },
+  {
+    "title": "Vine august, se întoarce canicula în România: cu cât crește aerul condiționat factura la curent ",
+    "link": "https://hotnews.ro/vine-august-se-intoarce-canicula-in-romania-cu-cat-creste-aerul-conditionat-factura-la-curent-2305940",
+    "image": "https://hotnews.ro/wp-content/uploads/2024/08/canicula-bucuresti-shutterstock_1706215510-1.jpg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T03:44:11.000Z"
   },
   {
     "title": "Dialog tulburător de sincer cu scriitoarea americană Claire Messud: ​​​​​​​Poveștile pot vindeca lumea de autodevorare",
@@ -35,6 +462,13 @@
     "pubDate": "2026-07-28T03:40:02.000Z"
   },
   {
+    "title": "Gigant american se extinde puternic în România",
+    "link": "https://hotnews.ro/gigant-american-se-extinde-puternic-in-romania-2310822",
+    "image": "https://hotnews.ro/wp-content/uploads/2026/07/Concentrix.jpg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T03:38:00.000Z"
+  },
+  {
     "title": "Președintele Federației de Pescuit Sportiv i-a trimis un memoriu cu multe reclamații premierului",
     "link": "https://www.cotidianul.ro/presedintele-frps-stefan-popescu-memoriu-premier/",
     "image": "https://www.cotidianul.ro/wp-content/uploads/2025/04/25/iccj1-717x472_c.jpg",
@@ -42,11 +476,11 @@
     "pubDate": "2026-07-28T03:36:56.000Z"
   },
   {
-    "title": "Banca Centrală a Rusiei înăsprește condițiile de creditare. Noi limite drastice pentru populația îndatorată",
-    "link": "https://www.libertatea.ro/stiri/anca-centrala-rusia-inasprire-credite-consum-datorii-5830651",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2024/11/profimedia-0901873595-e1732902724179-620x349.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-28T03:35:34.000Z"
+    "title": "Semnătura care a permis statului să-ți „fure” salariul înainte să-l vezi",
+    "link": "https://hotnews.ro/semnatura-care-a-permis-statului-sa-ti-fure-salariul-inainte-sa-l-vezi-2310583",
+    "image": "https://hotnews.ro/wp-content/uploads/2025/06/profimedia-1011697108.jpg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T03:32:33.000Z"
   },
   {
     "title": "Trump spune că SUA poartă „discuții bune” cu Iranul, dar amenință cu reluarea atacurilor",
@@ -61,13 +495,6 @@
     "image": "https://cdn.adh.reperio.news/image-b/b8bf41f7-f792-4db9-9cae-c324e299eb99/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg",
     "source": "adevarul.ro",
     "pubDate": "2026-07-28T03:24:25.000Z"
-  },
-  {
-    "title": "Sorin Grindeanu anunță data la care România ar putea avea un nou Guvern: „Nu rămânem în acest blocaj”",
-    "link": "https://www.libertatea.ro/stiri/sorin-grindeanu-psd-guvern-premier-august-conditii-aur-5830649",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/06/sorin-grindeanu-3-620x362.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-28T03:21:57.000Z"
   },
   {
     "title": "Statele Unite își revizuiesc prezența militară în Europa",
@@ -117,6 +544,20 @@
     "image": "https://jurnalul.ro/thumbs/landscape/2026/07/28/ce-inseamna-osoianu-aristotel-herodot-19020054.jpg",
     "source": "jurnalul.ro",
     "pubDate": "2026-07-28T03:00:01.000Z"
+  },
+  {
+    "title": "Johnson & Johnson oferă 5.500.000.000 dolari pentru a încheia procesele legate de pudra pentru bebeluși",
+    "link": "https://hotnews.ro/johnson-johnson-ofera-5-500-000-000-dolari-pentru-a-incheia-procesele-legate-de-pudra-pentru-bebelusi-2310814",
+    "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2023-04-5-26187359-41-pudra-talc-johnson-johnson.jpg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T02:57:03.000Z"
+  },
+  {
+    "title": "Shein pe „roșu”: Pierderi de 99 de milioane de dolari din cauza tarifelor și războiului impuse de Trump",
+    "link": "https://hotnews.ro/shein-pe-rosu-pierderi-de-99-de-milioane-de-dolari-din-cauza-tarifelor-si-razboiului-impuse-de-trump-2310808",
+    "image": "https://hotnews.ro/wp-content/uploads/2025/11/profimedia-1051569987.jpg",
+    "source": "hotnews.ro",
+    "pubDate": "2026-07-28T02:47:18.000Z"
   },
   {
     "title": "Oficiali israelieni și libanezi se vor întâlni la Roma pentru noi negocieri",
@@ -189,48 +630,6 @@
     "pubDate": "2026-07-28T01:43:55.000Z"
   },
   {
-    "title": "Începe greul pe șantierul Autostrăzii Sibiu–Pitești. Cum sunt construite viaductele uriașe de pe Valea Oltului",
-    "link": "https://adevarul.ro/stiri-interne/evenimente/incepe-greul-pe-santierul-autostrazii-2546016.html",
-    "image": "https://cdn.adh.reperio.news/image-2/27503268-8ed6-4de3-9eb5-4addd53f5192/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg",
-    "source": "adevarul.ro",
-    "pubDate": "2026-07-28T01:29:25.000Z"
-  },
-  {
-    "title": "Un mort și doi răniți într-un atac armat în apropierea palatului prezidențial din Mexic",
-    "link": "https://www.mediafax.ro/externe/un-mort-si-doi-raniti-intr-un-atac-armat-in-apropierea-palatului-prezidential-din-mexic-23779946",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/01/police-car-2946429_1280-1024x678.jpg",
-    "source": "www.mediafax.ro",
-    "pubDate": "2026-07-28T01:00:19.000Z"
-  },
-  {
-    "title": "Președintele FIFA, Gianni Infantino, chemat în fața Congresului SUA din cauza legăturilor cu Trump",
-    "link": "https://www.mediafax.ro/sport/presedintele-fifa-gianni-infantino-chemat-in-fata-congresului-din-cauza-legaturilor-cu-trump-23779942",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/12/8090670-hepta_mediafax_foto-abacapress_hepta-1024x683.jpg",
-    "source": "www.mediafax.ro",
-    "pubDate": "2026-07-28T00:44:15.000Z"
-  },
-  {
-    "title": "O nouă rachetă de croazieră occidentală pe frontul din Ucraina. Arma ar fi fost creată de fondatorul primei companii spațiale private din Rusia",
-    "link": "https://adevarul.ro/stiri-externe/europa/o-noua-racheta-de-croaziera-occidentala-pe-frontul-2546037.html",
-    "image": "https://cdn.adh.reperio.news/image-0/0ee7679c-39db-4fa5-b320-ee31f1d0af17/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg",
-    "source": "adevarul.ro",
-    "pubDate": "2026-07-28T00:06:25.000Z"
-  },
-  {
-    "title": "Tot mai mulți oameni își fac RMN „whole body”, deși medicii avertizează asupra riscurilor. Investigația este disponibilă și în România",
-    "link": "https://adevarul.ro/stiri-interne/societate/tot-mai-multi-oameni-isi-fac-rmn-whole-body-2546073.html",
-    "image": "https://cdn.adh.reperio.news/image-6/61796ecc-1bcb-4b81-8ef8-862e60a8b2ce/index.jpeg?p=w%3D1000%26h%3D600%26a%3D0%26f%3Djpeg&amp;file=image.jpeg",
-    "source": "adevarul.ro",
-    "pubDate": "2026-07-28T00:05:25.000Z"
-  },
-  {
-    "title": "Trump, întâlniri separate la Casa Albă cu Zelenski și Netanyahu",
-    "link": "https://www.mediafax.ro/externe/trump-intalniri-separate-la-casa-alba-cu-zelenski-si-netanyahu-23779940",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/06/8071852-hepta_mediafax_foto-zuma_press_hepta-1024x683.jpg",
-    "source": "www.mediafax.ro",
-    "pubDate": "2026-07-27T23:43:36.000Z"
-  },
-  {
     "title": "Bernard Arnault, cel mai bogat om din Europa, s-a alăturat rețelei X și a spulberat zvonurile despre dezbinarea familiei",
     "link": "https://mariustuca.ro/externe/bernard-arnault-cel-mai-bogat-om-din-europa-s-a-alaturat-retelei-x-si-a-spulberat-zvonurile-despre-dezbinarea-familiei-79196.html",
     "image": "https://mariustuca.ro/thumbs/int/2026/07/28/bernard-arnault-cel-mai-bogat-om-din-europa-s-a-alaturat-retelei-x-si-a-spulberat-zvonurile-despre-dezbinarea-familiei-83907.jpg",
@@ -243,20 +642,6 @@
     "image": "https://mariustuca.ro/thumbs/int/2026/07/28/irakul-sustine-ca-celule-ucrainene-sunt-implicate-in-atacuri-pe-teritoriul-sau-83906.jpg",
     "source": "mariustuca.ro",
     "pubDate": "2026-07-27T23:00:26.000Z"
-  },
-  {
-    "title": "Rețeaua socială X lansează conturi plătite",
-    "link": "https://www.mediafax.ro/tehnologie/reteaua-sociala-x-lanseaza-conturi-platite-23779938",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2025/07/7935682-hepta-mediafax-foto-abacapress-hepta-2-1024x683.jpg",
-    "source": "www.mediafax.ro",
-    "pubDate": "2026-07-27T22:50:54.000Z"
-  },
-  {
-    "title": "Alexandru Rogobete: Am aflat că există manageri de spitale și șefi de secție care îi amenință pe medici și asistente că, dacă participă la grevă, își vor pierde locul de muncă",
-    "link": "https://www.mediafax.ro/social/alexandru-rogobete-am-aflat-ca-exista-manageri-de-spitale-si-sefi-de-sectie-care-ii-ameninta-pe-medici-si-asistente-ca-daca-participa-la-greva-isi-vor-pierde-locul-de-munca-23779934",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/04/8120610-mediafax_foto-alexandru_nechez-1024x683.jpg",
-    "source": "www.mediafax.ro",
-    "pubDate": "2026-07-27T22:12:07.000Z"
   },
   {
     "title": "Presa interbelică despre dezertarea la ruși a ofițerului Emil Bodnăraș",
@@ -299,13 +684,6 @@
     "image": "https://www.gorjonline.ro/wp-content/uploads/2021/02/paul-constantinescu.jpg",
     "source": "www.gorjonline.ro",
     "pubDate": "2026-07-27T21:33:14.000Z"
-  },
-  {
-    "title": "Frații Tate vor rămâne în închisoare în SUA până la următoarea audiere de extrădare",
-    "link": "https://www.mediafax.ro/externe/fratii-tate-vor-ramane-in-inchisoare-in-sua-pana-la-urmatoarea-audiere-de-extradare-23779930",
-    "image": "https://www.mediafax.ro/wp-content/uploads/2026/07/8073942-mediafax_foto-mihai_pop_gnm-1024x682.jpg",
-    "source": "www.mediafax.ro",
-    "pubDate": "2026-07-27T21:31:03.000Z"
   },
   {
     "title": "Zona minieră din Gorj din care s-au pierdut 540 de locuri de muncă",
@@ -364,13 +742,6 @@
     "pubDate": "2026-07-27T21:14:32.000Z"
   },
   {
-    "title": "Cum și-a recăpătat vederea o femeie din Italia, după un transplant realizat în premieră",
-    "link": "https://hotnews.ro/cum-si-a-recapatat-vederea-o-femeie-din-italia-dupa-un-transplant-realizat-in-premiera-mondiala-rezultate-incurajatoare-2310771",
-    "image": "https://hotnews.ro/wp-content/uploads/2024/04/image-2023-05-10-26258977-41-examinare-oftalmologica.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T21:10:08.000Z"
-  },
-  {
     "title": "Top 3 personaje politice care au pierdut încrederea alegătorilor, anul acesta: Georgescu, Simion, Bolojan",
     "link": "https://jurnalul.ro/stiri/politica/calin-georgescu-simion-bolojan-pierdut-incredere-votanti-1040097.html",
     "image": "https://jurnalul.ro/thumbs/landscape/2026/07/28/calin-georgescu-simion-bolojan-pierdut-incredere-votanti-19020090.jpg",
@@ -378,25 +749,11 @@
     "pubDate": "2026-07-27T21:05:01.000Z"
   },
   {
-    "title": "„Situaţie absurdă”. Din ce cauză nu poate consolida Primăria Capitalei blocurile cu bulină roșie, deși are banii și proiectele gata",
-    "link": "https://www.digi24.ro/stiri/actualitate/social/situatie-absurda-din-ce-cauza-nu-poate-consolida-primaria-capitalei-blocurile-cu-bulina-rosie-desi-are-banii-si-proiectele-gata-3881157",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI3JTJGMjg3MTA5MF8yODcx/MDkwX2J1bGluYS1yb3NpZS5qcGcmaGFz/aD1kZGNlZTVlYjE3MDk3MzZhZGQ2Nzc3YjllY2QwNzViZA==.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T20:56:26.000Z"
-  },
-  {
     "title": "Lovitură pentru bugetari. Kelemen Hunor spune că noua Lege a salarizării mai are mult de așteptat",
     "link": "https://www.realitatea.net/stiri/actualitate/lovitura-pentru-bugetari-kelemen-hunor-spune-ca-noua-lege-a-salarizarii-mai-are-mult-de-asteptat-cyaosp",
     "image": "https://www.realitatea.net/storage/media/5/2022/12/Kelemen-Hunor_074f19c97b.webp",
     "source": "www.realitatea.net",
     "pubDate": "2026-07-27T20:56:24.000Z"
-  },
-  {
-    "title": "Pentagonul recunoaște că SUA se află la ani distanță de capacitatea Ucrainei de a produce drone",
-    "link": "https://hotnews.ro/pentagonul-recunoaste-ca-sua-se-afla-la-ani-distanta-de-capacitatea-ucrainei-de-a-produce-drone-2310770",
-    "image": "https://hotnews.ro/wp-content/uploads/2025/05/Soldat-ucrainean-lansand-o-drona.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T20:56:09.000Z"
   },
   {
     "title": "Nicușor Dan îi trimite la Washington pe Marius Lazurca și pe șeful Armatei pentru a discuta despre criza dronelor cu Administrația Trump",
@@ -418,20 +775,6 @@
     "image": "https://www.realitatea.net/storage/media/7/2026/07/air-china-j7wKC1.webp",
     "source": "www.realitatea.net",
     "pubDate": "2026-07-27T20:49:03.000Z"
-  },
-  {
-    "title": "Miruță anunță că ROMATSA face recurs după suspendarea licenței. MApN, variantă de rezervă pentru traficul aerian",
-    "link": "https://www.realitatea.net/stiri/actualitate/miruta-anunta-ca-romatsa-face-recurs-dupa-suspendarea-licentei-mapn-varianta-de-rezerva-pentru-traficul-aerian-oln200",
-    "image": "https://www.realitatea.net/storage/media/7/2026/06/radu-miruta-inquam-photos-ovidiu-iordachi-3jD0yY.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T20:48:48.000Z"
-  },
-  {
-    "title": "Grindeanu îi cere lui Bolojan să trateze legea prin care România ar pierde un miliard de euro",
-    "link": "https://www.realitatea.net/stiri/actualitate/grindeanu-ii-cere-lui-bolojan-sa-trateze-legea-prin-care-romania-ar-pierde-un-miliard-de-euro-y8ft2s",
-    "image": "https://www.realitatea.net/storage/media/5/2025/10/profimedia-0944603820_6549771146.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T20:46:49.000Z"
   },
   {
     "title": "Cum reușește Duolingo să-i facă pe utilizatori să revină zi de zi. Strategia din spatele aplicației",
@@ -462,67 +805,11 @@
     "pubDate": "2026-07-27T20:37:22.000Z"
   },
   {
-    "title": "Kelemen Hunor: Sper că Nazare are capacitatea de a explica celor de la Fitch că România nu e în categoria junk",
-    "link": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-sper-ca-nazare-are-capacitatea-de-a-explica-celor-de-la-fitch-ca-romania-nu-e-in-categoria-junk-3881119",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNyUyRjE1JTJGMjMwNjgxMl8yMzA2/ODEyX3NpZ2xhLWZpdGNoLXByb2ZpbWVk/aWEuanBnJmhhc2g9NDc0NjlhMGIyZTQ1ZDVjMmM1MDRjN2VkYzU1Yjg4ZWE=.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T20:36:49.000Z"
-  },
-  {
-    "title": "Membru al clanului Cîrpaci, predat de Poliția Română autorităţilor din Germania. Ce fapte a comis acolo",
-    "link": "https://hotnews.ro/membru-al-clanului-cirpaci-predat-de-politia-romana-autoritatilor-din-germania-ce-fapte-a-comis-acolo-2310765",
-    "image": "https://hotnews.ro/wp-content/uploads/2026/07/2026-07-27-4177.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T20:36:46.000Z"
-  },
-  {
     "title": "Acțiunile Ucrainei împotriva petrolului rusesc adâncesc criza mondială a carburanților",
     "link": "https://www.cristoiublog.ro/actiunile-ucrainei-impotriva-petrolului-rusesc-adancesc-criza-mondiala-a-carburantilor/",
     "image": "https://www.cristoiublog.ro/wp-content/uploads/2024/03/cover-articole-fb.jpg",
     "source": "www.cristoiublog.ro",
     "pubDate": "2026-07-27T20:35:30.000Z"
-  },
-  {
-    "title": "Sorin Grindeanu anunță că PSD este pregătit să-și asume guvernarea. Nu exclude o majoritate cu AUR: Fără PNL și USR",
-    "link": "https://www.gandul.ro/politica/sorin-grindeanu-anunta-ca-psd-este-pregatit-sa-si-asume-guvernarea-nu-exclude-o-majoritate-cu-aur-fara-pnl-si-usr-20964062",
-    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/grindeanu-conferinta.jpg",
-    "source": "www.gandul.ro",
-    "pubDate": "2026-07-27T20:35:18.000Z"
-  },
-  {
-    "title": "Sorin Grindeanu, atac la liderii AUR: I-ați văzut pe Dungaciu și pe Simion să spună ceva despre drone, despre sancțiunile Rusiei?",
-    "link": "https://www.digi24.ro/stiri/actualitate/politica/sorin-grindeanu-atac-la-liderii-aur-i-ati-vazut-pe-dungaciu-si-simion-sa-spuna-ceva-despre-drone-despre-sanctiunile-rusiei-3881125",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI3JTJGMjg3MTA2N18yODcx/MDY3X3NvcmluLWdyaW5kZWFudS1pbnF1/YW0tZ2VvcmdlLWNhbGluLTEuanBnJmhh/c2g9ODdmMTcwNjU2Mzg4ODZmOGQ4Y2QzYjdmMjQzMjQwMzA=.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T20:32:02.000Z"
-  },
-  {
-    "title": "Grindeanu este optimist și avansează data de 15 august pentru rezolvarea blocajului guvernamental",
-    "link": "https://www.digi24.ro/stiri/actualitate/politica/grindeanu-este-optimist-si-avanseaza-data-de-15-august-pentru-rezolvarea-blocajului-guvernamental-3881121",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYwNSUyRjI4JTJGMjI2OTk4Ml8yMjY5/OTgyX05XUmhOVFJrT0RGaU5tTTRZVGRq/WWpJNU5ETmhORGRrT0RVX3RodW1iXy5q/cGcmaGFzaD0xYzI1ZWM4ZTQ1OWRmYTYxMWU2YzIyODI2ZGE3NjNkMw==.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T20:31:05.000Z"
-  },
-  {
-    "title": "1.000.000 de euro pentru tinerii care se mută la sat: o țară plătește cumpărarea și renovarea caselor în mediul rural",
-    "link": "https://www.libertatea.ro/lifestyle/tara-europa-croatia-1-000-000-pentru-tineri-muta-sat-5830602",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/sat-din-croatia-620x362.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-27T20:30:43.000Z"
-  },
-  {
-    "title": "Nicușor Dan trimite doi oficiali-cheie la Washington după atacurile cu drone rusești. Discuții cu Administrația Trump și Congresul SUA",
-    "link": "https://www.realitatea.net/stiri/actualitate/nicusor-dan-trimite-doi-oficiali-cheie-la-washington-dupa-atacurile-cu-drone-rusesti-discutii-cu-administratia-trump-si-congresul-sua-js1nxd",
-    "image": "https://www.realitatea.net/storage/media/7/2026/07/nicusor-dan-K47wuB.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T20:30:38.000Z"
-  },
-  {
-    "title": "Răsturnare în dosarul mitei de la Vama Constanța: Inspectorii au recunoscut acuzațiile DNA",
-    "link": "https://jurnalul.ro/stiri/justitie/rasturnare-in-dosarul-mitei-de-la-vama-constanta-inspectorii-au-recunoscut-acuzatiile-dna-1040057.html",
-    "image": "https://jurnalul.ro/thumbs/landscape/2026/07/27/rasturnare-in-dosarul-mitei-de-la-vama-constanta-inspectorii-au-recunoscut-acuzatiile-dna-19020026.jpg",
-    "source": "jurnalul.ro",
-    "pubDate": "2026-07-27T20:30:01.000Z"
   },
   {
     "title": "Trump îi dă peste nas lui Netanyahu pe tema avioanelor F35 către Turcia: ”Nimeni nu-mi spune mie ce ar trebui să vindem!”. Manipularea lui Trump pentru a porni războiul cu Iranul, dezvăluită de Alex Jones - VIDEO",
@@ -539,81 +826,11 @@
     "pubDate": "2026-07-27T20:29:39.000Z"
   },
   {
-    "title": "Luna august aduce noroc pentru două zodii: schimbările majore de care au parte",
-    "link": "https://www.realitatea.net/stiri/actualitate/luna-august-aduce-noroc-pentru-doua-zodii-schimbarile-majore-de-care-au-parte-8owj76",
-    "image": "https://www.realitatea.net/storage/media/7/2026/06/horoscop-7CKlD9.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T20:28:54.000Z"
-  },
-  {
-    "title": "PSD vrea mandatul de premier: Grindeanu spune că se poate majoritate și fără PNL-USR și indică un termen pentru noul guvern",
-    "link": "https://hotnews.ro/psd-vrea-mandatul-de-premier-grindeanu-spune-ca-se-poate-majoritate-si-fara-pnl-usr-si-indica-un-termen-pentru-noul-guvern-2310757",
-    "image": "https://hotnews.ro/wp-content/uploads/2026/04/ID170974-INQUAM-PHOTOS-OCTAV-GANEA.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T20:26:36.000Z"
-  },
-  {
-    "title": "Corpul de Control al premierului a încheiat verificările privind proiectul reactoarelor modulare de la Doicești. Concluziile raportului",
-    "link": "https://www.digi24.ro/stiri/actualitate/corpul-de-control-al-premierului-a-incheiat-verificarile-privind-proiectul-reactoarelor-modulare-de-la-doicesti-concluziile-raportului-3881075",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNiUyRjAzJTJGMjc2Nzk4M18yNzY3/OTgzX2RvaWNlc3RpLWNhcHR1cmEtZGln/aTI0LnBuZyZoYXNoPWM2NWZiNzhjZmJmZGMzYjA2MTlhMzhiNTBjODRlMzI5.png",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T20:26:27.000Z"
-  },
-  {
-    "title": "Miruță anunță că ROMATSA va face recurs / ”E un plan de transfer al responsabilității către Ministerul Apărării pentru dirijarea traficului”",
-    "link": "https://www.g4media.ro/miruta-anunta-ca-romatsa-va-face-recurs-e-un-plan-de-transfer-al-responsabilitatii-catre-ministerul-apararii-pentru-dirijarea-traficului.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/07/Romatsa.jpeg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T20:23:19.000Z"
-  },
-  {
     "title": "UDMR merge tot pe un guvern de tranziție. Kelemen Hunor: E momentul cel mai dificil din acest an",
     "link": "https://tvrinfo.ro/udmr-merge-tot-pe-un-guvern-de-tranzitie-kelemen-hunor-e-momentul-cel-mai-dificil-din-acest-an/",
     "image": "https://tvrinfo.ro/wp-content/uploads/2026/05/profimedia-0783202855.jpg",
     "source": "tvrinfo.ro",
     "pubDate": "2026-07-27T20:23:08.000Z"
-  },
-  {
-    "title": "Peste 3.000.000 de oameni au văzut filmul „Odiseea” al lui Christopher Nolan, piratat pe X, înainte să fie șters",
-    "link": "https://www.libertatea.ro/entertainment/odiseea-christopher-nolan-scurs-pe-x-milioane-vizualizari-inainte-sters-5830541",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/profimedia-1118122278-scaled-e1785179101776-620x335.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-27T20:20:47.000Z"
-  },
-  {
-    "title": "Vladimir Putin a cerut ca următorul buget al Rusiei să prevadă cheltuieli pentru încă trei ani de război",
-    "link": "https://www.libertatea.ro/stiri/vladimir-putin-a-cerut-ca-urmatorul-buget-al-rusiei-sa-prevada-cheltuieli-pentru-inca-trei-ani-de-razboi-5830586",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/vladimir-putin-surprins-in-timp-ce-intra-in-sala-de-la-kremlin-unde-erau-adunati-deputatii-foto-profimedia-e1785183364559-620x349.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-27T20:19:40.000Z"
-  },
-  {
-    "title": "Cum arată vila de 85.000.000 de dolari, inspirată din filmele cu James Bond: „Are periuțe de dinți electrice în toate cele 12 băi”",
-    "link": "https://www.libertatea.ro/stiri/cum-arata-villa-skyfall-85-milioane-dolari-inspirata-filme-james-bond-5830565",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/villa-skyfall-620x362.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-27T20:19:35.000Z"
-  },
-  {
-    "title": "Radu Miruță anunță că una dintre dronele care au intrat în spațiul aerian al României era rusească. Originea celorlalte două este încă verificată",
-    "link": "https://www.libertatea.ro/stiri/drona-ruseasca-spatiu-aerian-romania-radu-miruta-originea-celorlalte-drone-inca-verificata-5830585",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/radu-miruta-2-1-620x362.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-27T20:19:28.000Z"
-  },
-  {
-    "title": "O nouă anchetă zguduie Ucraina. Schema care a permis evitarea mobilizării",
-    "link": "https://jurnalul.ro/stiri/externe/noua-ancheta-zguduie-ucraina-schema-permis-evitarea-mobilizarii-1040073.html",
-    "image": "https://jurnalul.ro/thumbs/landscape/2026/07/27/noua-ancheta-zguduie-ucraina-schema-permis-evitarea-mobilizarii-19020045.jpg",
-    "source": "jurnalul.ro",
-    "pubDate": "2026-07-27T20:15:01.000Z"
-  },
-  {
-    "title": "Descoperire uriașă în medicină. O femeie nevăzătoare și-a recăpătat vederea după o operație în premieră",
-    "link": "https://www.realitatea.net/stiri/actualitate/descoperire-uriasa-in-medicina-o-femeie-nevazatoare-si-a-recapatat-vederea-dupa-o-operatie-in-premiera-rlrmgq",
-    "image": "https://www.realitatea.net/storage/media/5/2025/10/ochi_756a1e44a2.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T20:13:22.000Z"
   },
   {
     "title": "”Elie Wiesel” vrea să verifice dacă vulturul de pe Patriarhie face salutul legionar! REACȚIUNEA: Dumnezeu și Sfinții, Biserica Ortodoxă Română și ActiveNews, într-un ”Raport” calomnios de sub egida Secretariatului General al Guvernului României",
@@ -623,41 +840,6 @@
     "pubDate": "2026-07-27T20:10:00.000Z"
   },
   {
-    "title": "SUA recunosc decalajul față de Ucraina la producția de drone militare. Ce oprește Pentagonul să recupereze terenul",
-    "link": "https://www.digi24.ro/stiri/externe/sua-recunosc-decalajul-fata-de-ucraina-la-productia-de-drone-militare-ce-opreste-pentagonul-sa-recupereze-terenul-3881095",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA3JTJGMjgzODQ3NF8yODM4/NDc0X29wZXJhdG9yLWRyb25hLXVjcmFp/bmEuanBnJmhhc2g9ZWFjZTg1OGExNTJlZmNlYjhhMGVjMGE1ZTM4ODExMTM=.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T20:08:22.000Z"
-  },
-  {
-    "title": "Polonia, mesaj de susținere pentru România după dronele intrate pe teritoriul nostru",
-    "link": "https://hotnews.ro/oana-toiu-polonia-mesaj-de-solidaritate-cu-romania-dupa-incursiunile-dronelor-rusesti-2310742",
-    "image": "https://hotnews.ro/wp-content/uploads/2025/09/profimedia-1035789980.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T20:05:45.000Z"
-  },
-  {
-    "title": "Europa riscă să rămână fără gaze și să plătească scump, în iarna 2026-2027. Și producția și rezervele Romgaz au scăzut",
-    "link": "https://www.libertatea.ro/stiri/europa-ramane-fara-gaz-si-va-plati-scump-la-iarna-in-romania-productia-de-gaz-a-scazut-5830558",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/depozit-de-stocat-gaze-620x362.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-27T20:05:32.000Z"
-  },
-  {
-    "title": "Miruţă: Îi dăm lui Putin seria dronei să se ducă în Rusia să vadă poarta fabricii de unde a ieşit",
-    "link": "https://www.digi24.ro/stiri/actualitate/politica/miruta-ii-dam-lui-putin-seria-dronei-sa-se-duca-in-rusia-sa-vada-poarta-fabricii-de-unde-a-iesit-3881059",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjA2JTJGMjgzNTYyMV8yODM1/NjIxX056Z3dKbWc5TkRRd0ptaGhjMmc5/WWpZMU9EWTRaamcyWWpRNE4yTXhNRGt4/WlRnd1lXSTJaR0k0WkRZNVptUV90aHVt/Yl8uanBnJmhhc2g9NGNkNGY1MzllYTEzNzAwNWM0ZGZmMmUwZmQ5MzMxNjk=.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T20:04:10.000Z"
-  },
-  {
-    "title": "Bei cafea în fiecare zi? Iată ce se întâmplă, de fapt, cu ficatul tău",
-    "link": "https://jurnalul.ro/viata-sanatoasa/starea-de-sanatate/cate-cesti-cafea-pe-zi-protejeaza-ficatul-studiu-1040080.html",
-    "image": "https://jurnalul.ro/thumbs/landscape/2026/07/27/cate-cesti-cafea-pe-zi-protejeaza-ficatul-studiu-19020053.jpg",
-    "source": "jurnalul.ro",
-    "pubDate": "2026-07-27T20:00:01.000Z"
-  },
-  {
     "title": "Raportul Corpului de control al premierului: Nucleaerelectrica scoasă de sub protecția legii. Teren de 16 ori mai scump plătit din banii companiei",
     "link": "https://www.cotidianul.ro/raportul-corpului-de-control-al-premierului-nucleaerelectrica-scoasa-de-sub-protectia-legii-teren-de-16-ori-mai-scump-platit-din-banii-companiei/",
     "image": "https://www.cotidianul.ro/wp-content/uploads/2024/03/25/Doicesti.jpg",
@@ -665,67 +847,11 @@
     "pubDate": "2026-07-27T19:59:49.000Z"
   },
   {
-    "title": "Filiera consultanților mufați la banii statului. Cum ar fi oferit Pîslaru contracte de milioane de lei firmei sale",
-    "link": "https://www.realitatea.net/stiri/actualitate/filiera-consultantilor-mufati-la-banii-statului-cum-ar-fi-oferit-pislaru-contracte-de-milioane-de-lei-firmei-sale-p5qzex",
-    "image": "https://www.realitatea.net/storage/media/7/2026/06/dragos-pislaru-qR20m2.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T19:56:44.000Z"
-  },
-  {
     "title": "„Pot muri în orice clipă.” Mărturia cutremurătoare a unei femei care trăiește cu teama că o procedură estetică încercată și de vedete îi poate provoca un șoc septic",
     "link": "https://actualitate.net/a/pot-muri-in-orice-clipa-marturia-cutremuratoare-a-unei-femei-care-traieste-cu-teama-ca-o-procedura-estetica-incercata-si-de-vedete-ii-poate-provoca-un-soc-septic",
     "image": "https://actualitate.net/_image/3e9ae86fddb653f33ff6c371b85f49e8/r%3A720x480%3Bfit%3Acover/%2F2026%2F07%2Fdaniela-dana-interventie-estetica-Aquafilling.jpg.jpeg",
     "source": "actualitate.net",
     "pubDate": "2026-07-27T19:56:22.000Z"
-  },
-  {
-    "title": "Doi militari beți au furat o blindată de 15 tone și au făcut prăpăd pe străzi. Mai multe mașini au fost distruse - VIDEO",
-    "link": "https://www.realitatea.net/stiri/actualitate/doi-militari-beti-au-furat-o-blindata-de-15-tone-si-au-facut-prapad-pe-strazi-mai-multe-masini-au-fost-distruse-video-2utcy7",
-    "image": "https://www.realitatea.net/storage/media/7/2026/07/blindata-sf7VvM.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T19:55:45.000Z"
-  },
-  {
-    "title": "Dan Dungaciu (AUR): „NATO are și alte instrumente, nu funcționează așa lucrurile”",
-    "link": "https://www.realitatea.net/stiri/actualitate/dan-dungaciu-aur-nato-are-si-alte-instrumente-nu-functioneaza-asa-lucrurile-lnsp78",
-    "image": "https://www.realitatea.net/storage/media/7/2026/07/dan-dungaciu-prim-vicepresedinte-aur-OXdlq9.webp",
-    "source": "www.realitatea.net",
-    "pubDate": "2026-07-27T19:55:09.000Z"
-  },
-  {
-    "title": "Pe dronă scrie „Made in Russia” / Radu Miruță, după reacția Rusiei în cazul dronelor / „Nu există niciun argument în apărarea poziției Federației Ruse”",
-    "link": "https://www.g4media.ro/pe-drona-scrie-made-in-russia-radu-miruta-dupa-reactia-rusiei-in-cazul-dronelor-nu-exista-niciun-argument-in-apararea-pozitiei-federatiei-ruse.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/07/made-in-russia-1.png",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T19:47:57.000Z"
-  },
-  {
-    "title": "Marius Lazurca și generalul Gheorghiță Vlad, trimiși de președintele Nicușor Dan în SUA în urma incidentelor cu drone",
-    "link": "https://www.libertatea.ro/stiri/marius-lazurca-si-generalul-ghiorghita-vlad-trimisi-de-presedintele-nicusor-dan-in-sua-in-urma-incidentelor-cu-drone-5830569",
-    "image": "https://static4.libertatea.ro/wp-content/uploads/2026/07/consilierul-pentru-securitate-nationala-marius-gabriel-lazurca-foto-profimedia-e1785181488641-620x349.jpg",
-    "source": "www.libertatea.ro",
-    "pubDate": "2026-07-27T19:47:40.000Z"
-  },
-  {
-    "title": "După incursiunile dronelor rusești, Nicușor Dan face o mutare: Îi trimite la Washington pe șeful armatei române și pe un consilier prezidențial",
-    "link": "https://hotnews.ro/nicusor-dan-ii-trimite-la-washington-pe-seful-armatei-si-consilierul-sau-pentru-securitate-nationala-ce-trebuie-sa-discute-2310727",
-    "image": "https://hotnews.ro/wp-content/uploads/2026/05/ID263420-INQUAM-PHOTOS-GEORGE-CALIN.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T19:45:51.000Z"
-  },
-  {
-    "title": "Kelemen Hunor: Ilie Bolojan nu are cum să plece acum. Trebuie găsită o soluție, nu poți să faci reforme cu 35%",
-    "link": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-ilie-bolojan-nu-are-cum-sa-plece-acum-trebuie-gasita-o-solutie-nu-poti-sa-faci-reforme-cu-35-3881033",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI3JTJGMjg3MDk5M18yODcw/OTkzX2d1dmVybi1zYWxhLXNlZGludGUt/Z29hbGEtSUQyNDY1MzAtSU5RVUFNLVBI/T1RPUy1PQ1RBVi1HQU5FQS5wbmcmaGFz/aD1hNjJlMTI4MWYxMjc1MzRiMjVkNzkxMTY1MDE3ZWRkOA==.png",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T19:43:56.000Z"
-  },
-  {
-    "title": "Oana Țoiu: Polonia condamnă ferm recentele incursiuni ilegale în spațiul aerian al României",
-    "link": "https://www.g4media.ro/oana-toiu-polonia-condamna-ferm-recentele-incursiuni-ilegale-in-spatiul-aerian-al-romaniei.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/07/756347832_1725914065413300_1903401390920483500_n-e1785181307960.jpg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T19:42:58.000Z"
   },
   {
     "title": "Consilierul prezidenţial Marius Lazurca va merge la Washington, alături de şeful Statului Major al Apărării, Gheorghiţă Vlad. Se vor întâlni cu Administraţia Trump şi cu liderii Congresului",
@@ -749,46 +875,11 @@
     "pubDate": "2026-07-27T19:38:05.000Z"
   },
   {
-    "title": "Oficial de la București, mesaj pentru Vladimir Putin și ambasadorul rus: „Să se ducă să vadă poarta fabricii pe care au ieșit” dronele ajunse în România",
-    "link": "https://hotnews.ro/radu-miruta-mesaj-pentru-vladimir-putin-si-ambasadorul-rus-se-duca-sa-vada-poarta-fabricii-pe-care-au-iesit-dronele-ajunse-in-romania-2310726",
-    "image": "https://hotnews.ro/wp-content/uploads/2026/05/profimedia-1106022279.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T19:36:52.000Z"
-  },
-  {
-    "title": "Emmanuel Macron spune că incendiile din Franța au provocat cea mai mare criză de la cel de-al Doilea Război Mondial încoace",
-    "link": "https://www.gandul.ro/international/emmanuel-macron-spune-ca-incendiile-din-franta-au-provocat-cea-mai-mare-criza-de-la-cel-de-al-doilea-razboi-mondial-incoace-20964065",
-    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/a1114c53883abf1e63c4a1b6f023983c-760x507-1.jpg",
-    "source": "www.gandul.ro",
-    "pubDate": "2026-07-27T19:34:31.000Z"
-  },
-  {
-    "title": "Sorin Grindeanu anunță un guvern cu puteri depline până pe 15 august / Exclude alianța cu AUR: ”Simion și Dungaciu nu au spus nimic despre dronele rusești” / Atac la „pesta haștagistă” și „bula uzurpatorilor”",
-    "link": "https://www.g4media.ro/sorin-grindeanu-anunta-un-guvern-cu-puteri-depline-pana-pe-15-august-exclude-alianta-cu-aur-simion-si-dungaciu-nu-au-spus-nimic-despre-dronele-rusesti-atac-la-pesta-has.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2025/06/ILUSTRATIE_SALA_MUNTENIA_GUVERN_13_INQUAM_Photos_Octav_Ganea.jpg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T19:34:08.000Z"
-  },
-  {
     "title": "Emily Wilson, una dintre cele mai importante traducătoare ale lui Homer, atacă dur filmul „The Odyssey” al lui Christopher Nolan: „Scenariul este deplorabil. Mi-ar fi rușine să fi scris acest scenariu”",
     "link": "https://actualitate.net/a/emily-wilson-una-dintre-cele-mai-importante-traducatoare-ale-lui-homer-ataca-dur-filmul-the-odyssey-al-lui-christopher-nolan-scenariul-este-deplorabil-mi-ar-fi-rusine-sa-fi-scris-orice-",
     "image": "https://actualitate.net/_image/bac3660565264e6eed12ebddc66edcf1/r%3A720x480%3Bfit%3Acover/%2F2026%2F07%2F-The-Odyssey-.jpg.jpeg",
     "source": "actualitate.net",
     "pubDate": "2026-07-27T19:28:52.000Z"
-  },
-  {
-    "title": "Kelemen Hunor: Sunt șanse „zero” ca legea salarizării să treacă săptămâna aceasta. „4 miliarde sunt enorm de mulți bani când nu-i ai”",
-    "link": "https://www.digi24.ro/stiri/actualitate/politica/kelemen-hunor-sunt-sanse-zero-ca-legea-salarizarii-sa-treaca-saptamana-aceasta-4-miliarde-sunt-enorm-de-multi-bani-cand-nu-i-ai-3881071",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjUl/MkYxMCUyRjI3JTJGMjQwNzQ5NV8yNDA3/NDk1X2tlbGVtZW4taHVub3ItaW5xdWFt/LWdlb3JnZS1jYWxpbi5qcGcmaGFzaD1i/ZTg1NTIyNDlkYjQwOGY2YzIyNzdlODFhMGIyYzI4Mw==.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T19:28:43.000Z"
-  },
-  {
-    "title": "Letonia dorește să înlăture indicatoarele rutiere care arată direcția spre Rusia și Belarus",
-    "link": "https://www.digi24.ro/stiri/externe/letonia-doreste-sa-inlature-indicatoarele-rutiere-care-arata-directia-spre-rusia-si-belarus-3881017",
-    "image": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwNyUyRjI3JTJGMjg3MDk5OV8yODcw/OTk5X0luZGljYXRvci1sYS1pbnRyYXJl/YS1pbi1MZXRvbmlhXy1JbWFnaW5lLWN1/LWNhcmFjdGVyLWlsdXN0cmF0aXZfLUZv/dG8tUHJvZmltZWRpYS5qcGcmaGFzaD01/Yzg5MTljOWJiNjU1OGQ4NDk5ZDU0MTM5OGM1YjU1OA==.jpg",
-    "source": "www.digi24.ro",
-    "pubDate": "2026-07-27T19:27:33.000Z"
   },
   {
     "title": "De mai bine de o lună, Alba Iulia nu mai are transport public. Șoferii, care sunt în grevă, spun  că nu şi-au primit salariile",
@@ -798,20 +889,6 @@
     "pubDate": "2026-07-27T19:20:07.000Z"
   },
   {
-    "title": "O femeie nevăzătoare şi-a recăpătat vederea în Italia, în urma unui transplant în premieră / ”A suferit traumatisme grave, care i-au compromis iremediabil retina şi transparenţa corneei”",
-    "link": "https://www.g4media.ro/o-femeie-nevazatoare-si-a-recapatat-vederea-in-italia-in-urma-unui-transplant-in-premiera-a-suferit-traumatisme-grave-care-i-au-compromis-iremediabil-retina-si-transparenta-corneei.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2023/02/chirurgie-operatie-spital-doctor-medic-e1684569513362.jpg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T19:17:39.000Z"
-  },
-  {
-    "title": "Kelemen Hunor spune că legea salarizării nu are șanse să fie adoptată în această săptămână: Nu putem accepta să scadă veniturile din Sănătate și Educație",
-    "link": "https://www.g4media.ro/kelemen-hunor-spune-ca-legea-salarizarii-nu-are-sanse-sa-fie-adoptata-in-aceasta-saptamana-nu-putem-accepta-sa-scada-veniturile-din-sanatate-si-educatie.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/05/Kelemen-Hunor.jpg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T19:13:54.000Z"
-  },
-  {
     "title": "Cornel Constantin Ciomâzgă: RELIGIA FĂRĂ DUMNEZEU",
     "link": "https://www.activenews.ro/opinii/Cornel-Constantin-Ciomazga-RELIGIA-FARA-DUMNEZEU-206969",
     "image": "https://www.activenews.ro/images/articole/206969.jpg",
@@ -819,46 +896,11 @@
     "pubDate": "2026-07-27T19:13:14.000Z"
   },
   {
-    "title": "Scandal în platoul emisiunii „Subiectul Zilei”. Deputatul USR George Gima se ceartă cu senatorul PSD Daniel Zamfir pe apărarea împotriva dronelor",
-    "link": "https://www.gandul.ro/emisiuni/scandal-in-platoul-emisiunii-subiectul-zilei-deputatul-usr-george-gima-se-cearta-cu-senatorul-psd-daniel-zamfir-pe-apararea-impotriva-dronelor-20964039",
-    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/zamfir-si-gima-1280x720.png",
-    "source": "www.gandul.ro",
-    "pubDate": "2026-07-27T19:12:45.000Z"
-  },
-  {
     "title": "Comandamentul Energetic, convocat de urgență. Nuclearelectrica opreşte Reactorul 1 de la Cernavodă din cauza secetei",
     "link": "https://www.cotidianul.ro/comandamentul-energetic-convocat-de-urgenta-nuclearelectrica-opreste-reactorul-1-de-la-cernavoda-din-cauza-secetei/",
     "image": "https://www.cotidianul.ro/wp-content/uploads/2026/06/cernavoda.jpg",
     "source": "www.cotidianul.ro",
     "pubDate": "2026-07-27T19:12:05.000Z"
-  },
-  {
-    "title": "„Azi la ce oră vine drona?” Cum poate ajunge un incident grav de securitate o banalitate. Cele două scenarii posibile care explică incursiunile repetate ale dronelor în spațiul aerian românesc",
-    "link": "https://www.gandul.ro/stiri/azi-la-ce-ora-vine-drona-cum-poate-ajunge-un-incident-grav-de-securitate-o-banalitate-cele-doua-scenarii-posibile-care-explica-incursiunile-repetate-ale-dronelor-in-spatiul-aerian-20962818",
-    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/754248075_1020504110736422_742569053909730867_n-1280x937.jpg",
-    "source": "www.gandul.ro",
-    "pubDate": "2026-07-27T19:09:51.000Z"
-  },
-  {
-    "title": "„Nu există dubiu”. Cine a confirmat că drona de la Buzău este de proveniență rusească. Anunțul ministrului Apărării",
-    "link": "https://hotnews.ro/radu-miruta-nu-exista-dubiu-procurorul-de-caz-a-confirmat-ca-drona-de-vineri-de-la-buzau-e-de-provenienta-ruseasca-2310716",
-    "image": "https://hotnews.ro/wp-content/uploads/2026/07/colaj-drona-harta.jpg",
-    "source": "hotnews.ro",
-    "pubDate": "2026-07-27T19:04:06.000Z"
-  },
-  {
-    "title": "”Săptămâna trecută am fost luat la mișto” / Sorin Grindeanu explică de ce a depus 12 plângeri împotriva Guvernului / Promisiune din ATI: „Nu vom vota scăderea salariilor”",
-    "link": "https://www.g4media.ro/saptamana-trecuta-am-fost-luat-la-misto-sorin-grindeanu-explica-de-ce-a-depus-12-plangeri-impotriva-guvernului-promisiune-din-ati-nu-vom-vota-scaderea-salariilor.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/04/Referendum-intern-PSD-Sorin-Grindeanu-5-scaled.jpg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T19:03:53.000Z"
-  },
-  {
-    "title": "Senat: Finalizarea cumpărării locuinţelor cu antecontracte încheiate cu TVA 9%, prelungită până la 30 septembrie",
-    "link": "https://tvrinfo.ro/senat-finalizarea-cumpararii-locuintelor-cu-antecontracte-incheiate-cu-tva-9-prelungita-pana-la-30-septembrie/",
-    "image": "https://tvrinfo.ro/wp-content/uploads/2026/05/senat-1.jpg",
-    "source": "tvrinfo.ro",
-    "pubDate": "2026-07-27T19:02:18.000Z"
   },
   {
     "title": "Companie din Dubai cere creanțe de peste 16 miliarde de ruble în falimentul fostului proprietar al unei rafinării strategice din Rusia",
@@ -873,34 +915,6 @@
     "image": "https://seintamplainvalcea.ro/wp-content/uploads/2026/07/9B761A37-0268-4D43-9461-FB384ECD786B.jpeg",
     "source": "seintamplainvalcea.ro",
     "pubDate": "2026-07-27T19:01:50.000Z"
-  },
-  {
-    "title": "Temperaturile ridicate ne fac irascibili. Ce recomandă medicii de la SJU Slatina pentru următoarea perioadă caniculară",
-    "link": "https://tvrinfo.ro/temperaturile-ridicate-ne-fac-irascibili-ce-recomanda-medicii-de-la-sju-slatina-pentru-urmatoarea-perioada-caniculara/",
-    "image": "https://tvrinfo.ro/wp-content/uploads/2024/04/caldura_27131700.png",
-    "source": "tvrinfo.ro",
-    "pubDate": "2026-07-27T18:58:14.000Z"
-  },
-  {
-    "title": "Miruță, mesaj furibund la adresa rușilor: „Dau de pământ cu drona ta”",
-    "link": "https://www.gandul.ro/politica/miruta-mesaj-furibund-la-adresa-rusilor-dau-de-pamant-cu-drona-ta-20964043",
-    "image": "https://www.gandul.ro/wp-content/uploads/2026/07/befunky-collage-2026-07-27t215116-896-1280x723.jpg",
-    "source": "www.gandul.ro",
-    "pubDate": "2026-07-27T18:51:43.000Z"
-  },
-  {
-    "title": "Austria vrea să mărească durata serviciului militar, în contextul războiului din Ucraina / ”Visul unei păci durabile în Europa s-a spulberat”",
-    "link": "https://www.g4media.ro/austria-vrea-sa-mareasca-durata-serviciului-militar-in-contextul-razboiului-din-ucraina-visul-unei-paci-durabile-in-europa-s-a-spulberat.html",
-    "image": "https://www.g4media.ro//wp-content/uploads/2026/01/armata-Austria-militari-Austria-scaled.jpg",
-    "source": "www.g4media.ro",
-    "pubDate": "2026-07-27T18:48:07.000Z"
-  },
-  {
-    "title": "Ambasadorul Federației Ruse în România respinge „acuzațiile nefondate” aduse de România: „înscenare propagandistică”",
-    "link": "https://www.cotidianul.ro/ambasadorul-federatiei-ruse-in-romania-respinge-acuzatiile-nefondate-aduse-de-romania-inscenare-propagandistica/",
-    "image": "https://www.cotidianul.ro/wp-content/uploads/2026/05/vladimir-lipaev-ambasador-rus-romania.jpg",
-    "source": "www.cotidianul.ro",
-    "pubDate": "2026-07-27T18:30:46.000Z"
   },
   {
     "title": "Victor Roncea cu Adrian Păunescu: SE URCĂ ROMÂNIA IAR PE CRUCE",
@@ -945,20 +959,6 @@
     "pubDate": "2026-07-27T18:02:17.000Z"
   },
   {
-    "title": "Procurorul de caz din dosarele lui Raed Arafat a formulat o cerere apărare a reputaţiei profesionale, după acuzațiile aduse de șeful DSU",
-    "link": "https://tvrinfo.ro/procurorul-de-caz-din-dosarele-lui-raed-arafat-a-formulat-o-cerere-aparare-a-reputatiei-profesionale-dupa-acuzatiile-aduse-de-seful-dsu/",
-    "image": "https://tvrinfo.ro/wp-content/uploads/2026/07/raed-arafat.jpg",
-    "source": "tvrinfo.ro",
-    "pubDate": "2026-07-27T17:53:35.000Z"
-  },
-  {
-    "title": "Atacurile americane asupra ambarcaţiunilor nu au redus fluxul de droguri spre SUA, potrivit unei evaluări oficiale",
-    "link": "https://tvrinfo.ro/atacurile-americane-asupra-ambarcatiunilor-nu-au-redus-fluxul-de-droguri-spre-sua-potrivit-unei-evaluari-oficiale/",
-    "image": "https://tvrinfo.ro/wp-content/uploads/2025/10/ambarcatiune.jpg",
-    "source": "tvrinfo.ro",
-    "pubDate": "2026-07-27T17:52:35.000Z"
-  },
-  {
     "title": "“Mare(a) îndrăzneală...”",
     "link": "https://www.activenews.ro/stiri/Mare-a-indrazneala...-206966",
     "image": "https://www.activenews.ro/images/articole/206966.jpg",
@@ -966,25 +966,11 @@
     "pubDate": "2026-07-27T17:47:58.000Z"
   },
   {
-    "title": "Delegaţia americană părăseşte o reuniune a Consiliului de Securitate pentru a protesta împotriva criticilor franceze",
-    "link": "https://tvrinfo.ro/delegatia-americana-paraseste-o-reuniune-a-consiliului-de-securitate-pentru-a-protesta-impotriva-criticilor-franceze/",
-    "image": "https://tvrinfo.ro/wp-content/uploads/2026/07/sigla-onu-geam.jpg",
-    "source": "tvrinfo.ro",
-    "pubDate": "2026-07-27T17:41:18.000Z"
-  },
-  {
     "title": "Mihai Gribincea: Memoria istorică nu se demolează. Astăzi Adrian Păunescu. Mâine cine?",
     "link": "https://www.activenews.ro/stiri/Mihai-Gribincea-Memoria-istorica-nu-se-demoleaza.-Astazi-Adrian-Paunescu.-Maine-cine-206965",
     "image": "https://www.activenews.ro/images/articole/206965.jpg",
     "source": "www.activenews.ro",
     "pubDate": "2026-07-27T17:36:00.000Z"
-  },
-  {
-    "title": "Legea ANI: Sub presiunea PNRR, partidele renunță la secretizarea averilor",
-    "link": "https://tvrinfo.ro/legea-ani-sub-presiunea-pnrr-partidele-renunta-la-secretizarea-averilor/",
-    "image": "https://tvrinfo.ro/wp-content/uploads/2026/07/INSTANT_CDEP_SESIUNE_EXTRAORDINARA_039_INQUAM_Photos_Octav_Ganea-1024x683.jpg",
-    "source": "tvrinfo.ro",
-    "pubDate": "2026-07-27T17:28:21.000Z"
   },
   {
     "title": "Nuclearelectrica oprește controlat Reactorul 1 de la Cernavodă, începând de marți dimineața, din cauza “nivelului scăzut, fără precedent, al Dunării”. Măsura este una preventivă, fluviul asigurând răcirea aburului tehnic și a echipamentelor de siguranță ale centralei nucleare.",
@@ -1020,13 +1006,6 @@
     "image": "https://romanialibera.ro/wp-content/uploads/2026/06/viza-rusia-scaled.jpg",
     "source": "romanialibera.ro",
     "pubDate": "2026-07-27T17:12:47.000Z"
-  },
-  {
-    "title": "Schimbare la Realitatea Plus. Cine îi va lua locul Ancăi Alexandrescu",
-    "link": "https://www.activenews.ro/stiri/Schimbare-la-Realitatea-Plus.-Cine-ii-va-lua-locul-Ancai-Alexandrescu-206963",
-    "image": "https://www.activenews.ro/images/articole/206963.jpg",
-    "source": "www.activenews.ro",
-    "pubDate": "2026-07-27T17:03:07.000Z"
   },
   {
     "title": "România în UE: între federalizarea intereselor naționale și pro-europenismul neobolșevic",
@@ -1379,25 +1358,11 @@
     "pubDate": "2026-07-27T09:19:38.000Z"
   },
   {
-    "title": "Motive românești pentru care să ajungi la Rockstadt Extreme Fest 2026",
-    "link": "https://zilesinopti.ro/2026/07/27/trupe-romanesti-rockstadt-extreme-fest-2026/",
-    "image": "https://zilesinopti.ro/wp-content/uploads/2026/07/trupe-romanesti-Rockstadt-Extreme-Fest-2026.webp",
-    "source": "zilesinopti.ro",
-    "pubDate": "2026-07-27T09:11:19.000Z"
-  },
-  {
     "title": "Dan Constantin - Solicitare fără sens: ascunderea statuii lui Adrian Păunescu",
     "link": "https://mariustuca.ro/actualitate/dan-constantin-solicitare-fara-sens-ascunderea-statuii-lui-adrian-paunescu-79189.html",
     "image": "https://mariustuca.ro/thumbs/int/2026/07/27/dan-constantin-solicitare-fara-sens-ascunderea-statuii-lui-adrian-paunescu-83899.png",
     "source": "mariustuca.ro",
     "pubDate": "2026-07-27T09:09:57.000Z"
-  },
-  {
-    "title": "Filarmonica Brașov încheie luna iulie cu noi evenimente muzicale",
-    "link": "https://zilesinopti.ro/2026/07/27/filarmonica-brasov-incheie-luna-iulie/",
-    "image": "https://zilesinopti.ro/wp-content/uploads/2026/07/Concert-estival-Piata-Sf.-Ioan-Foto-Iosif-Trif1.webp",
-    "source": "zilesinopti.ro",
-    "pubDate": "2026-07-27T09:07:55.000Z"
   },
   {
     "title": "Marile companii de inteligență artificială au cheltuit sume record pentru lobby la Washington, doar în ultimele luni, în încercarea de a obține reglementări mai favorabile, inclusiv în privința centrelor de date și a verificării modelelor avansate.",
@@ -1426,13 +1391,6 @@
     "image": "https://solidnews.ro/wp-content/uploads/2026/07/mojtaba-khamenei_zef5V.webp",
     "source": "solidnews.ro",
     "pubDate": "2026-07-27T08:55:23.000Z"
-  },
-  {
-    "title": "Programul cinematografelor din Timișoara: 28 iulie – 2 august, la Victoria, Timiș și Studio",
-    "link": "https://zilesinopti.ro/2026/07/27/program-cinema-timisoara-28-iulie-august/",
-    "image": "https://zilesinopti.ro/wp-content/uploads/2026/07/1-header-tm.webp",
-    "source": "zilesinopti.ro",
-    "pubDate": "2026-07-27T08:54:37.000Z"
   },
   {
     "title": "Nicoleta Svârlefus s-a despărțit după 23 de ani de relație. Frica care a făcut-o să amâne decizia mult timp: „ A fost ca o moarte pentru mine”",
@@ -1533,13 +1491,6 @@
     "pubDate": "2026-07-27T07:02:28.000Z"
   },
   {
-    "title": "Încă o dronă rusească a intrat luni dimineață, dar pentru scurt timp, în spațiul aerian al României. Aeronavele F-16, trimise de la Fetești, au raportat că drona a trecut în Ucraina, fără a mai fi doborâtă de militarii români. Populația din Tulcea fusese avertizată cu RO-Alert.",
-    "link": "https://www.biziday.ro/364385-2/?utm_source=rss&utm_medium=rss&utm_campaign=364385-2",
-    "image": "https://cdn.biziday.ro/wp-content/uploads/2022/10/drona-shahed.png",
-    "source": "www.biziday.ro",
-    "pubDate": "2026-07-27T06:49:41.000Z"
-  },
-  {
     "title": "Politica guvernului: creșteri de impozite pentru a putea împrumuta în ritm nebunesc la dobânzi împovărătoare",
     "link": "https://www.cristoiublog.ro/politica-guvernului-cresteri-de-impozite-pentru-a-putea-imprumuta-in-ritm-nebunesc-la-dobanzi-impovaratoare/",
     "image": "https://www.cristoiublog.ro/wp-content/uploads/2026/07/peiu.jpg",
@@ -1573,33 +1524,5 @@
     "image": "https://seintamplainvalcea.ro/wp-content/uploads/2026/07/E437E42B-DDE0-4E53-A361-DD0E32065011.png",
     "source": "seintamplainvalcea.ro",
     "pubDate": "2026-07-27T05:34:00.000Z"
-  },
-  {
-    "title": "Ultima strigare pentru PNRR. Sesiunea parlamentară extraordinară",
-    "link": "https://www.cristoiublog.ro/ultima-strigare-pentru-pnrr-sesiunea-parlamentara-extraordinara/",
-    "image": "https://www.cristoiublog.ro/wp-content/uploads/2024/03/cover-articole-fb.jpg",
-    "source": "www.cristoiublog.ro",
-    "pubDate": "2026-07-27T04:35:09.000Z"
-  },
-  {
-    "title": "Două interviuri de demult (II)",
-    "link": "https://www.cristoiublog.ro/doua-interviuri-de-demult-ii/",
-    "image": "https://www.cristoiublog.ro/wp-content/uploads/2020/05/marian_nazat_header.jpg",
-    "source": "www.cristoiublog.ro",
-    "pubDate": "2026-07-27T04:26:10.000Z"
-  },
-  {
-    "title": "Apariția și dispariția coalițiilor politice. Cazul BND, iunie – septembrie 1944 (XIX)",
-    "link": "https://www.cristoiublog.ro/aparitia-si-disparitia-coalitiilor-politice-cazul-bnd-iunie-septembrie-1944-xix/",
-    "image": "https://www.cristoiublog.ro/wp-content/uploads/2024/01/teodor-brates.jpg",
-    "source": "www.cristoiublog.ro",
-    "pubDate": "2026-07-27T04:23:49.000Z"
-  },
-  {
-    "title": "Nu e bine nici că s-au doborât drone",
-    "link": "https://zoso.ro/bine-nici-doborat-drone/",
-    "image": "https://zoso.ro/img/2025/09/drona-720x300.jpg",
-    "source": "zoso.ro",
-    "pubDate": "2026-07-27T04:19:27.000Z"
   }
 ]
