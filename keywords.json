@@ -2803,5 +2803,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T19:00:43.560Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 17
+      },
+      {
+        "word": "Guvernul",
+        "count": 14
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      }
+    ]
   }
 ]
