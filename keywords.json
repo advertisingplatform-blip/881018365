@@ -2786,5 +2786,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T18:00:39.362Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 15
+      },
+      {
+        "word": "Guvernul",
+        "count": 10
+      },
+      {
+        "word": "Bolojan",
+        "count": 10
+      }
+    ]
   }
 ]
