@@ -2667,5 +2667,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T11:00:34.994Z",
+    "keywords": [
+      {
+        "word": "Grindeanu",
+        "count": 12
+      },
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "George",
+        "count": 9
+      }
+    ]
   }
 ]
