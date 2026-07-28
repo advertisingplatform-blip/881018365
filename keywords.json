@@ -2616,5 +2616,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T08:01:00.930Z",
+    "keywords": [
+      {
+        "word": "Aproape",
+        "count": 12
+      },
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Rusia",
+        "count": 10
+      }
+    ]
   }
 ]
