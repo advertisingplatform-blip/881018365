@@ -2531,5 +2531,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T03:00:55.545Z",
+    "keywords": [
+      {
+        "word": "Rusia",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "dronelor",
+        "count": 10
+      }
+    ]
   }
 ]
