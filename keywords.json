@@ -3075,5 +3075,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-29T12:01:17.791Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "Bolojan",
+        "count": 8
+      }
+    ]
   }
 ]
