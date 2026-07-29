@@ -3024,5 +3024,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-29T09:00:33.445Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 14
+      },
+      {
+        "word": "Național",
+        "count": 10
+      },
+      {
+        "word": "României",
+        "count": 10
+      }
+    ]
   }
 ]
