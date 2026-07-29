@@ -3007,5 +3007,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-29T08:00:38.816Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Național",
+        "count": 10
+      },
+      {
+        "word": "milioane",
+        "count": 10
+      }
+    ]
   }
 ]
