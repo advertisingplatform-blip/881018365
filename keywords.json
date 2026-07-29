@@ -2956,5 +2956,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-29T05:01:21.952Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "Japonia",
+        "count": 7
+      }
+    ]
   }
 ]
