@@ -3364,5 +3364,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T07:03:43.951Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "Bolojan",
+        "count": 12
+      },
+      {
+        "word": "Tulcea",
+        "count": 10
+      }
+    ]
   }
 ]
