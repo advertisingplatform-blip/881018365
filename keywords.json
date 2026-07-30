@@ -3313,5 +3313,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T04:00:42.525Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 18
+      },
+      {
+        "word": "Cernavodă",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      }
+    ]
   }
 ]
