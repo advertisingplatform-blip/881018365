@@ -3534,5 +3534,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T17:01:06.084Z",
+    "keywords": [
+      {
+        "word": "Legea",
+        "count": 12
+      },
+      {
+        "word": "euro",
+        "count": 11
+      },
+      {
+        "word": "Bolojan",
+        "count": 10
+      }
+    ]
   }
 ]
