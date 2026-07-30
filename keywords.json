@@ -3381,5 +3381,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T08:02:11.176Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 13
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "caniculă",
+        "count": 8
+      }
+    ]
   }
 ]
