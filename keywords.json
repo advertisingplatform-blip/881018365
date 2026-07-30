@@ -3432,5 +3432,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T11:01:01.388Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 12
+      },
+      {
+        "word": "Cernavodă",
+        "count": 10
+      },
+      {
+        "word": "Europa",
+        "count": 8
+      }
+    ]
   }
 ]
