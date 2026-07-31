@@ -3789,5 +3789,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-31T10:00:39.066Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Ceuta",
+        "count": 9
+      },
+      {
+        "word": "Dinamo",
+        "count": 8
+      }
+    ]
   }
 ]
