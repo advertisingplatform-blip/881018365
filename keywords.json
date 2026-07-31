@@ -3738,5 +3738,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-31T07:00:58.218Z",
+    "keywords": [
+      {
+        "word": "Spania",
+        "count": 10
+      },
+      {
+        "word": "Ceuta",
+        "count": 8
+      },
+      {
+        "word": "Bolojan",
+        "count": 7
+      }
+    ]
   }
 ]
