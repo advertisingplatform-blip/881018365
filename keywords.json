@@ -4299,5 +4299,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-01T19:00:42.888Z",
+    "keywords": [
+      {
+        "word": "Ceuta",
+        "count": 17
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "criza",
+        "count": 9
+      }
+    ]
   }
 ]
