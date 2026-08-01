@@ -4163,5 +4163,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-01T11:00:37.035Z",
+    "keywords": [
+      {
+        "word": "Ceuta",
+        "count": 15
+      },
+      {
+        "word": "Fitch",
+        "count": 12
+      },
+      {
+        "word": "Nicușor",
+        "count": 9
+      }
+    ]
   }
 ]
