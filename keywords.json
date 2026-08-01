@@ -4078,5 +4078,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-01T06:00:32.723Z",
+    "keywords": [
+      {
+        "word": "Fitch",
+        "count": 12
+      },
+      {
+        "word": "Ceuta",
+        "count": 11
+      },
+      {
+        "word": "București",
+        "count": 10
+      }
+    ]
   }
 ]
