@@ -4503,5 +4503,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T08:00:32.119Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 13
+      },
+      {
+        "word": "Ceuta",
+        "count": 10
+      },
+      {
+        "word": "aeriană",
+        "count": 10
+      }
+    ]
   }
 ]
