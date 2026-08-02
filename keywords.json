@@ -4605,5 +4605,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T14:00:31.368Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 8
+      },
+      {
+        "word": "Ceuta",
+        "count": 8
+      },
+      {
+        "word": "nouă",
+        "count": 8
+      }
+    ]
   }
 ]
