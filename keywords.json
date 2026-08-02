@@ -4656,5 +4656,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T17:01:36.047Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 7
+      },
+      {
+        "word": "Grecia",
+        "count": 7
+      },
+      {
+        "word": "murit",
+        "count": 6
+      }
+    ]
   }
 ]
