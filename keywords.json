@@ -4673,5 +4673,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T18:00:41.273Z",
+    "keywords": [
+      {
+        "word": "Grecia",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "Loto",
+        "count": 8
+      }
+    ]
   }
 ]
