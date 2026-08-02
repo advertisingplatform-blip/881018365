@@ -4401,5 +4401,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T02:00:48.865Z",
+    "keywords": [
+      {
+        "word": "Ceuta",
+        "count": 17
+      },
+      {
+        "word": "morți",
+        "count": 11
+      },
+      {
+        "word": "răniți",
+        "count": 10
+      }
+    ]
   }
 ]
