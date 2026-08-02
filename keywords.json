@@ -4639,5 +4639,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-02T16:00:56.675Z",
+    "keywords": [
+      {
+        "word": "Grecia",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 11
+      },
+      {
+        "word": "elicoptere",
+        "count": 10
+      }
+    ]
   }
 ]
