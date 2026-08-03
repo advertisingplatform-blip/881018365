@@ -5013,5 +5013,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-03T15:02:30.384Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 15
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "Dunăre",
+        "count": 8
+      }
+    ]
   }
 ]
