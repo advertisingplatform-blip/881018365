@@ -5081,5 +5081,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-03T19:01:05.993Z",
+    "keywords": [
+      {
+        "word": "ENERGIE",
+        "count": 12
+      },
+      {
+        "word": "Bolojan",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 8
+      }
+    ]
   }
 ]
