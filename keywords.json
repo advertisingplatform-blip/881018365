@@ -5387,5 +5387,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T19:00:45.424Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 15
+      },
+      {
+        "word": "Legea",
+        "count": 10
+      },
+      {
+        "word": "Europa",
+        "count": 9
+      }
+    ]
   }
 ]
