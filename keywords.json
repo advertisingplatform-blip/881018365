@@ -5353,5 +5353,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T17:00:43.499Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 11
+      },
+      {
+        "word": "Bolojan",
+        "count": 7
+      },
+      {
+        "word": "energetică",
+        "count": 7
+      }
+    ]
   }
 ]
