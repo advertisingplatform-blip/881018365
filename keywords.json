@@ -5166,5 +5166,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T01:00:44.264Z",
+    "keywords": [
+      {
+        "word": "energie",
+        "count": 14
+      },
+      {
+        "word": "euro",
+        "count": 9
+      },
+      {
+        "word": "Trump",
+        "count": 8
+      }
+    ]
   }
 ]
