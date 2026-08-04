@@ -5421,5 +5421,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T23:01:22.776Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "Dunăre",
+        "count": 9
+      },
+      {
+        "word": "Nicușor",
+        "count": 8
+      }
+    ]
   }
 ]
