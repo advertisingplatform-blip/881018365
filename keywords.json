@@ -5149,5 +5149,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T00:00:42.844Z",
+    "keywords": [
+      {
+        "word": "energie",
+        "count": 14
+      },
+      {
+        "word": "euro",
+        "count": 11
+      },
+      {
+        "word": "milioane",
+        "count": 9
+      }
+    ]
   }
 ]
