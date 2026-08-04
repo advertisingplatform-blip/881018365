@@ -5234,5 +5234,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-04T05:05:12.125Z",
+    "keywords": [
+      {
+        "word": "energie",
+        "count": 11
+      },
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "milioane",
+        "count": 8
+      }
+    ]
   }
 ]
