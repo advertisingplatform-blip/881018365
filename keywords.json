@@ -5540,5 +5540,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T06:00:43.888Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "Europa",
+        "count": 8
+      }
+    ]
   }
 ]
