@@ -5744,5 +5744,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T18:00:31.125Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "euro",
+        "count": 8
+      },
+      {
+        "word": "Strategia",
+        "count": 7
+      }
+    ]
   }
 ]
