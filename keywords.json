@@ -5625,5 +5625,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T11:03:29.932Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Nicușor",
+        "count": 9
+      },
+      {
+        "word": "euro",
+        "count": 8
+      }
+    ]
   }
 ]
