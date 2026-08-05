@@ -5795,5 +5795,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T21:00:41.352Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 12
+      },
+      {
+        "word": "energie",
+        "count": 8
+      },
+      {
+        "word": "Legea",
+        "count": 8
+      }
+    ]
   }
 ]
