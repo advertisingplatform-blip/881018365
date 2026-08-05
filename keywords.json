@@ -5659,5 +5659,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T13:01:19.514Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "energie",
+        "count": 10
+      },
+      {
+        "word": "Nicușor",
+        "count": 9
+      }
+    ]
   }
 ]
