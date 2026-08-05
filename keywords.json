@@ -5812,5 +5812,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T22:01:20.012Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 6
+      },
+      {
+        "word": "București",
+        "count": 5
+      },
+      {
+        "word": "schimbat",
+        "count": 4
+      }
+    ]
   }
 ]
