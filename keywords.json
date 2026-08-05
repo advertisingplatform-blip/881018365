@@ -5523,5 +5523,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T05:01:40.851Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 11
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Dunăre",
+        "count": 8
+      }
+    ]
   }
 ]
