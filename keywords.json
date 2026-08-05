@@ -5761,5 +5761,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T19:03:33.035Z",
+    "keywords": [
+      {
+        "word": "Legea",
+        "count": 12
+      },
+      {
+        "word": "euro",
+        "count": 12
+      },
+      {
+        "word": "București",
+        "count": 11
+      }
+    ]
   }
 ]
