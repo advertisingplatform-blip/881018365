@@ -5778,5 +5778,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T20:01:28.273Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 13
+      },
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Legea",
+        "count": 9
+      }
+    ]
   }
 ]
