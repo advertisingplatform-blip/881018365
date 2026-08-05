@@ -5557,5 +5557,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-05T07:00:36.445Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 8
+      },
+      {
+        "word": "Patru",
+        "count": 8
+      }
+    ]
   }
 ]
