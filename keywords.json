@@ -5965,5 +5965,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-06T08:00:44.081Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 13
+      },
+      {
+        "word": "milioane",
+        "count": 9
+      },
+      {
+        "word": "caniculă",
+        "count": 9
+      }
+    ]
   }
 ]
