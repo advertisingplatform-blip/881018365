@@ -6033,5 +6033,22 @@
         "count": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-06T12:00:48.124Z",
+    "keywords": [
+      {
+        "word": "Călin",
+        "count": 12
+      },
+      {
+        "word": "Georgescu",
+        "count": 12
+      },
+      {
+        "word": "Bolojan",
+        "count": 11
+      }
+    ]
   }
 ]
