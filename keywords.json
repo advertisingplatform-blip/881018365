@@ -5846,5 +5846,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-06T00:02:24.500Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "Nicușor",
+        "count": 7
+      }
+    ]
   }
 ]
