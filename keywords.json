@@ -5880,5 +5880,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-06T02:00:30.375Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 11
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "Față",
+        "count": 7
+      }
+    ]
   }
 ]
