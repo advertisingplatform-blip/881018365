@@ -6254,5 +6254,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-07T12:00:41.468Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Bolojan",
+        "count": 8
+      },
+      {
+        "word": "energetică",
+        "count": 7
+      }
+    ]
   }
 ]
