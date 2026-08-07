@@ -6135,5 +6135,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-07T05:00:47.236Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Germania",
+        "count": 9
+      },
+      {
+        "word": "criza",
+        "count": 7
+      }
+    ]
   }
 ]
