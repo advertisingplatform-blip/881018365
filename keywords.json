@@ -6271,5 +6271,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-07T13:02:50.453Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 7
+      },
+      {
+        "word": "euro",
+        "count": 6
+      },
+      {
+        "word": "oamenii",
+        "count": 6
+      }
+    ]
   }
 ]
