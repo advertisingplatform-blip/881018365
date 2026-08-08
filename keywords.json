@@ -6645,5 +6645,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T11:00:55.219Z",
+    "keywords": [
+      {
+        "word": "Bulgaria",
+        "count": 9
+      },
+      {
+        "word": "Bolojan",
+        "count": 8
+      },
+      {
+        "word": "Moodys",
+        "count": 7
+      }
+    ]
   }
 ]
