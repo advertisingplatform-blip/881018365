@@ -6781,5 +6781,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T19:00:44.667Z",
+    "keywords": [
+      {
+        "word": "Bulgaria",
+        "count": 12
+      },
+      {
+        "word": "drona",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      }
+    ]
   }
 ]
