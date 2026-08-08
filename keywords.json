@@ -6713,5 +6713,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T15:00:34.348Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 14
+      },
+      {
+        "word": "Bulgaria",
+        "count": 10
+      },
+      {
+        "word": "Dronă",
+        "count": 10
+      }
+    ]
   }
 ]
