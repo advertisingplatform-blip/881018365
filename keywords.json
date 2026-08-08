@@ -6543,5 +6543,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T05:00:51.528Z",
+    "keywords": [
+      {
+        "word": "Moodys",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "Criza",
+        "count": 11
+      }
+    ]
   }
 ]
