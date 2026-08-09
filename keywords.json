@@ -7087,5 +7087,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-09T13:00:28.851Z",
+    "keywords": [
+      {
+        "word": "Cluj",
+        "count": 10
+      },
+      {
+        "word": "cere",
+        "count": 10
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      }
+    ]
   }
 ]
