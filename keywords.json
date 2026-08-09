@@ -6900,5 +6900,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-09T02:00:34.071Z",
+    "keywords": [
+      {
+        "word": "Ucrainei",
+        "count": 12
+      },
+      {
+        "word": "Bulgaria",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 11
+      }
+    ]
   }
 ]
