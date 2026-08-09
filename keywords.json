@@ -7104,5 +7104,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-09T14:00:35.828Z",
+    "keywords": [
+      {
+        "word": "Cluj",
+        "count": 16
+      },
+      {
+        "word": "Rusia",
+        "count": 10
+      },
+      {
+        "word": "ambulanței",
+        "count": 8
+      }
+    ]
   }
 ]
