@@ -7308,5 +7308,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T03:00:41.179Z",
+    "keywords": [
+      {
+        "word": "Gheorghiu",
+        "count": 10
+      },
+      {
+        "word": "Cluj",
+        "count": 10
+      },
+      {
+        "word": "Oana",
+        "count": 8
+      }
+    ]
   }
 ]
