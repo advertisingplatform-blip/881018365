@@ -7427,5 +7427,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T10:00:38.124Z",
+    "keywords": [
+      {
+        "word": "Cluj",
+        "count": 9
+      },
+      {
+        "word": "Rusia",
+        "count": 7
+      },
+      {
+        "word": "Mihai",
+        "count": 7
+      }
+    ]
   }
 ]
