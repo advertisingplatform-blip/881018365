@@ -7393,5 +7393,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T08:00:35.420Z",
+    "keywords": [
+      {
+        "word": "Cluj",
+        "count": 15
+      },
+      {
+        "word": "atacul",
+        "count": 10
+      },
+      {
+        "word": "Femeie",
+        "count": 7
+      }
+    ]
   }
 ]
