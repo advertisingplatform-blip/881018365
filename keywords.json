@@ -7342,5 +7342,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-10T05:00:39.487Z",
+    "keywords": [
+      {
+        "word": "Cluj",
+        "count": 7
+      },
+      {
+        "word": "București",
+        "count": 6
+      },
+      {
+        "word": "privind",
+        "count": 6
+      }
+    ]
   }
 ]
