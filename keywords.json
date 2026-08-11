@@ -7665,5 +7665,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-11T01:00:56.250Z",
+    "keywords": [
+      {
+        "word": "Brașov",
+        "count": 8
+      },
+      {
+        "word": "Ucraina",
+        "count": 7
+      },
+      {
+        "word": "Rusia",
+        "count": 7
+      }
+    ]
   }
 ]
