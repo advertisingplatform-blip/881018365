@@ -8260,5 +8260,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-12T13:00:35.965Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Aproape",
+        "count": 9
+      },
+      {
+        "word": "Energie",
+        "count": 7
+      }
+    ]
   }
 ]
