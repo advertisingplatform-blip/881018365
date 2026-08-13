@@ -8617,5 +8617,39 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-13T10:00:31.425Z",
+    "keywords": [
+      {
+        "word": "Grindeanu",
+        "count": 12
+      },
+      {
+        "word": "2027",
+        "count": 11
+      },
+      {
+        "word": "Isărescu",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-13T11:00:52.520Z",
+    "keywords": [
+      {
+        "word": "Grindeanu",
+        "count": 14
+      },
+      {
+        "word": "României",
+        "count": 8
+      },
+      {
+        "word": "milioane",
+        "count": 8
+      }
+    ]
   }
 ]
