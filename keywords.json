@@ -9399,5 +9399,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-15T12:00:32.812Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "domnului",
+        "count": 10
+      },
+      {
+        "word": "Bolojan",
+        "count": 9
+      }
+    ]
   }
 ]
