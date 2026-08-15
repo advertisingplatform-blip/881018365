@@ -9535,5 +9535,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-15T20:00:35.175Z",
+    "keywords": [
+      {
+        "word": "David",
+        "count": 9
+      },
+      {
+        "word": "Popovici",
+        "count": 9
+      },
+      {
+        "word": "Domnului",
+        "count": 9
+      }
+    ]
   }
 ]
