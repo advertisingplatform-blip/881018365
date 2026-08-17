@@ -10232,5 +10232,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-17T17:01:00.230Z",
+    "keywords": [
+      {
+        "word": "Fritz",
+        "count": 16
+      },
+      {
+        "word": "decizia",
+        "count": 10
+      },
+      {
+        "word": "Legea",
+        "count": 7
+      }
+    ]
   }
 ]
