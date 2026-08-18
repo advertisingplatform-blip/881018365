@@ -10470,5 +10470,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-18T08:00:46.560Z",
+    "keywords": [
+      {
+        "word": "Fritz",
+        "count": 15
+      },
+      {
+        "word": "Dominic",
+        "count": 12
+      },
+      {
+        "word": "Trump",
+        "count": 8
+      }
+    ]
   }
 ]
