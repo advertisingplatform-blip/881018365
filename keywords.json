@@ -10861,5 +10861,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-19T09:00:41.302Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Incendiu",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      }
+    ]
   }
 ]
