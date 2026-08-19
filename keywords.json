@@ -10844,5 +10844,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-19T08:00:39.602Z",
+    "keywords": [
+      {
+        "word": "Legea",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "Fritz",
+        "count": 8
+      }
+    ]
   }
 ]
