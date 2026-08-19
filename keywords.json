@@ -10963,5 +10963,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-19T15:00:43.431Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Bolojan",
+        "count": 7
+      },
+      {
+        "word": "Rusia",
+        "count": 7
+      }
+    ]
   }
 ]
