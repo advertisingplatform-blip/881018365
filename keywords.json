@@ -10827,5 +10827,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-19T07:00:44.612Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Legea",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 10
+      }
+    ]
   }
 ]
