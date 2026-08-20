@@ -11201,5 +11201,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-20T06:00:36.952Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Fritz",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 7
+      }
+    ]
   }
 ]
