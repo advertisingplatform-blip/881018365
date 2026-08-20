@@ -11252,5 +11252,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-20T09:00:34.845Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "Fritz",
+        "count": 9
+      },
+      {
+        "word": "euro",
+        "count": 8
+      }
+    ]
   }
 ]
