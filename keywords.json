@@ -11133,5 +11133,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-20T02:01:24.752Z",
+    "keywords": [
+      {
+        "word": "Fritz",
+        "count": 13
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "ucrainean",
+        "count": 7
+      }
+    ]
   }
 ]
