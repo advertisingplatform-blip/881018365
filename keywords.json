@@ -12136,5 +12136,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-22T19:00:31.394Z",
+    "keywords": [
+      {
+        "word": "Putin",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "Bulgaria",
+        "count": 7
+      }
+    ]
   }
 ]
