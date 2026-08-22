@@ -12102,5 +12102,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-22T17:00:34.719Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Rusiei",
+        "count": 6
+      },
+      {
+        "word": "dolar",
+        "count": 6
+      }
+    ]
   }
 ]
