@@ -12340,5 +12340,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-23T07:00:29.930Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "persoane",
+        "count": 9
+      }
+    ]
   }
 ]
