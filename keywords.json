@@ -12816,5 +12816,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-24T13:01:19.291Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Kiev",
+        "count": 7
+      },
+      {
+        "word": "Ucrainei",
+        "count": 7
+      }
+    ]
   }
 ]
