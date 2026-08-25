@@ -13309,5 +13309,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-25T18:01:10.885Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "bani",
+        "count": 9
+      }
+    ]
   }
 ]
