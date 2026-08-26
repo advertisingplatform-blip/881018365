@@ -13632,5 +13632,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-26T13:00:30.331Z",
+    "keywords": [
+      {
+        "word": "Fritz",
+        "count": 12
+      },
+      {
+        "word": "Moscova",
+        "count": 10
+      },
+      {
+        "word": "Bolojan",
+        "count": 10
+      }
+    ]
   }
 ]
