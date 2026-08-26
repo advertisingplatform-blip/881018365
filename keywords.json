@@ -13479,5 +13479,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-26T04:01:02.330Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 20
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "Rusia",
+        "count": 8
+      }
+    ]
   }
 ]
