@@ -13989,5 +13989,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-27T10:00:38.513Z",
+    "keywords": [
+      {
+        "word": "Rusia",
+        "count": 12
+      },
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Moscova",
+        "count": 10
+      }
+    ]
   }
 ]
