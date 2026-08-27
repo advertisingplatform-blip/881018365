@@ -14006,5 +14006,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-27T11:00:41.717Z",
+    "keywords": [
+      {
+        "word": "României",
+        "count": 12
+      },
+      {
+        "word": "Moscova",
+        "count": 12
+      },
+      {
+        "word": "Rusia",
+        "count": 11
+      }
+    ]
   }
 ]
