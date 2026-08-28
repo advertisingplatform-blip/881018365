@@ -14363,5 +14363,22 @@
         "count": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-28T09:00:32.621Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Pahonțu",
+        "count": 12
+      },
+      {
+        "word": "Nicușor",
+        "count": 10
+      }
+    ]
   }
 ]
