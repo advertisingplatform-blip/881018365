@@ -14737,5 +14737,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-29T08:01:03.367Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 12
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Nicușor",
+        "count": 9
+      }
+    ]
   }
 ]
