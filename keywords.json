@@ -15060,5 +15060,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-30T03:01:30.711Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Nicușor",
+        "count": 10
+      },
+      {
+        "word": "Peiu",
+        "count": 9
+      }
+    ]
   }
 ]
