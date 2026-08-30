@@ -15145,5 +15145,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-30T08:00:38.638Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Europa",
+        "count": 6
+      },
+      {
+        "word": "duminică",
+        "count": 6
+      }
+    ]
   }
 ]
