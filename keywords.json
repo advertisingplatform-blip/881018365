@@ -15111,5 +15111,22 @@
         "count": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-30T06:00:46.360Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Nicușor",
+        "count": 6
+      },
+      {
+        "word": "Islanda",
+        "count": 5
+      }
+    ]
   }
 ]
