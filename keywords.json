@@ -15128,5 +15128,22 @@
         "count": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-30T07:00:38.074Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Focuri",
+        "count": 8
+      },
+      {
+        "word": "armă",
+        "count": 7
+      }
+    ]
   }
 ]
