@@ -15485,5 +15485,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-31T05:02:01.179Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "României",
+        "count": 7
+      },
+      {
+        "word": "Rusia",
+        "count": 6
+      }
+    ]
   }
 ]
