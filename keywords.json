@@ -16063,5 +16063,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-01T15:00:39.922Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 15
+      },
+      {
+        "word": "Bolojan",
+        "count": 10
+      },
+      {
+        "word": "Nicușor",
+        "count": 10
+      }
+    ]
   }
 ]
