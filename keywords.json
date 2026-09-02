@@ -16488,5 +16488,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-02T17:00:34.899Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Nicușor",
+        "count": 11
+      },
+      {
+        "word": "Germania",
+        "count": 10
+      }
+    ]
   }
 ]
