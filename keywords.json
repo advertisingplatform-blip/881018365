@@ -16539,5 +16539,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-02T23:02:41.803Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Germania",
+        "count": 10
+      },
+      {
+        "word": "guvern",
+        "count": 10
+      }
+    ]
   }
 ]
