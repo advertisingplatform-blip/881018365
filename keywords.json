@@ -16369,5 +16369,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-02T09:00:39.596Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Germania",
+        "count": 8
+      },
+      {
+        "word": "Vâlcea",
+        "count": 8
+      }
+    ]
   }
 ]
