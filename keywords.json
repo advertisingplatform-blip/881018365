@@ -16556,5 +16556,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-03T00:00:54.040Z",
+    "keywords": [
+      {
+        "word": "Germania",
+        "count": 11
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      }
+    ]
   }
 ]
