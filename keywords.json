@@ -16828,5 +16828,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-03T16:01:00.645Z",
+    "keywords": [
+      {
+        "word": "României",
+        "count": 9
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "Guvernul",
+        "count": 8
+      }
+    ]
   }
 ]
