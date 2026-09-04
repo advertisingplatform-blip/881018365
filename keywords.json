@@ -17236,5 +17236,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-04T16:00:44.940Z",
+    "keywords": [
+      {
+        "word": "Rusia",
+        "count": 9
+      },
+      {
+        "word": "Ucrainei",
+        "count": 9
+      },
+      {
+        "word": "București",
+        "count": 8
+      }
+    ]
   }
 ]
