@@ -17168,5 +17168,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-04T12:00:30.429Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Nicușor",
+        "count": 9
+      },
+      {
+        "word": "magistraților",
+        "count": 8
+      }
+    ]
   }
 ]
