@@ -17049,5 +17049,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-04T05:00:39.919Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "război",
+        "count": 9
+      },
+      {
+        "word": "Trump",
+        "count": 8
+      }
+    ]
   }
 ]
