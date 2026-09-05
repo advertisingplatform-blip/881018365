@@ -17763,5 +17763,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-05T23:00:30.079Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Nord",
+        "count": 6
+      },
+      {
+        "word": "Putin",
+        "count": 6
+      }
+    ]
   }
 ]
