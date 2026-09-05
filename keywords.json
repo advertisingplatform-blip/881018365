@@ -17593,5 +17593,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-05T13:00:31.063Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "americani",
+        "count": 8
+      },
+      {
+        "word": "Rusia",
+        "count": 8
+      }
+    ]
   }
 ]
