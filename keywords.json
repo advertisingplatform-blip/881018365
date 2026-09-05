@@ -17525,5 +17525,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-05T09:00:30.311Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Nicușor",
+        "count": 7
+      }
+    ]
   }
 ]
