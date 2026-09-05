@@ -17678,5 +17678,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-05T18:00:53.599Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "Nord",
+        "count": 7
+      },
+      {
+        "word": "NATO",
+        "count": 7
+      }
+    ]
   }
 ]
