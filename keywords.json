@@ -17457,5 +17457,22 @@
         "count": 5
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-05T05:00:32.862Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "persoane",
+        "count": 7
+      },
+      {
+        "word": "aproape",
+        "count": 7
+      }
+    ]
   }
 ]
