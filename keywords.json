@@ -17644,5 +17644,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-05T16:00:30.580Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "români",
+        "count": 8
+      }
+    ]
   }
 ]
