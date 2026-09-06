@@ -17797,5 +17797,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-06T01:00:32.077Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "Putin",
+        "count": 7
+      },
+      {
+        "word": "schimbă",
+        "count": 6
+      }
+    ]
   }
 ]
