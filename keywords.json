@@ -17984,5 +17984,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-06T13:00:35.776Z",
+    "keywords": [
+      {
+        "word": "Putin",
+        "count": 13
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "luni",
+        "count": 9
+      }
+    ]
   }
 ]
