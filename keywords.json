@@ -18018,5 +18018,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-06T15:00:36.822Z",
+    "keywords": [
+      {
+        "word": "Germania",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 8
+      },
+      {
+        "word": "Rusia",
+        "count": 8
+      }
+    ]
   }
 ]
