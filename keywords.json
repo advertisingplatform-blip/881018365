@@ -18528,5 +18528,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-07T21:00:33.683Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "victoria",
+        "count": 10
+      },
+      {
+        "word": "Germania",
+        "count": 9
+      }
+    ]
   }
 ]
