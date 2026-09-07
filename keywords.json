@@ -18222,5 +18222,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-07T03:00:32.681Z",
+    "keywords": [
+      {
+        "word": "Germania",
+        "count": 16
+      },
+      {
+        "word": "SaxoniaAnhalt",
+        "count": 15
+      },
+      {
+        "word": "Trump",
+        "count": 11
+      }
+    ]
   }
 ]
