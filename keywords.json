@@ -18732,5 +18732,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-08T09:00:36.382Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "victoria",
+        "count": 7
+      },
+      {
+        "word": "Rusia",
+        "count": 7
+      }
+    ]
   }
 ]
