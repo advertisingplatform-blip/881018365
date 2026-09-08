@@ -18698,5 +18698,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-08T07:01:23.098Z",
+    "keywords": [
+      {
+        "word": "Germania",
+        "count": 9
+      },
+      {
+        "word": "victoria",
+        "count": 9
+      },
+      {
+        "word": "prima",
+        "count": 6
+      }
+    ]
   }
 ]
