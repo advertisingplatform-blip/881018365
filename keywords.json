@@ -19123,5 +19123,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-09T08:02:20.303Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "București",
+        "count": 7
+      },
+      {
+        "word": "miliarde",
+        "count": 6
+      }
+    ]
   }
 ]
