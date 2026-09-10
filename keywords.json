@@ -19599,5 +19599,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-10T12:00:37.702Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 8
+      },
+      {
+        "word": "Războiul",
+        "count": 7
+      }
+    ]
   }
 ]
