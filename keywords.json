@@ -19395,5 +19395,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-10T00:00:45.062Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Ucraina",
+        "count": 11
+      },
+      {
+        "word": "avionul",
+        "count": 9
+      }
+    ]
   }
 ]
