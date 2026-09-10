@@ -19480,5 +19480,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-10T05:00:30.824Z",
+    "keywords": [
+      {
+        "word": "dolari",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "mult",
+        "count": 8
+      }
+    ]
   }
 ]
