@@ -19531,5 +19531,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-10T08:00:47.857Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "Ucraina",
+        "count": 8
+      },
+      {
+        "word": "timp",
+        "count": 7
+      }
+    ]
   }
 ]
