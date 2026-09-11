@@ -19973,5 +19973,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-11T14:00:45.889Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 7
+      },
+      {
+        "word": "euro",
+        "count": 7
+      },
+      {
+        "word": "judecată",
+        "count": 6
+      }
+    ]
   }
 ]
