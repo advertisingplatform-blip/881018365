@@ -20075,5 +20075,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-11T20:00:35.016Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "Băsescu",
+        "count": 6
+      },
+      {
+        "word": "Bolojan",
+        "count": 6
+      }
+    ]
   }
 ]
