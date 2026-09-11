@@ -20092,5 +20092,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-11T21:00:32.204Z",
+    "keywords": [
+      {
+        "word": "cere",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Zelenski",
+        "count": 8
+      }
+    ]
   }
 ]
