@@ -20160,5 +20160,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-12T01:02:00.041Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "milioane",
+        "count": 9
+      },
+      {
+        "word": "Rusiei",
+        "count": 8
+      }
+    ]
   }
 ]
