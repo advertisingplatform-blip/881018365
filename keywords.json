@@ -20364,5 +20364,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-12T17:00:34.853Z",
+    "keywords": [
+      {
+        "word": "Putin",
+        "count": 8
+      },
+      {
+        "word": "Război",
+        "count": 7
+      },
+      {
+        "word": "prima",
+        "count": 6
+      }
+    ]
   }
 ]
