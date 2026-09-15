@@ -21435,5 +21435,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-15T11:00:33.879Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Bolojan",
+        "count": 10
+      },
+      {
+        "word": "Piața",
+        "count": 10
+      }
+    ]
   }
 ]
