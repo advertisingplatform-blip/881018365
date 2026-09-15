@@ -21401,5 +21401,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-15T09:00:33.921Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "piața",
+        "count": 7
+      },
+      {
+        "word": "elicopter",
+        "count": 6
+      }
+    ]
   }
 ]
