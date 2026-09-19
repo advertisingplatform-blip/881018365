@@ -22863,5 +22863,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-19T21:00:33.801Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 14
+      },
+      {
+        "word": "NATO",
+        "count": 8
+      },
+      {
+        "word": "Rusia",
+        "count": 8
+      }
+    ]
   }
 ]
