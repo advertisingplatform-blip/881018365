@@ -22676,5 +22676,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-19T08:00:45.859Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Siegfried",
+        "count": 10
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      }
+    ]
   }
 ]
