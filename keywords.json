@@ -22829,5 +22829,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-19T19:00:30.107Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Nicușor",
+        "count": 11
+      },
+      {
+        "word": "Mureșan",
+        "count": 11
+      }
+    ]
   }
 ]
