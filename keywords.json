@@ -22761,5 +22761,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-19T13:00:32.157Z",
+    "keywords": [
+      {
+        "word": "Băsescu",
+        "count": 18
+      },
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "Rusia",
+        "count": 14
+      }
+    ]
   }
 ]
