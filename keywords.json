@@ -23135,5 +23135,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-20T13:00:50.207Z",
+    "keywords": [
+      {
+        "word": "Incendiu",
+        "count": 7
+      },
+      {
+        "word": "persoane",
+        "count": 7
+      },
+      {
+        "word": "Marea",
+        "count": 7
+      }
+    ]
   }
 ]
