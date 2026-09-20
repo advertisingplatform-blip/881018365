@@ -22931,5 +22931,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-20T01:00:52.120Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "NATO",
+        "count": 11
+      },
+      {
+        "word": "Nicușor",
+        "count": 8
+      }
+    ]
   }
 ]
