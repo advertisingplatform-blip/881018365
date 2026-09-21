@@ -23509,5 +23509,22 @@
         "count": 16
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-21T11:00:31.900Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 23
+      },
+      {
+        "word": "Călin",
+        "count": 21
+      },
+      {
+        "word": "Mureșan",
+        "count": 15
+      }
+    ]
   }
 ]
