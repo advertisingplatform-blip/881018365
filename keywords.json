@@ -23883,5 +23883,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-22T10:01:12.628Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 33
+      },
+      {
+        "word": "Călin",
+        "count": 24
+      },
+      {
+        "word": "Trump",
+        "count": 11
+      }
+    ]
   }
 ]
