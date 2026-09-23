@@ -24223,5 +24223,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-23T06:00:29.982Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 15
+      },
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Mureșan",
+        "count": 12
+      }
+    ]
   }
 ]
