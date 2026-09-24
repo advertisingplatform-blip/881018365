@@ -24665,5 +24665,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-24T10:00:30.467Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Georgescu",
+        "count": 9
+      },
+      {
+        "word": "Siegfried",
+        "count": 8
+      }
+    ]
   }
 ]
