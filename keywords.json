@@ -24699,5 +24699,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-24T12:00:31.321Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 11
+      },
+      {
+        "word": "euro",
+        "count": 9
+      },
+      {
+        "word": "Sadu",
+        "count": 8
+      }
+    ]
   }
 ]
