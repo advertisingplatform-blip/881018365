@@ -24750,5 +24750,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-24T15:01:01.031Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      },
+      {
+        "word": "Casa",
+        "count": 9
+      }
+    ]
   }
 ]
