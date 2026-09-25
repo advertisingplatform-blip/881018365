@@ -24988,5 +24988,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-25T06:00:27.409Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Donald",
+        "count": 7
+      },
+      {
+        "word": "Georgescu",
+        "count": 6
+      }
+    ]
   }
 ]
