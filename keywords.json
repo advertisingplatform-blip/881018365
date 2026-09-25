@@ -25192,5 +25192,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-25T18:00:59.775Z",
+    "keywords": [
+      {
+        "word": "Mureșan",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "euro",
+        "count": 9
+      }
+    ]
   }
 ]
