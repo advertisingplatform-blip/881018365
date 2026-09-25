@@ -24971,5 +24971,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-25T05:00:38.483Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "Casa",
+        "count": 9
+      },
+      {
+        "word": "Albă",
+        "count": 9
+      }
+    ]
   }
 ]
