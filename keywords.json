@@ -25838,5 +25838,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-27T08:00:48.596Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "milioane",
+        "count": 7
+      }
+    ]
   }
 ]
