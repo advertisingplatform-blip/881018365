@@ -27657,5 +27657,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-01T19:01:02.395Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "Georgescu",
+        "count": 9
+      },
+      {
+        "word": "Putin",
+        "count": 9
+      }
+    ]
   }
 ]
