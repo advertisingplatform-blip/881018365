@@ -27640,5 +27640,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-01T18:00:50.165Z",
+    "keywords": [
+      {
+        "word": "Putin",
+        "count": 11
+      },
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "DIICOT",
+        "count": 9
+      }
+    ]
   }
 ]
