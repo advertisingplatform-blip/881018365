@@ -27538,5 +27538,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-01T12:00:43.631Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 12
+      },
+      {
+        "word": "Călin",
+        "count": 8
+      },
+      {
+        "word": "euro",
+        "count": 8
+      }
+    ]
   }
 ]
