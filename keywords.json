@@ -27929,5 +27929,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-02T12:01:03.048Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 13
+      },
+      {
+        "word": "Bolojan",
+        "count": 11
+      },
+      {
+        "word": "Iași",
+        "count": 7
+      }
+    ]
   }
 ]
