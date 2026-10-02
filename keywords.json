@@ -28048,5 +28048,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-02T19:01:27.269Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 17
+      },
+      {
+        "word": "Nicușor",
+        "count": 16
+      },
+      {
+        "word": "Georgescu",
+        "count": 12
+      }
+    ]
   }
 ]
