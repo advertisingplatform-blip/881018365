@@ -28490,5 +28490,39 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-03T22:00:30.648Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 9
+      },
+      {
+        "word": "accident",
+        "count": 8
+      },
+      {
+        "word": "Trump",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-03T23:00:28.965Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 9
+      },
+      {
+        "word": "accident",
+        "count": 8
+      },
+      {
+        "word": "Trump",
+        "count": 7
+      }
+    ]
   }
 ]
