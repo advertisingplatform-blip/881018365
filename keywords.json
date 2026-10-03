@@ -28150,5 +28150,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-03T01:00:33.563Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 19
+      },
+      {
+        "word": "Nicușor",
+        "count": 15
+      },
+      {
+        "word": "Polonia",
+        "count": 12
+      }
+    ]
   }
 ]
