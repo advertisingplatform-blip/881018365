@@ -28201,5 +28201,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-03T05:00:38.865Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "României",
+        "count": 9
+      },
+      {
+        "word": "euro",
+        "count": 9
+      }
+    ]
   }
 ]
