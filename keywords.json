@@ -28609,5 +28609,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-04T05:00:31.820Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "Georgescu",
+        "count": 8
+      },
+      {
+        "word": "dolari",
+        "count": 7
+      }
+    ]
   }
 ]
