@@ -28830,5 +28830,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-04T18:00:36.334Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "Georgescu",
+        "count": 7
+      }
+    ]
   }
 ]
