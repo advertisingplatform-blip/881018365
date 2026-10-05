@@ -29000,5 +29000,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-05T04:01:42.234Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Băsescu",
+        "count": 7
+      },
+      {
+        "word": "euro",
+        "count": 6
+      }
+    ]
   }
 ]
