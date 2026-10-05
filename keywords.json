@@ -28932,5 +28932,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-05T00:00:50.708Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "Băsescu",
+        "count": 9
+      },
+      {
+        "word": "Traian",
+        "count": 7
+      }
+    ]
   }
 ]
