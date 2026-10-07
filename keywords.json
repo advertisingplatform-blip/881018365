@@ -30020,5 +30020,39 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-07T17:00:36.181Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 13
+      },
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Luca",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-07T18:00:53.855Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 14
+      },
+      {
+        "word": "Călin",
+        "count": 10
+      },
+      {
+        "word": "Niculescu",
+        "count": 9
+      }
+    ]
   }
 ]
