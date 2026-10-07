@@ -30071,5 +30071,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-07T20:00:41.280Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 14
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Niculescu",
+        "count": 10
+      }
+    ]
   }
 ]
