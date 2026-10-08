@@ -30224,5 +30224,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-08T05:00:35.237Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Georgescu",
+        "count": 11
+      },
+      {
+        "word": "Atac",
+        "count": 9
+      }
+    ]
   }
 ]
