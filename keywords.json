@@ -30173,5 +30173,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-08T02:01:39.776Z",
+    "keywords": [
+      {
+        "word": "GEORGESCU",
+        "count": 12
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "CĂLIN",
+        "count": 9
+      }
+    ]
   }
 ]
