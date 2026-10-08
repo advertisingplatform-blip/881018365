@@ -30445,5 +30445,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-08T19:00:30.850Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 22
+      },
+      {
+        "word": "Niculescu",
+        "count": 14
+      },
+      {
+        "word": "Simion",
+        "count": 14
+      }
+    ]
   }
 ]
