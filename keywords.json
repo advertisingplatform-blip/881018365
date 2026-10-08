@@ -30275,5 +30275,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-08T09:00:30.977Z",
+    "keywords": [
+      {
+        "word": "Niculescu",
+        "count": 18
+      },
+      {
+        "word": "Luca",
+        "count": 16
+      },
+      {
+        "word": "Georgescu",
+        "count": 14
+      }
+    ]
   }
 ]
