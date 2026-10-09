@@ -30530,5 +30530,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-09T01:00:31.999Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 13
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Grindeanu",
+        "count": 10
+      }
+    ]
   }
 ]
