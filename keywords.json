@@ -30581,5 +30581,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-09T04:00:40.738Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 11
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Simion",
+        "count": 9
+      }
+    ]
   }
 ]
