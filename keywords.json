@@ -31176,5 +31176,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-10T16:00:32.255Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "atac",
+        "count": 12
+      },
+      {
+        "word": "Cernavodă",
+        "count": 11
+      }
+    ]
   }
 ]
