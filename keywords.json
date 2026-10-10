@@ -31210,5 +31210,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-10T19:01:14.686Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 25
+      },
+      {
+        "word": "Zelenski",
+        "count": 12
+      },
+      {
+        "word": "Georgescu",
+        "count": 10
+      }
+    ]
   }
 ]
