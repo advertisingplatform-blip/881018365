@@ -31193,5 +31193,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-10T18:00:35.535Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "atac",
+        "count": 7
+      }
+    ]
   }
 ]
