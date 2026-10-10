@@ -31159,5 +31159,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-10T15:00:40.353Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 18
+      },
+      {
+        "word": "Georgescu",
+        "count": 10
+      },
+      {
+        "word": "Putin",
+        "count": 10
+      }
+    ]
   }
 ]
