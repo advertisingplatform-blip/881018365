@@ -31397,5 +31397,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-11T06:00:55.002Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 22
+      },
+      {
+        "word": "Putin",
+        "count": 11
+      },
+      {
+        "word": "motorină",
+        "count": 10
+      }
+    ]
   }
 ]
