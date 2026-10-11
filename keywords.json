@@ -31431,5 +31431,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-11T08:00:35.569Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 21
+      },
+      {
+        "word": "cere",
+        "count": 13
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      }
+    ]
   }
 ]
