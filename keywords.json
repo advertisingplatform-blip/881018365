@@ -31907,5 +31907,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-12T12:01:03.359Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "guvern",
+        "count": 12
+      },
+      {
+        "word": "Zelenski",
+        "count": 10
+      }
+    ]
   }
 ]
