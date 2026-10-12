@@ -31941,5 +31941,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-12T14:01:19.676Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "privind",
+        "count": 8
+      }
+    ]
   }
 ]
