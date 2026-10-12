@@ -31873,5 +31873,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-12T10:00:45.310Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "împotriva",
+        "count": 10
+      },
+      {
+        "word": "Niculescu",
+        "count": 9
+      }
+    ]
   }
 ]
