@@ -31856,5 +31856,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-12T09:00:40.365Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 20
+      },
+      {
+        "word": "Ucraina",
+        "count": 14
+      },
+      {
+        "word": "Niculescu",
+        "count": 11
+      }
+    ]
   }
 ]
