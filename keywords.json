@@ -32043,5 +32043,39 @@
         "count": 13
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-12T20:00:29.674Z",
+    "keywords": [
+      {
+        "word": "Niculescu",
+        "count": 18
+      },
+      {
+        "word": "Luca",
+        "count": 17
+      },
+      {
+        "word": "Trump",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-12T21:00:34.311Z",
+    "keywords": [
+      {
+        "word": "Luca",
+        "count": 17
+      },
+      {
+        "word": "Niculescu",
+        "count": 17
+      },
+      {
+        "word": "Trump",
+        "count": 16
+      }
+    ]
   }
 ]
