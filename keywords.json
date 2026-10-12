@@ -31788,5 +31788,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-12T05:00:31.256Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 21
+      },
+      {
+        "word": "Rusia",
+        "count": 16
+      },
+      {
+        "word": "Zelenski",
+        "count": 13
+      }
+    ]
   }
 ]
