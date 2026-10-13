@@ -32230,5 +32230,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-13T07:00:31.913Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 20
+      },
+      {
+        "word": "Rusia",
+        "count": 14
+      },
+      {
+        "word": "drone",
+        "count": 7
+      }
+    ]
   }
 ]
