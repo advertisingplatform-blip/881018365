@@ -32434,5 +32434,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-13T19:00:50.742Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Niculescu",
+        "count": 10
+      },
+      {
+        "word": "Bolojan",
+        "count": 8
+      }
+    ]
   }
 ]
