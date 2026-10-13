@@ -32281,5 +32281,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-13T10:00:35.370Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "euro",
+        "count": 12
+      },
+      {
+        "word": "milioane",
+        "count": 11
+      }
+    ]
   }
 ]
