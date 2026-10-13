@@ -32332,5 +32332,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-13T13:02:48.784Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 16
+      },
+      {
+        "word": "Niculescu",
+        "count": 16
+      },
+      {
+        "word": "Călin",
+        "count": 11
+      }
+    ]
   }
 ]
