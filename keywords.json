@@ -32706,5 +32706,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-14T11:01:01.884Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "guvernul",
+        "count": 8
+      }
+    ]
   }
 ]
