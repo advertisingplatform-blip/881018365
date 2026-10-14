@@ -32638,5 +32638,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-14T07:00:44.126Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 17
+      },
+      {
+        "word": "Niculescu",
+        "count": 8
+      },
+      {
+        "word": "Donald",
+        "count": 6
+      }
+    ]
   }
 ]
