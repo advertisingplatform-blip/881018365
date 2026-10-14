@@ -32604,5 +32604,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-14T05:00:31.880Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Niculescu",
+        "count": 10
+      },
+      {
+        "word": "Grindeanu",
+        "count": 10
+      }
+    ]
   }
 ]
