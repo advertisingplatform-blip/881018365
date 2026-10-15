@@ -32927,5 +32927,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-15T03:03:45.638Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 14
+      },
+      {
+        "word": "Guvernul",
+        "count": 11
+      },
+      {
+        "word": "Zelenski",
+        "count": 11
+      }
+    ]
   }
 ]
