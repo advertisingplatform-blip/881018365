@@ -33046,5 +33046,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-15T10:00:30.764Z",
+    "keywords": [
+      {
+        "word": "Niculescu",
+        "count": 14
+      },
+      {
+        "word": "Ucraina",
+        "count": 11
+      },
+      {
+        "word": "Nicușor",
+        "count": 9
+      }
+    ]
   }
 ]
