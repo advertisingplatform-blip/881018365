@@ -33403,5 +33403,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-16T08:01:03.138Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 19
+      },
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "accident",
+        "count": 11
+      }
+    ]
   }
 ]
