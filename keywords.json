@@ -33454,5 +33454,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-16T11:02:37.120Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 17
+      },
+      {
+        "word": "Zelenski",
+        "count": 9
+      },
+      {
+        "word": "cere",
+        "count": 8
+      }
+    ]
   }
 ]
