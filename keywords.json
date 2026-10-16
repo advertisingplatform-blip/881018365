@@ -33539,5 +33539,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-16T16:01:04.592Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Niculescu",
+        "count": 11
+      }
+    ]
   }
 ]
