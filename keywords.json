@@ -33420,5 +33420,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-16T09:00:30.389Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 18
+      },
+      {
+        "word": "Nicușor",
+        "count": 15
+      },
+      {
+        "word": "Ucraina",
+        "count": 10
+      }
+    ]
   }
 ]
