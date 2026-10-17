@@ -34015,5 +34015,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-17T20:00:45.405Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "împotriva",
+        "count": 9
+      },
+      {
+        "word": "drone",
+        "count": 9
+      }
+    ]
   }
 ]
