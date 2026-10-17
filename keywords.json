@@ -33777,5 +33777,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-17T06:00:34.806Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 18
+      },
+      {
+        "word": "Niculescu",
+        "count": 12
+      },
+      {
+        "word": "Guvernul",
+        "count": 11
+      }
+    ]
   }
 ]
