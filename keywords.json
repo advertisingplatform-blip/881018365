@@ -34168,5 +34168,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-18T05:00:28.373Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Franța",
+        "count": 12
+      },
+      {
+        "word": "împotriva",
+        "count": 8
+      }
+    ]
   }
 ]
