@@ -34814,5 +34814,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T22:00:33.333Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 11
+      },
+      {
+        "word": "Kelemen",
+        "count": 9
+      },
+      {
+        "word": "Hunor",
+        "count": 9
+      }
+    ]
   }
 ]
