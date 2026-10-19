@@ -34695,5 +34695,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T15:00:41.186Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Bistrița",
+        "count": 7
+      },
+      {
+        "word": "Nicușor",
+        "count": 6
+      }
+    ]
   }
 ]
