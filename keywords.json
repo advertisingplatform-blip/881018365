@@ -34661,5 +34661,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T13:02:13.298Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Niculescu",
+        "count": 9
+      },
+      {
+        "word": "Guvernul",
+        "count": 7
+      }
+    ]
   }
 ]
