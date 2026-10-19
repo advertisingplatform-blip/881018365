@@ -34780,5 +34780,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T20:00:53.238Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 12
+      },
+      {
+        "word": "Bolojan",
+        "count": 11
+      },
+      {
+        "word": "Bistrița",
+        "count": 8
+      }
+    ]
   }
 ]
