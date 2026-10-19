@@ -34508,5 +34508,39 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T04:06:11.258Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 15
+      },
+      {
+        "word": "Franța",
+        "count": 11
+      },
+      {
+        "word": "Ilie",
+        "count": 11
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-19T05:00:39.156Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "Zelenski",
+        "count": 12
+      },
+      {
+        "word": "Bolojan",
+        "count": 10
+      }
+    ]
   }
 ]
