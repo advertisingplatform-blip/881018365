@@ -34627,5 +34627,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T11:04:04.311Z",
+    "keywords": [
+      {
+        "word": "Bistrița",
+        "count": 11
+      },
+      {
+        "word": "Niculescu",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 9
+      }
+    ]
   }
 ]
