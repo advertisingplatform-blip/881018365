@@ -34712,5 +34712,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T16:00:42.750Z",
+    "keywords": [
+      {
+        "word": "Bolojan",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Bistrița",
+        "count": 9
+      }
+    ]
   }
 ]
