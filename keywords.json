@@ -34916,5 +34916,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-20T05:00:35.535Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 17
+      },
+      {
+        "word": "Ucraina",
+        "count": 13
+      },
+      {
+        "word": "Guvernul",
+        "count": 10
+      }
+    ]
   }
 ]
