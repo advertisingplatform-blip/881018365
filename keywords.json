@@ -35851,5 +35851,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-22T13:00:33.744Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      },
+      {
+        "word": "Guvern",
+        "count": 8
+      }
+    ]
   }
 ]
