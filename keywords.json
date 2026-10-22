@@ -35834,5 +35834,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-22T12:01:01.235Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Rusia",
+        "count": 10
+      },
+      {
+        "word": "2027",
+        "count": 8
+      }
+    ]
   }
 ]
