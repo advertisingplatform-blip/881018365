@@ -35953,5 +35953,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-22T20:00:53.540Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "privind",
+        "count": 8
+      },
+      {
+        "word": "Bolojan",
+        "count": 7
+      }
+    ]
   }
 ]
