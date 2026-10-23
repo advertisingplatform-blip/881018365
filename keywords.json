@@ -36395,5 +36395,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-23T23:00:29.313Z",
+    "keywords": [
+      {
+        "word": "atac",
+        "count": 8
+      },
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "euro",
+        "count": 8
+      }
+    ]
   }
 ]
