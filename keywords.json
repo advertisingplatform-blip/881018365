@@ -36174,5 +36174,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-23T10:00:36.091Z",
+    "keywords": [
+      {
+        "word": "Rusia",
+        "count": 12
+      },
+      {
+        "word": "Marea",
+        "count": 12
+      },
+      {
+        "word": "Ucraina",
+        "count": 12
+      }
+    ]
   }
 ]
