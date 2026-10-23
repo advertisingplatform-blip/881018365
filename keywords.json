@@ -36361,5 +36361,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-23T21:00:36.388Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 10
+      },
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Bolojan",
+        "count": 7
+      }
+    ]
   }
 ]
