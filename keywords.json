@@ -36565,5 +36565,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-24T09:00:29.966Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 14
+      },
+      {
+        "word": "Toader",
+        "count": 12
+      },
+      {
+        "word": "Fiul",
+        "count": 8
+      }
+    ]
   }
 ]
