@@ -36531,5 +36531,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-24T07:00:30.640Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "milioane",
+        "count": 8
+      },
+      {
+        "word": "euro",
+        "count": 8
+      }
+    ]
   }
 ]
