@@ -36616,5 +36616,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-24T12:01:03.808Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 13
+      },
+      {
+        "word": "bloc",
+        "count": 10
+      },
+      {
+        "word": "murit",
+        "count": 7
+      }
+    ]
   }
 ]
