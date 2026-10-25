@@ -37160,5 +37160,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-25T21:00:31.111Z",
+    "keywords": [
+      {
+        "word": "Zelenski",
+        "count": 9
+      },
+      {
+        "word": "Alexandru",
+        "count": 9
+      },
+      {
+        "word": "Nazare",
+        "count": 8
+      }
+    ]
   }
 ]
