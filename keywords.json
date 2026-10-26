@@ -37585,5 +37585,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-26T23:00:32.845Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 14
+      },
+      {
+        "word": "Brazilia",
+        "count": 10
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      }
+    ]
   }
 ]
