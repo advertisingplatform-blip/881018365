@@ -37721,5 +37721,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-27T07:01:48.328Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Rusia",
+        "count": 10
+      },
+      {
+        "word": "bani",
+        "count": 8
+      }
+    ]
   }
 ]
