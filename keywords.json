@@ -37670,5 +37670,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-27T04:00:39.551Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Brazilia",
+        "count": 11
+      },
+      {
+        "word": "Balonul",
+        "count": 9
+      }
+    ]
   }
 ]
