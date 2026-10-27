@@ -37840,5 +37840,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-27T14:00:58.172Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "Rusia",
+        "count": 8
+      },
+      {
+        "word": "Georgescu",
+        "count": 7
+      }
+    ]
   }
 ]
