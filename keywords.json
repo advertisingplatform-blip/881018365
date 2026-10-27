@@ -37806,5 +37806,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-27T12:00:30.080Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Marea",
+        "count": 9
+      },
+      {
+        "word": "Rusia",
+        "count": 8
+      }
+    ]
   }
 ]
