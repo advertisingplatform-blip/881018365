@@ -37755,5 +37755,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-27T09:00:32.272Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 13
+      },
+      {
+        "word": "Incendiu",
+        "count": 9
+      },
+      {
+        "word": "Rusia",
+        "count": 8
+      }
+    ]
   }
 ]
