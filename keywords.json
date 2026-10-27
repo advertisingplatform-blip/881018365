@@ -37738,5 +37738,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-27T08:00:38.158Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "Rusia",
+        "count": 7
+      },
+      {
+        "word": "patru",
+        "count": 6
+      }
+    ]
   }
 ]
