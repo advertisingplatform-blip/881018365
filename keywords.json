@@ -38316,5 +38316,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-28T18:00:32.940Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Niculescu",
+        "count": 7
+      },
+      {
+        "word": "Spania",
+        "count": 6
+      }
+    ]
   }
 ]
