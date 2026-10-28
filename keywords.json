@@ -38044,5 +38044,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-28T02:00:30.097Z",
+    "keywords": [
+      {
+        "word": "Alegeri",
+        "count": 10
+      },
+      {
+        "word": "Israel",
+        "count": 10
+      },
+      {
+        "word": "Netanyahu",
+        "count": 10
+      }
+    ]
   }
 ]
