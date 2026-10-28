@@ -38248,5 +38248,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-28T14:02:03.222Z",
+    "keywords": [
+      {
+        "word": "Spania",
+        "count": 12
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      },
+      {
+        "word": "privind",
+        "count": 8
+      }
+    ]
   }
 ]
