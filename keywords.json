@@ -38435,5 +38435,39 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-29T01:02:14.325Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 12
+      },
+      {
+        "word": "milioane",
+        "count": 9
+      },
+      {
+        "word": "București",
+        "count": 8
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-29T02:00:41.478Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 11
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Putin",
+        "count": 8
+      }
+    ]
   }
 ]
