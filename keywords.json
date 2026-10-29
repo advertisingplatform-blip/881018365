@@ -38520,5 +38520,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-29T06:00:59.579Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Georgescu",
+        "count": 8
+      },
+      {
+        "word": "euro",
+        "count": 7
+      }
+    ]
   }
 ]
