@@ -39115,5 +39115,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-30T20:00:44.870Z",
+    "keywords": [
+      {
+        "word": "Germania",
+        "count": 8
+      },
+      {
+        "word": "Ucraina",
+        "count": 8
+      },
+      {
+        "word": "aproape",
+        "count": 7
+      }
+    ]
   }
 ]
