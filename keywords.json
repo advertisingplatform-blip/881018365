@@ -39302,5 +39302,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-31T07:01:01.696Z",
+    "keywords": [
+      {
+        "word": "Polonia",
+        "count": 12
+      },
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "Ucraina",
+        "count": 11
+      }
+    ]
   }
 ]
