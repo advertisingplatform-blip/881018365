@@ -40288,5 +40288,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-02T17:00:33.721Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 12
+      },
+      {
+        "word": "Rusia",
+        "count": 7
+      },
+      {
+        "word": "Donald",
+        "count": 6
+      }
+    ]
   }
 ]
