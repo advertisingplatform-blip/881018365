@@ -40628,5 +40628,39 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-03T13:00:42.609Z",
+    "keywords": [
+      {
+        "word": "milioane",
+        "count": 11
+      },
+      {
+        "word": "Trump",
+        "count": 9
+      },
+      {
+        "word": "alegerile",
+        "count": 7
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-03T14:01:07.947Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "EURO",
+        "count": 8
+      },
+      {
+        "word": "aproape",
+        "count": 8
+      }
+    ]
   }
 ]
