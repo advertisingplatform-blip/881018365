@@ -40662,5 +40662,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-03T15:00:40.540Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Donald",
+        "count": 8
+      },
+      {
+        "word": "europene",
+        "count": 7
+      }
+    ]
   }
 ]
