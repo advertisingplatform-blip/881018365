@@ -40781,5 +40781,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-03T22:01:51.745Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Alegeri",
+        "count": 9
+      },
+      {
+        "word": "alegerile",
+        "count": 8
+      }
+    ]
   }
 ]
