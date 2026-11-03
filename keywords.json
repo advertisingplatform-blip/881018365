@@ -40526,5 +40526,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-03T07:00:43.038Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 21
+      },
+      {
+        "word": "Europa",
+        "count": 8
+      },
+      {
+        "word": "București",
+        "count": 8
+      }
+    ]
   }
 ]
