@@ -40696,5 +40696,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-03T17:01:11.301Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Donald",
+        "count": 8
+      },
+      {
+        "word": "Toader",
+        "count": 7
+      }
+    ]
   }
 ]
