@@ -41138,5 +41138,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-04T20:00:30.831Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 43
+      },
+      {
+        "word": "alegerile",
+        "count": 14
+      },
+      {
+        "word": "republicanilor",
+        "count": 13
+      }
+    ]
   }
 ]
