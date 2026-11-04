@@ -41104,5 +41104,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-04T18:00:43.542Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 36
+      },
+      {
+        "word": "alegerile",
+        "count": 13
+      },
+      {
+        "word": "pierdut",
+        "count": 9
+      }
+    ]
   }
 ]
