@@ -40900,5 +40900,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-04T05:01:07.203Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 25
+      },
+      {
+        "word": "Democrații",
+        "count": 14
+      },
+      {
+        "word": "alegerile",
+        "count": 13
+      }
+    ]
   }
 ]
