@@ -41393,5 +41393,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-05T11:00:32.345Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "bombă",
+        "count": 14
+      },
+      {
+        "word": "București",
+        "count": 13
+      }
+    ]
   }
 ]
