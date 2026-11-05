@@ -41342,5 +41342,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-05T08:00:36.625Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 26
+      },
+      {
+        "word": "București",
+        "count": 13
+      },
+      {
+        "word": "alegerile",
+        "count": 12
+      }
+    ]
   }
 ]
