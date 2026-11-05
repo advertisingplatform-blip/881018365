@@ -41512,5 +41512,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-05T18:00:42.758Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 14
+      },
+      {
+        "word": "Georgescu",
+        "count": 10
+      },
+      {
+        "word": "Călin",
+        "count": 9
+      }
+    ]
   }
 ]
