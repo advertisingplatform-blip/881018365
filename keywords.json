@@ -41716,5 +41716,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-06T07:00:33.179Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 26
+      },
+      {
+        "word": "Donald",
+        "count": 9
+      },
+      {
+        "word": "Friday",
+        "count": 9
+      }
+    ]
   }
 ]
