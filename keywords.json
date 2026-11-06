@@ -41886,5 +41886,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-06T17:01:39.472Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 8
+      },
+      {
+        "word": "București",
+        "count": 7
+      },
+      {
+        "word": "condamnat",
+        "count": 7
+      }
+    ]
   }
 ]
