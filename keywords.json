@@ -41767,5 +41767,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-06T10:00:32.819Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 18
+      },
+      {
+        "word": "Black",
+        "count": 9
+      },
+      {
+        "word": "Friday",
+        "count": 9
+      }
+    ]
   }
 ]
