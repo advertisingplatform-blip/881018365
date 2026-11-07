@@ -42192,5 +42192,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-07T11:00:31.365Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Cernavodă",
+        "count": 8
+      },
+      {
+        "word": "Ucraina",
+        "count": 7
+      }
+    ]
   }
 ]
