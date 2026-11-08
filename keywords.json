@@ -42464,5 +42464,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-08T03:00:31.240Z",
+    "keywords": [
+      {
+        "word": "Cracovia",
+        "count": 25
+      },
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "armat",
+        "count": 10
+      }
+    ]
   }
 ]
