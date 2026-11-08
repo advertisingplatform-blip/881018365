@@ -42481,5 +42481,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-08T04:00:33.346Z",
+    "keywords": [
+      {
+        "word": "Cracovia",
+        "count": 21
+      },
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Atacul",
+        "count": 8
+      }
+    ]
   }
 ]
