@@ -42753,5 +42753,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-08T20:00:30.422Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 10
+      },
+      {
+        "word": "împotriva",
+        "count": 8
+      },
+      {
+        "word": "Bolojan",
+        "count": 7
+      }
+    ]
   }
 ]
