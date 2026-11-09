@@ -42821,5 +42821,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-09T01:01:12.333Z",
+    "keywords": [
+      {
+        "word": "împotriva",
+        "count": 13
+      },
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Cracovia",
+        "count": 9
+      }
+    ]
   }
 ]
