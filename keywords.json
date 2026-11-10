@@ -43348,5 +43348,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-10T08:00:27.594Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 15
+      },
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Rusia",
+        "count": 12
+      }
+    ]
   }
 ]
