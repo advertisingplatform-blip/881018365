@@ -43246,5 +43246,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-10T02:00:38.723Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "privind",
+        "count": 11
+      },
+      {
+        "word": "euro",
+        "count": 7
+      }
+    ]
   }
 ]
