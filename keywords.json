@@ -43467,5 +43467,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-10T15:00:30.912Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "național",
+        "count": 10
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      }
+    ]
   }
 ]
