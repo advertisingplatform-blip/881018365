@@ -43382,5 +43382,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-10T10:00:45.341Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 13
+      },
+      {
+        "word": "Ucraina",
+        "count": 13
+      },
+      {
+        "word": "Patru",
+        "count": 9
+      }
+    ]
   }
 ]
