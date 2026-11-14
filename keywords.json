@@ -44929,5 +44929,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-14T08:00:30.016Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 15
+      },
+      {
+        "word": "Putin",
+        "count": 10
+      },
+      {
+        "word": "ciocnit",
+        "count": 8
+      }
+    ]
   }
 ]
