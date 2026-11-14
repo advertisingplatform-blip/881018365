@@ -45082,5 +45082,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-14T17:00:33.980Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 10
+      }
+    ]
   }
 ]
