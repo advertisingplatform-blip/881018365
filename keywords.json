@@ -45422,5 +45422,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-15T13:00:29.059Z",
+    "keywords": [
+      {
+        "word": "drone",
+        "count": 10
+      },
+      {
+        "word": "marea",
+        "count": 9
+      },
+      {
+        "word": "nave",
+        "count": 9
+      }
+    ]
   }
 ]
