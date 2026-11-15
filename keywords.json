@@ -45405,5 +45405,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-15T12:00:40.949Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Polonia",
+        "count": 8
+      },
+      {
+        "word": "nave",
+        "count": 7
+      }
+    ]
   }
 ]
