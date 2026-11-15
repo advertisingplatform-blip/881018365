@@ -45541,5 +45541,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-15T20:00:30.643Z",
+    "keywords": [
+      {
+        "word": "drone",
+        "count": 10
+      },
+      {
+        "word": "rezidențiat",
+        "count": 8
+      },
+      {
+        "word": "Timișoara",
+        "count": 8
+      }
+    ]
   }
 ]
