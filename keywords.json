@@ -45796,5 +45796,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-16T11:00:30.918Z",
+    "keywords": [
+      {
+        "word": "drone",
+        "count": 9
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "Luca",
+        "count": 7
+      }
+    ]
   }
 ]
