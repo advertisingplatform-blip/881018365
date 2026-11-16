@@ -45626,5 +45626,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-16T01:01:14.880Z",
+    "keywords": [
+      {
+        "word": "drone",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 7
+      },
+      {
+        "word": "Bolojan",
+        "count": 7
+      }
+    ]
   }
 ]
