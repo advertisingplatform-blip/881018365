@@ -45949,5 +45949,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-16T20:00:40.119Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 9
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "China",
+        "count": 8
+      }
+    ]
   }
 ]
