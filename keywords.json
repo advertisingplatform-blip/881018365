@@ -45728,5 +45728,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-16T07:00:30.256Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "euro",
+        "count": 7
+      },
+      {
+        "word": "Ucraina",
+        "count": 7
+      }
+    ]
   }
 ]
