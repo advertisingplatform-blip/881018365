@@ -31,3 +31,5 @@ https://www.cotidianul.ro/feed/
 https://inpolitics.ro/feed/
 https://feeds.feedburner.com/hotnews/yvoq
 https://adevarul.ro/rss/index
+https://www.e-home.ro/feeds/posts/default?alt=rss
+https://www.volte.ro/feeds/posts/default?alt=rss
