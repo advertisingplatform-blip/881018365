@@ -46799,5 +46799,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-18T23:00:33.051Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Putin",
+        "count": 15
+      },
+      {
+        "word": "China",
+        "count": 10
+      }
+    ]
   }
 ]
