@@ -46986,5 +46986,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-19T10:00:33.592Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Putin",
+        "count": 15
+      },
+      {
+        "word": "București",
+        "count": 12
+      }
+    ]
   }
 ]
