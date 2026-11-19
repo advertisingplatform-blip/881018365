@@ -47122,5 +47122,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-19T18:00:43.771Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 23
+      },
+      {
+        "word": "Putin",
+        "count": 19
+      },
+      {
+        "word": "Nicușor",
+        "count": 19
+      }
+    ]
   }
 ]
