@@ -47513,5 +47513,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-20T19:00:52.536Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 15
+      },
+      {
+        "word": "Putin",
+        "count": 15
+      },
+      {
+        "word": "bani",
+        "count": 9
+      }
+    ]
   }
 ]
