@@ -47360,5 +47360,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-20T09:02:01.799Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Miruță",
+        "count": 9
+      }
+    ]
   }
 ]
