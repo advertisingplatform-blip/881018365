@@ -47343,5 +47343,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-20T08:01:10.573Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 13
+      },
+      {
+        "word": "Putin",
+        "count": 13
+      },
+      {
+        "word": "China",
+        "count": 10
+      }
+    ]
   }
 ]
