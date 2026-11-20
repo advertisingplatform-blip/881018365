@@ -47275,5 +47275,22 @@
         "count": 15
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-20T04:00:29.974Z",
+    "keywords": [
+      {
+        "word": "Ucraina",
+        "count": 17
+      },
+      {
+        "word": "Trump",
+        "count": 14
+      },
+      {
+        "word": "Putin",
+        "count": 14
+      }
+    ]
   }
 ]
