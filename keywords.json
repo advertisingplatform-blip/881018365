@@ -47581,5 +47581,22 @@
         "count": 11
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-20T23:00:37.756Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 20
+      },
+      {
+        "word": "Putin",
+        "count": 13
+      },
+      {
+        "word": "prima",
+        "count": 10
+      }
+    ]
   }
 ]
