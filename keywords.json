@@ -47462,5 +47462,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-20T15:00:42.391Z",
+    "keywords": [
+      {
+        "word": "euro",
+        "count": 9
+      },
+      {
+        "word": "Moscova",
+        "count": 9
+      },
+      {
+        "word": "Putin",
+        "count": 7
+      }
+    ]
   }
 ]
