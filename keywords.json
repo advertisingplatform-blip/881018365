@@ -47411,5 +47411,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-20T12:00:41.784Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 11
+      },
+      {
+        "word": "Miruță",
+        "count": 11
+      },
+      {
+        "word": "Arafat",
+        "count": 11
+      }
+    ]
   }
 ]
