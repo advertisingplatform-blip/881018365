@@ -47870,5 +47870,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-21T16:00:59.007Z",
+    "keywords": [
+      {
+        "word": "Putin",
+        "count": 9
+      },
+      {
+        "word": "Rusia",
+        "count": 9
+      },
+      {
+        "word": "NATO",
+        "count": 8
+      }
+    ]
   }
 ]
