@@ -47700,5 +47700,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-21T06:00:31.158Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 18
+      },
+      {
+        "word": "Putin",
+        "count": 13
+      },
+      {
+        "word": "Ucraina",
+        "count": 8
+      }
+    ]
   }
 ]
