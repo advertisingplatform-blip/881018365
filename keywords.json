@@ -47836,5 +47836,22 @@
         "count": 6
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-21T14:00:29.419Z",
+    "keywords": [
+      {
+        "word": "Putin",
+        "count": 10
+      },
+      {
+        "word": "drone",
+        "count": 7
+      },
+      {
+        "word": "euro",
+        "count": 7
+      }
+    ]
   }
 ]
