@@ -47734,5 +47734,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-21T08:00:30.546Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 16
+      },
+      {
+        "word": "Putin",
+        "count": 14
+      },
+      {
+        "word": "dolari",
+        "count": 8
+      }
+    ]
   }
 ]
