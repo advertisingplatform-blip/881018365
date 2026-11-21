@@ -47751,5 +47751,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-21T09:00:33.474Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 14
+      },
+      {
+        "word": "Putin",
+        "count": 11
+      },
+      {
+        "word": "ajuns",
+        "count": 8
+      }
+    ]
   }
 ]
