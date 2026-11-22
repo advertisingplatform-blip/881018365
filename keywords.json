@@ -48346,5 +48346,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-22T20:00:50.710Z",
+    "keywords": [
+      {
+        "word": "Brașov",
+        "count": 9
+      },
+      {
+        "word": "Europa",
+        "count": 8
+      },
+      {
+        "word": "privind",
+        "count": 8
+      }
+    ]
   }
 ]
