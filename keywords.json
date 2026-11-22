@@ -48227,5 +48227,22 @@
         "count": 8
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-22T13:00:30.191Z",
+    "keywords": [
+      {
+        "word": "lovit",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 8
+      },
+      {
+        "word": "Georgescu",
+        "count": 7
+      }
+    ]
   }
 ]
