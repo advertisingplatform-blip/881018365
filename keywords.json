@@ -48125,5 +48125,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-22T07:00:31.321Z",
+    "keywords": [
+      {
+        "word": "Gheorghe",
+        "count": 9
+      },
+      {
+        "word": "Calciu",
+        "count": 9
+      },
+      {
+        "word": "drone",
+        "count": 8
+      }
+    ]
   }
 ]
