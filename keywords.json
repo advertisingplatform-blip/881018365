@@ -48210,5 +48210,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-22T12:01:29.898Z",
+    "keywords": [
+      {
+        "word": "Georgescu",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "atac",
+        "count": 8
+      }
+    ]
   }
 ]
