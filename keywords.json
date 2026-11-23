@@ -48635,5 +48635,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-23T13:01:02.041Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 11
+      },
+      {
+        "word": "României",
+        "count": 10
+      },
+      {
+        "word": "luni",
+        "count": 10
+      }
+    ]
   }
 ]
