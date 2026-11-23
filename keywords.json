@@ -48567,5 +48567,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-23T09:00:31.171Z",
+    "keywords": [
+      {
+        "word": "Brașov",
+        "count": 10
+      },
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "Călin",
+        "count": 8
+      }
+    ]
   }
 ]
