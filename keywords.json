@@ -48941,5 +48941,22 @@
         "count": 12
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-24T07:01:00.981Z",
+    "keywords": [
+      {
+        "word": "Trump",
+        "count": 12
+      },
+      {
+        "word": "Nvidia",
+        "count": 11
+      },
+      {
+        "word": "Georgescu",
+        "count": 11
+      }
+    ]
   }
 ]
