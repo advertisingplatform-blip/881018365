@@ -49009,5 +49009,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-24T11:00:39.278Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 14
+      },
+      {
+        "word": "Georgescu",
+        "count": 13
+      },
+      {
+        "word": "Nvidia",
+        "count": 10
+      }
+    ]
   }
 ]
