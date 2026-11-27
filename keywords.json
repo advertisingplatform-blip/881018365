@@ -50165,5 +50165,22 @@
         "count": 10
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-27T07:01:02.878Z",
+    "keywords": [
+      {
+        "word": "Simion",
+        "count": 10
+      },
+      {
+        "word": "Ucraina",
+        "count": 9
+      },
+      {
+        "word": "București",
+        "count": 8
+      }
+    ]
   }
 ]
