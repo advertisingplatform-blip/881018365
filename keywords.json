@@ -50624,5 +50624,22 @@
         "count": 9
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-28T11:00:32.832Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 9
+      },
+      {
+        "word": "zăpadă",
+        "count": 5
+      },
+      {
+        "word": "viscol",
+        "count": 5
+      }
+    ]
   }
 ]
