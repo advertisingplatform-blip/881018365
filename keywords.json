@@ -50556,5 +50556,22 @@
         "count": 7
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-28T07:00:34.865Z",
+    "keywords": [
+      {
+        "word": "București",
+        "count": 10
+      },
+      {
+        "word": "Crăciun",
+        "count": 9
+      },
+      {
+        "word": "României",
+        "count": 8
+      }
+    ]
   }
 ]
